@@ -6,25 +6,25 @@ import yaml
 def printDivider(dividerText):
     print(f"\n{dividerText}")
     print(f"{'-'*len(dividerText)}\n")
-    
+
 def loadEnv():
     with open(f"{os.getcwd()}/.env", "r") as f:
         envs = f.readlines()
-        
+
     return {envx.strip().split('=')[0]: envx.strip().split('=')[1] for envx in envs}
 
 def getQuestions(companies, scrapeNew):
     fileName = '&'.join(companies)
     if len(fileName) == 0: fileName = 'all'
     fileName = os.getcwd() + '/questions/' + fileName
-        
+
     if scrapeNew:
         env = loadEnv()
         sessionToken = env.get('LEETCODE_SESSION', None)
-        
+
         if sessionToken is None:
             raise ValueError("No session token found. Ensure .env file is configured correctly.")
-            
+
         cookies = {'LEETCODE_SESSION': sessionToken}
         query = """
             query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {
@@ -58,7 +58,7 @@ def getQuestions(companies, scrapeNew):
         """
 
         json_data = {
-            'query': query, 
+            'query': query,
             'variables': {'categorySlug': 'all-code-essentials', 'skip': 0, 'limit': 10000, 'filters': {'companies': companies}},
         }
 
@@ -76,13 +76,12 @@ def getQuestions(companies, scrapeNew):
         except FileNotFoundError:
             print(f"{fileName}.json not found in project directory.")
             return None
-        
+
     return questions
 
 def getTopicsOfInterest():
     configFile = os.getcwd() + '/config.yaml'
     with open(configFile, 'r') as f:
-        topics = yaml.load(f)
-        
+        topics = yaml.load(f, Loader=yaml.SafeLoader)
+
     return set(topics['Interested Topics'])
-        

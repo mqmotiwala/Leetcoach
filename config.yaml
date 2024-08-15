@@ -7,7 +7,6 @@ Interested Topics:
     - Math
     - String
     - Sliding Window
-    - Binary Search
     - Divide and Conquer
     - Two Pointers
     - String Matching
@@ -19,8 +18,9 @@ Interested Topics:
     - Hash Function
     - Prefix Sum
     - Brainteaser
-    
+
 Skip Topics:
+  - Binary Search
   - Recursion
   - Linked List
   - Dynamic Programming
