@@ -1,1 +1,37 @@
-[{"acRate": 57.421681494838204, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2492", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Score of a Path Between Two Cities", "titleSlug": "minimum-score-of-a-path-between-two-cities", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 57.421681494838204,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2492",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Score of a Path Between Two Cities",
+        "titleSlug": "minimum-score-of-a-path-between-two-cities",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

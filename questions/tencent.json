@@ -1,1 +1,57 @@
-[{"acRate": 47.900469732323906, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "546", "isFavor": false, "paidOnly": false, "status": null, "title": "Remove Boxes", "titleSlug": "remove-boxes", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Memoization", "id": "VG9waWNUYWdOb2RlOjMz", "slug": "memoization"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 33.66231623604278, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "625", "isFavor": false, "paidOnly": true, "status": null, "title": "Minimum Factorization", "titleSlug": "minimum-factorization", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": true, "hasVideoSolution": true}]
+[
+    {
+        "acRate": 47.900469732323906,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "546",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Remove Boxes",
+        "titleSlug": "remove-boxes",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Memoization",
+                "id": "VG9waWNUYWdOb2RlOjMz",
+                "slug": "memoization"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 33.66231623604278,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "625",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Minimum Factorization",
+        "titleSlug": "minimum-factorization",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    }
+]

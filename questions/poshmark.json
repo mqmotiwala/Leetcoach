@@ -1,1 +1,72 @@
-[{"acRate": 57.13481994037447, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1158", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Market Analysis I", "titleSlug": "market-analysis-i", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 57.10208884966167, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1159", "isFavor": false, "paidOnly": true, "status": null, "title": "Market Analysis II", "titleSlug": "market-analysis-ii", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 52.60194294907493, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2257", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Unguarded Cells in the Grid", "titleSlug": "count-unguarded-cells-in-the-grid", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 57.13481994037447,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1158",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Market Analysis I",
+        "titleSlug": "market-analysis-i",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 57.10208884966167,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1159",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Market Analysis II",
+        "titleSlug": "market-analysis-ii",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 52.60194294907493,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2257",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Unguarded Cells in the Grid",
+        "titleSlug": "count-unguarded-cells-in-the-grid",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

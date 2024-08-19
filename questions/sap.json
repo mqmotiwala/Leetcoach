@@ -1,1 +1,472 @@
-[{"acRate": 53.40590188617716, "difficulty": "Easy", "freqBar": 29.939929510043804, "frontendQuestionId": "1", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Two Sum", "titleSlug": "two-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.50752141490899, "difficulty": "Easy", "freqBar": 55.2599822899246, "frontendQuestionId": "14", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Longest Common Prefix", "titleSlug": "longest-common-prefix", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 40.8620926088271, "difficulty": "Easy", "freqBar": 30.648784360735377, "frontendQuestionId": "20", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Parentheses", "titleSlug": "valid-parentheses", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 39.1978878832966, "difficulty": "Easy", "freqBar": 50.497481160508464, "frontendQuestionId": "69", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Sqrt(x)", "titleSlug": "sqrtx", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 75.90978274002723, "difficulty": "Easy", "freqBar": 44.16549287765058, "frontendQuestionId": "104", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Depth of Binary Tree", "titleSlug": "maximum-depth-of-binary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 54.00280423060114, "difficulty": "Easy", "freqBar": 27.540348742135983, "frontendQuestionId": "121", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Best Time to Buy and Sell Stock", "titleSlug": "best-time-to-buy-and-sell-stock", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 47.35748388013549, "difficulty": "Medium", "freqBar": 44.568712117757045, "frontendQuestionId": "128", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Consecutive Sequence", "titleSlug": "longest-consecutive-sequence", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.022523884055715, "difficulty": "Medium", "freqBar": 60.62274032105442, "frontendQuestionId": "146", "isFavor": false, "paidOnly": false, "status": null, "title": "LRU Cache", "titleSlug": "lru-cache", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Doubly-Linked List", "id": "VG9waWNUYWdOb2RlOjYxMDU4", "slug": "doubly-linked-list"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 66.24844384782715, "difficulty": "Medium", "freqBar": 67.09160291187172, "frontendQuestionId": "739", "isFavor": false, "paidOnly": false, "status": null, "title": "Daily Temperatures", "titleSlug": "daily-temperatures", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 40.19852071627002, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1341", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Movie Rating", "titleSlug": "movie-rating", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 50.74835599726247, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1349", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Students Taking Exam", "titleSlug": "maximum-students-taking-exam", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}, {"name": "Bitmask", "id": "VG9waWNUYWdOb2RlOjYxMDc4", "slug": "bitmask"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 40.77394039847106, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1953", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Number of Weeks for Which You Can Work", "titleSlug": "maximum-number-of-weeks-for-which-you-can-work", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 58.811223555869354, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2065", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Path Quality of a Graph", "titleSlug": "maximum-path-quality-of-a-graph", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 37.34044316737581, "difficulty": "Hard", "freqBar": 94.6319516540077, "frontendQuestionId": "2127", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Employees to Be Invited to a Meeting", "titleSlug": "maximum-employees-to-be-invited-to-a-meeting", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Topological Sort", "id": "VG9waWNUYWdOb2RlOjI2", "slug": "topological-sort"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 33.43402740317186, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2552", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Increasing Quadruplets", "titleSlug": "count-increasing-quadruplets", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Binary Indexed Tree", "id": "VG9waWNUYWdOb2RlOjI4", "slug": "binary-indexed-tree"}, {"name": "Enumeration", "id": "VG9waWNUYWdOb2RlOjYxMDY2", "slug": "enumeration"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 36.650121205125245, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2954", "isFavor": false, "paidOnly": false, "status": null, "title": "Count the Number of Infection Sequences", "titleSlug": "count-the-number-of-infection-sequences", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Combinatorics", "id": "VG9waWNUYWdOb2RlOjYxMDU2", "slug": "combinatorics"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 53.40590188617716,
+        "difficulty": "Easy",
+        "freqBar": 29.939929510043804,
+        "frontendQuestionId": "1",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.50752141490899,
+        "difficulty": "Easy",
+        "freqBar": 55.2599822899246,
+        "frontendQuestionId": "14",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 40.8620926088271,
+        "difficulty": "Easy",
+        "freqBar": 30.648784360735377,
+        "frontendQuestionId": "20",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Parentheses",
+        "titleSlug": "valid-parentheses",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 39.1978878832966,
+        "difficulty": "Easy",
+        "freqBar": 50.497481160508464,
+        "frontendQuestionId": "69",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Sqrt(x)",
+        "titleSlug": "sqrtx",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 75.90978274002723,
+        "difficulty": "Easy",
+        "freqBar": 44.16549287765058,
+        "frontendQuestionId": "104",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Depth of Binary Tree",
+        "titleSlug": "maximum-depth-of-binary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 54.00280423060114,
+        "difficulty": "Easy",
+        "freqBar": 27.540348742135983,
+        "frontendQuestionId": "121",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Best Time to Buy and Sell Stock",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 47.35748388013549,
+        "difficulty": "Medium",
+        "freqBar": 44.568712117757045,
+        "frontendQuestionId": "128",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Consecutive Sequence",
+        "titleSlug": "longest-consecutive-sequence",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.022523884055715,
+        "difficulty": "Medium",
+        "freqBar": 60.62274032105442,
+        "frontendQuestionId": "146",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+                "slug": "doubly-linked-list"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.24844384782715,
+        "difficulty": "Medium",
+        "freqBar": 67.09160291187172,
+        "frontendQuestionId": "739",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Daily Temperatures",
+        "titleSlug": "daily-temperatures",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.19852071627002,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1341",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Movie Rating",
+        "titleSlug": "movie-rating",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 50.74835599726247,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1349",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Students Taking Exam",
+        "titleSlug": "maximum-students-taking-exam",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            },
+            {
+                "name": "Bitmask",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc4",
+                "slug": "bitmask"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.77394039847106,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1953",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Number of Weeks for Which You Can Work",
+        "titleSlug": "maximum-number-of-weeks-for-which-you-can-work",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 58.811223555869354,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2065",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Path Quality of a Graph",
+        "titleSlug": "maximum-path-quality-of-a-graph",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 37.34044316737581,
+        "difficulty": "Hard",
+        "freqBar": 94.6319516540077,
+        "frontendQuestionId": "2127",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "titleSlug": "maximum-employees-to-be-invited-to-a-meeting",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Topological Sort",
+                "id": "VG9waWNUYWdOb2RlOjI2",
+                "slug": "topological-sort"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 33.43402740317186,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2552",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Increasing Quadruplets",
+        "titleSlug": "count-increasing-quadruplets",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Binary Indexed Tree",
+                "id": "VG9waWNUYWdOb2RlOjI4",
+                "slug": "binary-indexed-tree"
+            },
+            {
+                "name": "Enumeration",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+                "slug": "enumeration"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 36.650121205125245,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2954",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count the Number of Infection Sequences",
+        "titleSlug": "count-the-number-of-infection-sequences",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Combinatorics",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+                "slug": "combinatorics"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

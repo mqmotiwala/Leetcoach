@@ -1,1 +1,27 @@
-[{"acRate": 58.35414813150452, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "724", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Find Pivot Index", "titleSlug": "find-pivot-index", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 58.35414813150452,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "724",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

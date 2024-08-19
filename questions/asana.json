@@ -1,1 +1,107 @@
-[{"acRate": 66.56028898325873, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "238", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Product of Array Except Self", "titleSlug": "product-of-array-except-self", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 66.72870727995014, "difficulty": "Medium", "freqBar": 50.0, "frontendQuestionId": "973", "isFavor": false, "paidOnly": false, "status": "ac", "title": "K Closest Points to Origin", "titleSlug": "k-closest-points-to-origin", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Geometry", "id": "VG9waWNUYWdOb2RlOjM4", "slug": "geometry"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Quickselect", "id": "VG9waWNUYWdOb2RlOjYxMDY5", "slug": "quickselect"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 38.914942780185676, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1668", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Repeating Substring", "titleSlug": "maximum-repeating-substring", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "String Matching", "id": "VG9waWNUYWdOb2RlOjYxMDUy", "slug": "string-matching"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 66.56028898325873,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "238",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 66.72870727995014,
+        "difficulty": "Medium",
+        "freqBar": 50.0,
+        "frontendQuestionId": "973",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "K Closest Points to Origin",
+        "titleSlug": "k-closest-points-to-origin",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Geometry",
+                "id": "VG9waWNUYWdOb2RlOjM4",
+                "slug": "geometry"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Quickselect",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY5",
+                "slug": "quickselect"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 38.914942780185676,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1668",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Repeating Substring",
+        "titleSlug": "maximum-repeating-substring",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "String Matching",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+                "slug": "string-matching"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

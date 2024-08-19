@@ -1,1 +1,27 @@
-[{"acRate": 65.63453842501526, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "696", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Binary Substrings", "titleSlug": "count-binary-substrings", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 65.63453842501526,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "696",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Binary Substrings",
+        "titleSlug": "count-binary-substrings",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

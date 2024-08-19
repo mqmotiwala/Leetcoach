@@ -1,1 +1,142 @@
-[{"acRate": 48.92889527040537, "difficulty": "Medium", "freqBar": 67.70858319674986, "frontendQuestionId": "6", "isFavor": false, "paidOnly": false, "status": null, "title": "Zigzag Conversion", "titleSlug": "zigzag-conversion", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 62.787270323181275, "difficulty": "Hard", "freqBar": 32.29141680325014, "frontendQuestionId": "42", "isFavor": false, "paidOnly": false, "status": null, "title": "Trapping Rain Water", "titleSlug": "trapping-rain-water", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.498116485870085, "difficulty": "Hard", "freqBar": 46.75689963860181, "frontendQuestionId": "76", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Window Substring", "titleSlug": "minimum-window-substring", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 53.56776069315667, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "592", "isFavor": false, "paidOnly": false, "status": null, "title": "Fraction Addition and Subtraction", "titleSlug": "fraction-addition-and-subtraction", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 58.318021499926076, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2074", "isFavor": false, "paidOnly": false, "status": null, "title": "Reverse Nodes in Even Length Groups", "titleSlug": "reverse-nodes-in-even-length-groups", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 48.92889527040537,
+        "difficulty": "Medium",
+        "freqBar": 67.70858319674986,
+        "frontendQuestionId": "6",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Zigzag Conversion",
+        "titleSlug": "zigzag-conversion",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 62.787270323181275,
+        "difficulty": "Hard",
+        "freqBar": 32.29141680325014,
+        "frontendQuestionId": "42",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Trapping Rain Water",
+        "titleSlug": "trapping-rain-water",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.498116485870085,
+        "difficulty": "Hard",
+        "freqBar": 46.75689963860181,
+        "frontendQuestionId": "76",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 53.56776069315667,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "592",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Fraction Addition and Subtraction",
+        "titleSlug": "fraction-addition-and-subtraction",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 58.318021499926076,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2074",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reverse Nodes in Even Length Groups",
+        "titleSlug": "reverse-nodes-in-even-length-groups",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

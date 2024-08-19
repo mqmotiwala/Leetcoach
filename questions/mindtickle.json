@@ -1,1 +1,162 @@
-[{"acRate": 70.15359104777887, "difficulty": "Medium", "freqBar": 50.0, "frontendQuestionId": "1011", "isFavor": false, "paidOnly": false, "status": null, "title": "Capacity To Ship Packages Within D Days", "titleSlug": "capacity-to-ship-packages-within-d-days", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.90209233568342, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1434", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Ways to Wear Different Hats to Each Other", "titleSlug": "number-of-ways-to-wear-different-hats-to-each-other", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Bitmask", "id": "VG9waWNUYWdOb2RlOjYxMDc4", "slug": "bitmask"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 27.026554602263626, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1488", "isFavor": false, "paidOnly": false, "status": null, "title": "Avoid Flood in The City", "titleSlug": "avoid-flood-in-the-city", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 39.53826237054085, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1537", "isFavor": false, "paidOnly": false, "status": null, "title": "Get the Maximum Score", "titleSlug": "get-the-maximum-score", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 48.82923063727592, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1982", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Array Given Subset Sums", "titleSlug": "find-array-given-subset-sums", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 70.15359104777887,
+        "difficulty": "Medium",
+        "freqBar": 50.0,
+        "frontendQuestionId": "1011",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Capacity To Ship Packages Within D Days",
+        "titleSlug": "capacity-to-ship-packages-within-d-days",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.90209233568342,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1434",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Ways to Wear Different Hats to Each Other",
+        "titleSlug": "number-of-ways-to-wear-different-hats-to-each-other",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Bitmask",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc4",
+                "slug": "bitmask"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 27.026554602263626,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1488",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Avoid Flood in The City",
+        "titleSlug": "avoid-flood-in-the-city",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 39.53826237054085,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1537",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Get the Maximum Score",
+        "titleSlug": "get-the-maximum-score",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.82923063727592,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1982",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Array Given Subset Sums",
+        "titleSlug": "find-array-given-subset-sums",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

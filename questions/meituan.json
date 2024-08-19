@@ -1,1 +1,27 @@
-[{"acRate": 70.74789792004721, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2980", "isFavor": false, "paidOnly": false, "status": null, "title": "Check if Bitwise OR Has Trailing Zeros", "titleSlug": "check-if-bitwise-or-has-trailing-zeros", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 70.74789792004721,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2980",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Check if Bitwise OR Has Trailing Zeros",
+        "titleSlug": "check-if-bitwise-or-has-trailing-zeros",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

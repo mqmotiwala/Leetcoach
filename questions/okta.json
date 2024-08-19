@@ -1,1 +1,92 @@
-[{"acRate": 47.797666677081224, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "56", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Merge Intervals", "titleSlug": "merge-intervals", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 47.28144421359542, "difficulty": "Medium", "freqBar": 55.80267720169469, "frontendQuestionId": "207", "isFavor": false, "paidOnly": false, "status": null, "title": "Course Schedule", "titleSlug": "course-schedule", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Topological Sort", "id": "VG9waWNUYWdOb2RlOjI2", "slug": "topological-sort"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 66.24844384782715, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "739", "isFavor": false, "paidOnly": false, "status": null, "title": "Daily Temperatures", "titleSlug": "daily-temperatures", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 47.797666677081224,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "56",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 47.28144421359542,
+        "difficulty": "Medium",
+        "freqBar": 55.80267720169469,
+        "frontendQuestionId": "207",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Course Schedule",
+        "titleSlug": "course-schedule",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Topological Sort",
+                "id": "VG9waWNUYWdOb2RlOjI2",
+                "slug": "topological-sort"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.24844384782715,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "739",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Daily Temperatures",
+        "titleSlug": "daily-temperatures",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

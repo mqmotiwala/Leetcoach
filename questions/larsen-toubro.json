@@ -1,1 +1,47 @@
-[{"acRate": 74.39003669974174, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3079", "isFavor": false, "paidOnly": false, "status": null, "title": "Find the Sum of Encrypted Integers", "titleSlug": "find-the-sum-of-encrypted-integers", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 56.95263105313486, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3105", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Longest Strictly Increasing or Strictly Decreasing Subarray", "titleSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 74.39003669974174,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3079",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find the Sum of Encrypted Integers",
+        "titleSlug": "find-the-sum-of-encrypted-integers",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 56.95263105313486,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3105",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+        "titleSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,147 @@
-[{"acRate": 66.43608689022277, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1399", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Largest Group", "titleSlug": "count-largest-group", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 72.69991028275403, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1403", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Subsequence in Non-Increasing Order", "titleSlug": "minimum-subsequence-in-non-increasing-order", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 41.06240014007748, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1432", "isFavor": false, "paidOnly": false, "status": null, "title": "Max Difference You Can Get From Changing an Integer", "titleSlug": "max-difference-you-can-get-from-changing-an-integer", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 71.76736210345813, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1598", "isFavor": false, "paidOnly": false, "status": null, "title": "Crawler Log Folder", "titleSlug": "crawler-log-folder", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 39.3057026168507, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2598", "isFavor": false, "paidOnly": false, "status": null, "title": "Smallest Missing Non-negative Integer After Operations", "titleSlug": "smallest-missing-non-negative-integer-after-operations", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 66.43608689022277,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1399",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Largest Group",
+        "titleSlug": "count-largest-group",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.69991028275403,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1403",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Subsequence in Non-Increasing Order",
+        "titleSlug": "minimum-subsequence-in-non-increasing-order",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 41.06240014007748,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1432",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Max Difference You Can Get From Changing an Integer",
+        "titleSlug": "max-difference-you-can-get-from-changing-an-integer",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 71.76736210345813,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1598",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Crawler Log Folder",
+        "titleSlug": "crawler-log-folder",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 39.3057026168507,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2598",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Smallest Missing Non-negative Integer After Operations",
+        "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

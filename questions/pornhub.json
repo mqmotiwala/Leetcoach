@@ -1,1 +1,57 @@
-[{"acRate": 41.061699219723266, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "4", "isFavor": false, "paidOnly": false, "status": null, "title": "Median of Two Sorted Arrays", "titleSlug": "median-of-two-sorted-arrays", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.50752141490899, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "14", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Longest Common Prefix", "titleSlug": "longest-common-prefix", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": true, "hasVideoSolution": true}]
+[
+    {
+        "acRate": 41.061699219723266,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "4",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Median of Two Sorted Arrays",
+        "titleSlug": "median-of-two-sorted-arrays",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.50752141490899,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "14",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    }
+]

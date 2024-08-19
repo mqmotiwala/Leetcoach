@@ -1,1 +1,62 @@
-[{"acRate": 44.027649562065164, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1367", "isFavor": false, "paidOnly": false, "status": null, "title": "Linked List in Binary Tree", "titleSlug": "linked-list-in-binary-tree", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 51.35171807410705, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1752", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Check if Array Is Sorted and Rotated", "titleSlug": "check-if-array-is-sorted-and-rotated", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 44.027649562065164,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1367",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Linked List in Binary Tree",
+        "titleSlug": "linked-list-in-binary-tree",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.35171807410705,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1752",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Check if Array Is Sorted and Rotated",
+        "titleSlug": "check-if-array-is-sorted-and-rotated",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

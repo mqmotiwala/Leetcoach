@@ -1,1 +1,172 @@
-[{"acRate": 53.86503067484662, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "435", "isFavor": false, "paidOnly": false, "status": null, "title": "Non-overlapping Intervals", "titleSlug": "non-overlapping-intervals", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 38.829370818660216, "difficulty": "Hard", "freqBar": 84.96450908062967, "frontendQuestionId": "843", "isFavor": false, "paidOnly": false, "status": null, "title": "Guess the Word", "titleSlug": "guess-the-word", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Interactive", "id": "VG9waWNUYWdOb2RlOjYxMDU5", "slug": "interactive"}, {"name": "Game Theory", "id": "VG9waWNUYWdOb2RlOjYxMDcz", "slug": "game-theory"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 71.82762365551629, "difficulty": "Medium", "freqBar": 28.151115984719237, "frontendQuestionId": "986", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Interval List Intersections", "titleSlug": "interval-list-intersections", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 36.896677207039396, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1146", "isFavor": false, "paidOnly": false, "status": null, "title": "Snapshot Array", "titleSlug": "snapshot-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 54.35289043016256, "difficulty": "Hard", "freqBar": 25.246661228528573, "frontendQuestionId": "1235", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Profit in Job Scheduling", "titleSlug": "maximum-profit-in-job-scheduling", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 53.86503067484662,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "435",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Non-overlapping Intervals",
+        "titleSlug": "non-overlapping-intervals",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 38.829370818660216,
+        "difficulty": "Hard",
+        "freqBar": 84.96450908062967,
+        "frontendQuestionId": "843",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Guess the Word",
+        "titleSlug": "guess-the-word",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Interactive",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU5",
+                "slug": "interactive"
+            },
+            {
+                "name": "Game Theory",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcz",
+                "slug": "game-theory"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 71.82762365551629,
+        "difficulty": "Medium",
+        "freqBar": 28.151115984719237,
+        "frontendQuestionId": "986",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Interval List Intersections",
+        "titleSlug": "interval-list-intersections",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 36.896677207039396,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1146",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Snapshot Array",
+        "titleSlug": "snapshot-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 54.35289043016256,
+        "difficulty": "Hard",
+        "freqBar": 25.246661228528573,
+        "frontendQuestionId": "1235",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Profit in Job Scheduling",
+        "titleSlug": "maximum-profit-in-job-scheduling",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

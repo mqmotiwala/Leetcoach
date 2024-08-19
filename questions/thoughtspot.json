@@ -1,1 +1,152 @@
-[{"acRate": 44.62583811127721, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "735", "isFavor": false, "paidOnly": false, "status": null, "title": "Asteroid Collision", "titleSlug": "asteroid-collision", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 58.97069962128762, "difficulty": "Medium", "freqBar": 41.5566766354901, "frontendQuestionId": "947", "isFavor": false, "paidOnly": false, "status": null, "title": "Most Stones Removed with Same Row or Column", "titleSlug": "most-stones-removed-with-same-row-or-column", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 55.45590757400333, "difficulty": "Medium", "freqBar": 27.71830935912167, "frontendQuestionId": "974", "isFavor": false, "paidOnly": false, "status": null, "title": "Subarray Sums Divisible by K", "titleSlug": "subarray-sums-divisible-by-k", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 68.09868073032717, "difficulty": "Easy", "freqBar": 76.16737324055221, "frontendQuestionId": "2062", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Vowel Substrings of a String", "titleSlug": "count-vowel-substrings-of-a-string", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 44.429053454093406, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "2488", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Subarrays With Median K", "titleSlug": "count-subarrays-with-median-k", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 44.62583811127721,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "735",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Asteroid Collision",
+        "titleSlug": "asteroid-collision",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 58.97069962128762,
+        "difficulty": "Medium",
+        "freqBar": 41.5566766354901,
+        "frontendQuestionId": "947",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Most Stones Removed with Same Row or Column",
+        "titleSlug": "most-stones-removed-with-same-row-or-column",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 55.45590757400333,
+        "difficulty": "Medium",
+        "freqBar": 27.71830935912167,
+        "frontendQuestionId": "974",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Subarray Sums Divisible by K",
+        "titleSlug": "subarray-sums-divisible-by-k",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 68.09868073032717,
+        "difficulty": "Easy",
+        "freqBar": 76.16737324055221,
+        "frontendQuestionId": "2062",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Vowel Substrings of a String",
+        "titleSlug": "count-vowel-substrings-of-a-string",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.429053454093406,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "2488",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Subarrays With Median K",
+        "titleSlug": "count-subarrays-with-median-k",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

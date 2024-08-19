@@ -1,1 +1,92 @@
-[{"acRate": 34.25521541599375, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "5", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Palindromic Substring", "titleSlug": "longest-palindromic-substring", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.022523884055715, "difficulty": "Medium", "freqBar": 28.13475585457748, "frontendQuestionId": "146", "isFavor": false, "paidOnly": false, "status": null, "title": "LRU Cache", "titleSlug": "lru-cache", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Doubly-Linked List", "id": "VG9waWNUYWdOb2RlOjYxMDU4", "slug": "doubly-linked-list"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 50.17856478553625, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "1360", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Days Between Two Dates", "titleSlug": "number-of-days-between-two-dates", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 34.25521541599375,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "5",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Palindromic Substring",
+        "titleSlug": "longest-palindromic-substring",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.022523884055715,
+        "difficulty": "Medium",
+        "freqBar": 28.13475585457748,
+        "frontendQuestionId": "146",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+                "slug": "doubly-linked-list"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 50.17856478553625,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1360",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Days Between Two Dates",
+        "titleSlug": "number-of-days-between-two-dates",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

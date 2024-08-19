@@ -1,1 +1,77 @@
-[{"acRate": 58.20629711354294, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "799", "isFavor": false, "paidOnly": false, "status": null, "title": "Champagne Tower", "titleSlug": "champagne-tower", "topicTags": [{"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 36.47821630694732, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "880", "isFavor": false, "paidOnly": false, "status": null, "title": "Decoded String at Index", "titleSlug": "decoded-string-at-index", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.85372906684064, "difficulty": "Medium", "freqBar": 50.0, "frontendQuestionId": "909", "isFavor": false, "paidOnly": false, "status": null, "title": "Snakes and Ladders", "titleSlug": "snakes-and-ladders", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 58.20629711354294,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "799",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Champagne Tower",
+        "titleSlug": "champagne-tower",
+        "topicTags": [
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 36.47821630694732,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "880",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Decoded String at Index",
+        "titleSlug": "decoded-string-at-index",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.85372906684064,
+        "difficulty": "Medium",
+        "freqBar": 50.0,
+        "frontendQuestionId": "909",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Snakes and Ladders",
+        "titleSlug": "snakes-and-ladders",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

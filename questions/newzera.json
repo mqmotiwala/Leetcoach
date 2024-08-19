@@ -1,1 +1,22 @@
-[{"acRate": 33.299371466291646, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "780", "isFavor": false, "paidOnly": false, "status": null, "title": "Reaching Points", "titleSlug": "reaching-points", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 33.299371466291646,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "780",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reaching Points",
+        "titleSlug": "reaching-points",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

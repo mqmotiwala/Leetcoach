@@ -1,1 +1,152 @@
-[{"acRate": 35.239249783860515, "difficulty": "Medium", "freqBar": 35.09036793674292, "frontendQuestionId": "3", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Substring Without Repeating Characters", "titleSlug": "longest-substring-without-repeating-characters", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 35.10776342687448, "difficulty": "Medium", "freqBar": 40.00374442564089, "frontendQuestionId": "15", "isFavor": false, "paidOnly": false, "status": null, "title": "3Sum", "titleSlug": "3sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 65.0219186248903, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "413", "isFavor": false, "paidOnly": false, "status": null, "title": "Arithmetic Slices", "titleSlug": "arithmetic-slices", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 57.49562277365211, "difficulty": "Medium", "freqBar": 75.09411236238381, "frontendQuestionId": "1405", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Happy String", "titleSlug": "longest-happy-string", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 28.92907239129109, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1862", "isFavor": false, "paidOnly": false, "status": null, "title": "Sum of Floored Pairs", "titleSlug": "sum-of-floored-pairs", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 35.239249783860515,
+        "difficulty": "Medium",
+        "freqBar": 35.09036793674292,
+        "frontendQuestionId": "3",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 35.10776342687448,
+        "difficulty": "Medium",
+        "freqBar": 40.00374442564089,
+        "frontendQuestionId": "15",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "3Sum",
+        "titleSlug": "3sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 65.0219186248903,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "413",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Arithmetic Slices",
+        "titleSlug": "arithmetic-slices",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 57.49562277365211,
+        "difficulty": "Medium",
+        "freqBar": 75.09411236238381,
+        "frontendQuestionId": "1405",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Happy String",
+        "titleSlug": "longest-happy-string",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 28.92907239129109,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1862",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sum of Floored Pairs",
+        "titleSlug": "sum-of-floored-pairs",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

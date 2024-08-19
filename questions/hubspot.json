@@ -1,1 +1,57 @@
-[{"acRate": 64.99927111603304, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "21", "isFavor": false, "paidOnly": false, "status": null, "title": "Merge Two Sorted Lists", "titleSlug": "merge-two-sorted-lists", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 50.643898658562605, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "88", "isFavor": false, "paidOnly": false, "status": null, "title": "Merge Sorted Array", "titleSlug": "merge-sorted-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}]
+[
+    {
+        "acRate": 64.99927111603304,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "21",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 50.643898658562605,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "88",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Merge Sorted Array",
+        "titleSlug": "merge-sorted-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    }
+]

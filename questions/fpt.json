@@ -1,1 +1,27 @@
-[{"acRate": 64.54534524906825, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2177", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Three Consecutive Integers That Sum to a Given Number", "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 64.54534524906825,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2177",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Three Consecutive Integers That Sum to a Given Number",
+        "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

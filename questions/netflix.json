@@ -1,1 +1,632 @@
-[{"acRate": 40.8620926088271, "difficulty": "Easy", "freqBar": 0.3516034688896851, "frontendQuestionId": "20", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Parentheses", "titleSlug": "valid-parentheses", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 39.81899898086002, "difficulty": "Hard", "freqBar": 65.33419713767617, "frontendQuestionId": "41", "isFavor": false, "paidOnly": false, "status": null, "title": "First Missing Positive", "titleSlug": "first-missing-positive", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.797666677081224, "difficulty": "Medium", "freqBar": 61.684845435279115, "frontendQuestionId": "56", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Merge Intervals", "titleSlug": "merge-intervals", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.022523884055715, "difficulty": "Medium", "freqBar": 34.12694168130345, "frontendQuestionId": "146", "isFavor": false, "paidOnly": false, "status": null, "title": "LRU Cache", "titleSlug": "lru-cache", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Doubly-Linked List", "id": "VG9waWNUYWdOb2RlOjYxMDU4", "slug": "doubly-linked-list"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 67.00067450214698, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "215", "isFavor": false, "paidOnly": false, "status": null, "title": "Kth Largest Element in an Array", "titleSlug": "kth-largest-element-in-an-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Quickselect", "id": "VG9waWNUYWdOb2RlOjYxMDY5", "slug": "quickselect"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 51.303946787008584, "difficulty": "Easy", "freqBar": 24.12806522190172, "frontendQuestionId": "228", "isFavor": false, "paidOnly": false, "status": null, "title": "Summary Ranges", "titleSlug": "summary-ranges", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 66.79483144061545, "difficulty": "Easy", "freqBar": 24.84184686099951, "frontendQuestionId": "232", "isFavor": false, "paidOnly": false, "status": null, "title": "Implement Queue using Stacks", "titleSlug": "implement-queue-using-stacks", "topicTags": [{"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.446580223917074, "difficulty": "Medium", "freqBar": 32.60050330756106, "frontendQuestionId": "253", "isFavor": false, "paidOnly": true, "status": null, "title": "Meeting Rooms II", "titleSlug": "meeting-rooms-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.25947042054839, "difficulty": "Hard", "freqBar": 93.83968685255776, "frontendQuestionId": "332", "isFavor": false, "paidOnly": false, "status": null, "title": "Reconstruct Itinerary", "titleSlug": "reconstruct-itinerary", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Eulerian Circuit", "id": "VG9waWNUYWdOb2RlOjYxMDc0", "slug": "eulerian-circuit"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 64.69272093154076, "difficulty": "Medium", "freqBar": 90.70741007184748, "frontendQuestionId": "341", "isFavor": false, "paidOnly": false, "status": null, "title": "Flatten Nested List Iterator", "titleSlug": "flatten-nested-list-iterator", "topicTags": [{"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}, {"name": "Iterator", "id": "VG9waWNUYWdOb2RlOjYxMDY0", "slug": "iterator"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 63.1245153042593, "difficulty": "Medium", "freqBar": 48.301081811035274, "frontendQuestionId": "347", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Top K Frequent Elements", "titleSlug": "top-k-frequent-elements", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Bucket Sort", "id": "VG9waWNUYWdOb2RlOjYxMDYw", "slug": "bucket-sort"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}, {"name": "Quickselect", "id": "VG9waWNUYWdOb2RlOjYxMDY5", "slug": "quickselect"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 76.05144975933304, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "359", "isFavor": false, "paidOnly": true, "status": null, "title": "Logger Rate Limiter", "titleSlug": "logger-rate-limiter", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Data Stream", "id": "VG9waWNUYWdOb2RlOjYxMDYz", "slug": "data-stream"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 54.58275087813783, "difficulty": "Medium", "freqBar": 45.87098978511873, "frontendQuestionId": "380", "isFavor": false, "paidOnly": false, "status": null, "title": "Insert Delete GetRandom O(1)", "titleSlug": "insert-delete-getrandom-o1", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Randomized", "id": "VG9waWNUYWdOb2RlOjYxMDc1", "slug": "randomized"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.10707145013754, "difficulty": "Medium", "freqBar": 99.50247642692017, "frontendQuestionId": "528", "isFavor": false, "paidOnly": false, "status": null, "title": "Random Pick with Weight", "titleSlug": "random-pick-with-weight", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}, {"name": "Randomized", "id": "VG9waWNUYWdOb2RlOjYxMDc1", "slug": "randomized"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 67.64995604793647, "difficulty": "Medium", "freqBar": 89.49416758332619, "frontendQuestionId": "609", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Duplicate File in System", "titleSlug": "find-duplicate-file-in-system", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 58.31435499443548, "difficulty": "Medium", "freqBar": 57.06010148820179, "frontendQuestionId": "692", "isFavor": false, "paidOnly": false, "status": null, "title": "Top K Frequent Words", "titleSlug": "top-k-frequent-words", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Bucket Sort", "id": "VG9waWNUYWdOb2RlOjYxMDYw", "slug": "bucket-sort"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 66.24844384782715, "difficulty": "Medium", "freqBar": 38.89624759212374, "frontendQuestionId": "739", "isFavor": false, "paidOnly": false, "status": null, "title": "Daily Temperatures", "titleSlug": "daily-temperatures", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.29382711917236, "difficulty": "Medium", "freqBar": 52.47137525628168, "frontendQuestionId": "981", "isFavor": false, "paidOnly": false, "status": null, "title": "Time Based Key-Value Store", "titleSlug": "time-based-key-value-store", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 40.8620926088271,
+        "difficulty": "Easy",
+        "freqBar": 0.3516034688896851,
+        "frontendQuestionId": "20",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Parentheses",
+        "titleSlug": "valid-parentheses",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 39.81899898086002,
+        "difficulty": "Hard",
+        "freqBar": 65.33419713767617,
+        "frontendQuestionId": "41",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.797666677081224,
+        "difficulty": "Medium",
+        "freqBar": 61.684845435279115,
+        "frontendQuestionId": "56",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.022523884055715,
+        "difficulty": "Medium",
+        "freqBar": 34.12694168130345,
+        "frontendQuestionId": "146",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+                "slug": "doubly-linked-list"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 67.00067450214698,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "215",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Quickselect",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY5",
+                "slug": "quickselect"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 51.303946787008584,
+        "difficulty": "Easy",
+        "freqBar": 24.12806522190172,
+        "frontendQuestionId": "228",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Summary Ranges",
+        "titleSlug": "summary-ranges",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.79483144061545,
+        "difficulty": "Easy",
+        "freqBar": 24.84184686099951,
+        "frontendQuestionId": "232",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Implement Queue using Stacks",
+        "titleSlug": "implement-queue-using-stacks",
+        "topicTags": [
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.446580223917074,
+        "difficulty": "Medium",
+        "freqBar": 32.60050330756106,
+        "frontendQuestionId": "253",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Meeting Rooms II",
+        "titleSlug": "meeting-rooms-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.25947042054839,
+        "difficulty": "Hard",
+        "freqBar": 93.83968685255776,
+        "frontendQuestionId": "332",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reconstruct Itinerary",
+        "titleSlug": "reconstruct-itinerary",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Eulerian Circuit",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc0",
+                "slug": "eulerian-circuit"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 64.69272093154076,
+        "difficulty": "Medium",
+        "freqBar": 90.70741007184748,
+        "frontendQuestionId": "341",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Flatten Nested List Iterator",
+        "titleSlug": "flatten-nested-list-iterator",
+        "topicTags": [
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            },
+            {
+                "name": "Iterator",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY0",
+                "slug": "iterator"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.1245153042593,
+        "difficulty": "Medium",
+        "freqBar": 48.301081811035274,
+        "frontendQuestionId": "347",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Bucket Sort",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYw",
+                "slug": "bucket-sort"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            },
+            {
+                "name": "Quickselect",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY5",
+                "slug": "quickselect"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 76.05144975933304,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "359",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Logger Rate Limiter",
+        "titleSlug": "logger-rate-limiter",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Data Stream",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYz",
+                "slug": "data-stream"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 54.58275087813783,
+        "difficulty": "Medium",
+        "freqBar": 45.87098978511873,
+        "frontendQuestionId": "380",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Insert Delete GetRandom O(1)",
+        "titleSlug": "insert-delete-getrandom-o1",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Randomized",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc1",
+                "slug": "randomized"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.10707145013754,
+        "difficulty": "Medium",
+        "freqBar": 99.50247642692017,
+        "frontendQuestionId": "528",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Random Pick with Weight",
+        "titleSlug": "random-pick-with-weight",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            },
+            {
+                "name": "Randomized",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc1",
+                "slug": "randomized"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 67.64995604793647,
+        "difficulty": "Medium",
+        "freqBar": 89.49416758332619,
+        "frontendQuestionId": "609",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Duplicate File in System",
+        "titleSlug": "find-duplicate-file-in-system",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 58.31435499443548,
+        "difficulty": "Medium",
+        "freqBar": 57.06010148820179,
+        "frontendQuestionId": "692",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Top K Frequent Words",
+        "titleSlug": "top-k-frequent-words",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Bucket Sort",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYw",
+                "slug": "bucket-sort"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.24844384782715,
+        "difficulty": "Medium",
+        "freqBar": 38.89624759212374,
+        "frontendQuestionId": "739",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Daily Temperatures",
+        "titleSlug": "daily-temperatures",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.29382711917236,
+        "difficulty": "Medium",
+        "freqBar": 52.47137525628168,
+        "frontendQuestionId": "981",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Time Based Key-Value Store",
+        "titleSlug": "time-based-key-value-store",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

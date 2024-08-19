@@ -1,1 +1,117 @@
-[{"acRate": 53.40590188617716, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "1", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Two Sum", "titleSlug": "two-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 28.985741269030452, "difficulty": "Medium", "freqBar": 45.04903355331302, "frontendQuestionId": "7", "isFavor": false, "paidOnly": false, "status": null, "title": "Reverse Integer", "titleSlug": "reverse-integer", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 57.20696316601733, "difficulty": "Easy", "freqBar": 87.26743050854738, "frontendQuestionId": "9", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Palindrome Number", "titleSlug": "palindrome-number", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 53.05352006170183, "difficulty": "Easy", "freqBar": 42.21839695523437, "frontendQuestionId": "70", "isFavor": false, "paidOnly": false, "status": null, "title": "Climbing Stairs", "titleSlug": "climbing-stairs", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Memoization", "id": "VG9waWNUYWdOb2RlOjMz", "slug": "memoization"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 50.615749632809845, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2388", "isFavor": false, "paidOnly": true, "status": null, "title": "Change Null Values in a Table to the Previous Value", "titleSlug": "change-null-values-in-a-table-to-the-previous-value", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 53.40590188617716,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 28.985741269030452,
+        "difficulty": "Medium",
+        "freqBar": 45.04903355331302,
+        "frontendQuestionId": "7",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reverse Integer",
+        "titleSlug": "reverse-integer",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 57.20696316601733,
+        "difficulty": "Easy",
+        "freqBar": 87.26743050854738,
+        "frontendQuestionId": "9",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Palindrome Number",
+        "titleSlug": "palindrome-number",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 53.05352006170183,
+        "difficulty": "Easy",
+        "freqBar": 42.21839695523437,
+        "frontendQuestionId": "70",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Climbing Stairs",
+        "titleSlug": "climbing-stairs",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Memoization",
+                "id": "VG9waWNUYWdOb2RlOjMz",
+                "slug": "memoization"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 50.615749632809845,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2388",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Change Null Values in a Table to the Previous Value",
+        "titleSlug": "change-null-values-in-a-table-to-the-previous-value",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

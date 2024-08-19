@@ -1,1 +1,262 @@
-[{"acRate": 44.62254170814033, "difficulty": "Hard", "freqBar": 40.359294927779175, "frontendQuestionId": "68", "isFavor": false, "paidOnly": false, "status": null, "title": "Text Justification", "titleSlug": "text-justification", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.68440097481584, "difficulty": "Medium", "freqBar": 30.82057392183046, "frontendQuestionId": "71", "isFavor": false, "paidOnly": false, "status": null, "title": "Simplify Path", "titleSlug": "simplify-path", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 64.22085658322507, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "281", "isFavor": false, "paidOnly": true, "status": null, "title": "Zigzag Iterator", "titleSlug": "zigzag-iterator", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}, {"name": "Iterator", "id": "VG9waWNUYWdOb2RlOjYxMDY0", "slug": "iterator"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 48.0733887659696, "difficulty": "Hard", "freqBar": 98.56481519959985, "frontendQuestionId": "588", "isFavor": false, "paidOnly": true, "status": null, "title": "Design In-Memory File System", "titleSlug": "design-in-memory-file-system", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.29382711917236, "difficulty": "Medium", "freqBar": 35.981048337686836, "frontendQuestionId": "981", "isFavor": false, "paidOnly": false, "status": null, "title": "Time Based Key-Value Store", "titleSlug": "time-based-key-value-store", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 63.15939230730145, "difficulty": "Medium", "freqBar": 77.08401979260248, "frontendQuestionId": "1166", "isFavor": false, "paidOnly": true, "status": null, "title": "Design File System", "titleSlug": "design-file-system", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 63.864738427359924, "difficulty": "Medium", "freqBar": 71.17986884960963, "frontendQuestionId": "2043", "isFavor": false, "paidOnly": false, "status": null, "title": "Simple Bank System", "titleSlug": "simple-bank-system", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 84.6037060105886, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2325", "isFavor": false, "paidOnly": false, "status": null, "title": "Decode the Message", "titleSlug": "decode-the-message", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 44.62254170814033,
+        "difficulty": "Hard",
+        "freqBar": 40.359294927779175,
+        "frontendQuestionId": "68",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Text Justification",
+        "titleSlug": "text-justification",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.68440097481584,
+        "difficulty": "Medium",
+        "freqBar": 30.82057392183046,
+        "frontendQuestionId": "71",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Simplify Path",
+        "titleSlug": "simplify-path",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 64.22085658322507,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "281",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Zigzag Iterator",
+        "titleSlug": "zigzag-iterator",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            },
+            {
+                "name": "Iterator",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY0",
+                "slug": "iterator"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.0733887659696,
+        "difficulty": "Hard",
+        "freqBar": 98.56481519959985,
+        "frontendQuestionId": "588",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Design In-Memory File System",
+        "titleSlug": "design-in-memory-file-system",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.29382711917236,
+        "difficulty": "Medium",
+        "freqBar": 35.981048337686836,
+        "frontendQuestionId": "981",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Time Based Key-Value Store",
+        "titleSlug": "time-based-key-value-store",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.15939230730145,
+        "difficulty": "Medium",
+        "freqBar": 77.08401979260248,
+        "frontendQuestionId": "1166",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Design File System",
+        "titleSlug": "design-file-system",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.864738427359924,
+        "difficulty": "Medium",
+        "freqBar": 71.17986884960963,
+        "frontendQuestionId": "2043",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Simple Bank System",
+        "titleSlug": "simple-bank-system",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 84.6037060105886,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2325",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Decode the Message",
+        "titleSlug": "decode-the-message",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

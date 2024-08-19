@@ -1,1 +1,77 @@
-[{"acRate": 46.7666470304718, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "239", "isFavor": false, "paidOnly": false, "status": null, "title": "Sliding Window Maximum", "titleSlug": "sliding-window-maximum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Monotonic Queue", "id": "VG9waWNUYWdOb2RlOjYxMDcx", "slug": "monotonic-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 32.36032958199357, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "2747", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Zero Request Servers", "titleSlug": "count-zero-request-servers", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 46.7666470304718,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "239",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Monotonic Queue",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcx",
+                "slug": "monotonic-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 32.36032958199357,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "2747",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Zero Request Servers",
+        "titleSlug": "count-zero-request-servers",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

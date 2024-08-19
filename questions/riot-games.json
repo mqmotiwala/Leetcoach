@@ -1,1 +1,92 @@
-[{"acRate": 60.33327280309588, "difficulty": "Medium", "freqBar": 50.0, "frontendQuestionId": "36", "isFavor": false, "paidOnly": false, "status": null, "title": "Valid Sudoku", "titleSlug": "valid-sudoku", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 62.393834990089125, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "37", "isFavor": false, "paidOnly": false, "status": null, "title": "Sudoku Solver", "titleSlug": "sudoku-solver", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 56.65410700828938, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "495", "isFavor": false, "paidOnly": false, "status": null, "title": "Teemo Attacking", "titleSlug": "teemo-attacking", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 60.33327280309588,
+        "difficulty": "Medium",
+        "freqBar": 50.0,
+        "frontendQuestionId": "36",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Valid Sudoku",
+        "titleSlug": "valid-sudoku",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 62.393834990089125,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "37",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sudoku Solver",
+        "titleSlug": "sudoku-solver",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 56.65410700828938,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "495",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Teemo Attacking",
+        "titleSlug": "teemo-attacking",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

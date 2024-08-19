@@ -1,1 +1,32 @@
-[{"acRate": 53.41087499723592, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2938", "isFavor": false, "paidOnly": false, "status": null, "title": "Separate Black and White Balls", "titleSlug": "separate-black-and-white-balls", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 53.41087499723592,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2938",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Separate Black and White Balls",
+        "titleSlug": "separate-black-and-white-balls",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

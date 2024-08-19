@@ -1,1 +1,77 @@
-[{"acRate": 65.10055338646704, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1268", "isFavor": false, "paidOnly": false, "status": null, "title": "Search Suggestions System", "titleSlug": "search-suggestions-system", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 57.876055257099004, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "3067", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Pairs of Connectable Servers in a Weighted Tree Network", "titleSlug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 65.10055338646704,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1268",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Search Suggestions System",
+        "titleSlug": "search-suggestions-system",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 57.876055257099004,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3067",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "titleSlug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,112 @@
-[{"acRate": 43.0225131546822, "difficulty": "Medium", "freqBar": 50.0, "frontendQuestionId": "146", "isFavor": false, "paidOnly": false, "status": null, "title": "LRU Cache", "titleSlug": "lru-cache", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Doubly-Linked List", "id": "VG9waWNUYWdOb2RlOjYxMDU4", "slug": "doubly-linked-list"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 24.796381267541125, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "665", "isFavor": false, "paidOnly": false, "status": null, "title": "Non-decreasing Array", "titleSlug": "non-decreasing-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 58.434241135002694, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1695", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Erasure Value", "titleSlug": "maximum-erasure-value", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.78766334890649, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2560", "isFavor": false, "paidOnly": false, "status": null, "title": "House Robber IV", "titleSlug": "house-robber-iv", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 43.0225131546822,
+        "difficulty": "Medium",
+        "freqBar": 50.0,
+        "frontendQuestionId": "146",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+                "slug": "doubly-linked-list"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 24.796381267541125,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "665",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Non-decreasing Array",
+        "titleSlug": "non-decreasing-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 58.434241135002694,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1695",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Erasure Value",
+        "titleSlug": "maximum-erasure-value",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.78766334890649,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2560",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "House Robber IV",
+        "titleSlug": "house-robber-iv",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,112 @@
-[{"acRate": 47.797666677081224, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "56", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Merge Intervals", "titleSlug": "merge-intervals", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 51.196448185360325, "difficulty": "Medium", "freqBar": 32.20790048311966, "frontendQuestionId": "210", "isFavor": false, "paidOnly": false, "status": null, "title": "Course Schedule II", "titleSlug": "course-schedule-ii", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Topological Sort", "id": "VG9waWNUYWdOb2RlOjI2", "slug": "topological-sort"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.96154266717369, "difficulty": "Medium", "freqBar": 10.263304403015724, "frontendQuestionId": "560", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Subarray Sum Equals K", "titleSlug": "subarray-sum-equals-k", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 33.299371466291646, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "780", "isFavor": false, "paidOnly": false, "status": null, "title": "Reaching Points", "titleSlug": "reaching-points", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 47.797666677081224,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "56",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 51.196448185360325,
+        "difficulty": "Medium",
+        "freqBar": 32.20790048311966,
+        "frontendQuestionId": "210",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Course Schedule II",
+        "titleSlug": "course-schedule-ii",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Topological Sort",
+                "id": "VG9waWNUYWdOb2RlOjI2",
+                "slug": "topological-sort"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.96154266717369,
+        "difficulty": "Medium",
+        "freqBar": 10.263304403015724,
+        "frontendQuestionId": "560",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 33.299371466291646,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "780",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reaching Points",
+        "titleSlug": "reaching-points",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

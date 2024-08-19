@@ -1,1 +1,227 @@
-[{"acRate": 62.063306096040805, "difficulty": "Medium", "freqBar": 47.2672969780339, "frontendQuestionId": "399", "isFavor": false, "paidOnly": false, "status": null, "title": "Evaluate Division", "titleSlug": "evaluate-division", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Shortest Path", "id": "VG9waWNUYWdOb2RlOjYxMDc2", "slug": "shortest-path"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 53.1581977799137, "difficulty": "Hard", "freqBar": 58.29378335026809, "frontendQuestionId": "502", "isFavor": false, "paidOnly": false, "status": null, "title": "IPO", "titleSlug": "ipo", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 60.235552541090776, "difficulty": "Medium", "freqBar": 41.70621664973191, "frontendQuestionId": "621", "isFavor": false, "paidOnly": false, "status": null, "title": "Task Scheduler", "titleSlug": "task-scheduler", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 54.35289043016256, "difficulty": "Hard", "freqBar": 55.46750546679121, "frontendQuestionId": "1235", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Profit in Job Scheduling", "titleSlug": "maximum-profit-in-job-scheduling", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 26.945352738774552, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2896", "isFavor": false, "paidOnly": false, "status": null, "title": "Apply Operations to Make Two Strings Equal", "titleSlug": "apply-operations-to-make-two-strings-equal", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 62.859444502819514, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "3071", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Operations to Write the Letter Y on a Grid", "titleSlug": "minimum-operations-to-write-the-letter-y-on-a-grid", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 62.063306096040805,
+        "difficulty": "Medium",
+        "freqBar": 47.2672969780339,
+        "frontendQuestionId": "399",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Evaluate Division",
+        "titleSlug": "evaluate-division",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Shortest Path",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc2",
+                "slug": "shortest-path"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 53.1581977799137,
+        "difficulty": "Hard",
+        "freqBar": 58.29378335026809,
+        "frontendQuestionId": "502",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "IPO",
+        "titleSlug": "ipo",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 60.235552541090776,
+        "difficulty": "Medium",
+        "freqBar": 41.70621664973191,
+        "frontendQuestionId": "621",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Task Scheduler",
+        "titleSlug": "task-scheduler",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 54.35289043016256,
+        "difficulty": "Hard",
+        "freqBar": 55.46750546679121,
+        "frontendQuestionId": "1235",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Profit in Job Scheduling",
+        "titleSlug": "maximum-profit-in-job-scheduling",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 26.945352738774552,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2896",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Apply Operations to Make Two Strings Equal",
+        "titleSlug": "apply-operations-to-make-two-strings-equal",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 62.859444502819514,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "3071",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "titleSlug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,277 @@
-[{"acRate": 35.23925011166731, "difficulty": "Medium", "freqBar": 58.27003708052574, "frontendQuestionId": "3", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Substring Without Repeating Characters", "titleSlug": "longest-substring-without-repeating-characters", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 35.10775516206863, "difficulty": "Medium", "freqBar": 62.83767234652742, "frontendQuestionId": "15", "isFavor": false, "paidOnly": false, "status": null, "title": "3Sum", "titleSlug": "3sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 45.90610089206276, "difficulty": "Easy", "freqBar": 20.099984576158192, "frontendQuestionId": "66", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Plus One", "titleSlug": "plus-one", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 57.42298458000812, "difficulty": "Medium", "freqBar": 66.96281492654794, "frontendQuestionId": "120", "isFavor": false, "paidOnly": false, "status": null, "title": "Triangle", "titleSlug": "triangle", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.37340760016941, "difficulty": "Medium", "freqBar": 37.87447777677732, "frontendQuestionId": "198", "isFavor": false, "paidOnly": false, "status": null, "title": "House Robber", "titleSlug": "house-robber", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 73.36228745527387, "difficulty": "Medium", "freqBar": 28.52588626564234, "frontendQuestionId": "230", "isFavor": false, "paidOnly": false, "status": null, "title": "Kth Smallest Element in a BST", "titleSlug": "kth-smallest-element-in-a-bst", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Search Tree", "id": "VG9waWNUYWdOb2RlOjMw", "slug": "binary-search-tree"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 44.58314905734669, "difficulty": "Medium", "freqBar": 53.13009263493519, "frontendQuestionId": "322", "isFavor": false, "paidOnly": false, "status": null, "title": "Coin Change", "titleSlug": "coin-change", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 55.20854515249061, "difficulty": "Medium", "freqBar": 87.06279950270613, "frontendQuestionId": "554", "isFavor": false, "paidOnly": false, "status": null, "title": "Brick Wall", "titleSlug": "brick-wall", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 70.15354125795731, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1011", "isFavor": false, "paidOnly": false, "status": null, "title": "Capacity To Ship Packages Within D Days", "titleSlug": "capacity-to-ship-packages-within-d-days", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 61.765641202903566, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3178", "isFavor": false, "paidOnly": false, "status": null, "title": "Find the Child Who Has the Ball After K Seconds", "titleSlug": "find-the-child-who-has-the-ball-after-k-seconds", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 35.23925011166731,
+        "difficulty": "Medium",
+        "freqBar": 58.27003708052574,
+        "frontendQuestionId": "3",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 35.10775516206863,
+        "difficulty": "Medium",
+        "freqBar": 62.83767234652742,
+        "frontendQuestionId": "15",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "3Sum",
+        "titleSlug": "3sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 45.90610089206276,
+        "difficulty": "Easy",
+        "freqBar": 20.099984576158192,
+        "frontendQuestionId": "66",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 57.42298458000812,
+        "difficulty": "Medium",
+        "freqBar": 66.96281492654794,
+        "frontendQuestionId": "120",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Triangle",
+        "titleSlug": "triangle",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.37340760016941,
+        "difficulty": "Medium",
+        "freqBar": 37.87447777677732,
+        "frontendQuestionId": "198",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "House Robber",
+        "titleSlug": "house-robber",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 73.36228745527387,
+        "difficulty": "Medium",
+        "freqBar": 28.52588626564234,
+        "frontendQuestionId": "230",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Kth Smallest Element in a BST",
+        "titleSlug": "kth-smallest-element-in-a-bst",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Search Tree",
+                "id": "VG9waWNUYWdOb2RlOjMw",
+                "slug": "binary-search-tree"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.58314905734669,
+        "difficulty": "Medium",
+        "freqBar": 53.13009263493519,
+        "frontendQuestionId": "322",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Coin Change",
+        "titleSlug": "coin-change",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 55.20854515249061,
+        "difficulty": "Medium",
+        "freqBar": 87.06279950270613,
+        "frontendQuestionId": "554",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Brick Wall",
+        "titleSlug": "brick-wall",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 70.15354125795731,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1011",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Capacity To Ship Packages Within D Days",
+        "titleSlug": "capacity-to-ship-packages-within-d-days",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 61.765641202903566,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3178",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find the Child Who Has the Ball After K Seconds",
+        "titleSlug": "find-the-child-who-has-the-ball-after-k-seconds",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

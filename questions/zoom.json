@@ -1,1 +1,112 @@
-[{"acRate": 53.77081708688538, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "23", "isFavor": false, "paidOnly": false, "status": null, "title": "Merge k Sorted Lists", "titleSlug": "merge-k-sorted-lists", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Merge Sort", "id": "VG9waWNUYWdOb2RlOjYxMDUx", "slug": "merge-sort"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 69.16759451076186, "difficulty": "Medium", "freqBar": 50.0, "frontendQuestionId": "49", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Group Anagrams", "titleSlug": "group-anagrams", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 48.75237083170794, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1141", "isFavor": false, "paidOnly": false, "status": "ac", "title": "User Activity for the Past 30 Days I", "titleSlug": "user-activity-for-the-past-30-days-i", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 35.74721300350082, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1142", "isFavor": false, "paidOnly": true, "status": "ac", "title": "User Activity for the Past 30 Days II", "titleSlug": "user-activity-for-the-past-30-days-ii", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 53.77081708688538,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "23",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Merge k Sorted Lists",
+        "titleSlug": "merge-k-sorted-lists",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Merge Sort",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUx",
+                "slug": "merge-sort"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 69.16759451076186,
+        "difficulty": "Medium",
+        "freqBar": 50.0,
+        "frontendQuestionId": "49",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Group Anagrams",
+        "titleSlug": "group-anagrams",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 48.75237083170794,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1141",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "User Activity for the Past 30 Days I",
+        "titleSlug": "user-activity-for-the-past-30-days-i",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 35.74721300350082,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1142",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": "ac",
+        "title": "User Activity for the Past 30 Days II",
+        "titleSlug": "user-activity-for-the-past-30-days-ii",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

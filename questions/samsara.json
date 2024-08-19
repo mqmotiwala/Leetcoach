@@ -1,1 +1,82 @@
-[{"acRate": 44.62254170814033, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "68", "isFavor": false, "paidOnly": false, "status": null, "title": "Text Justification", "titleSlug": "text-justification", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 66.75056897825071, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3206", "isFavor": false, "paidOnly": false, "status": null, "title": "Alternating Groups I", "titleSlug": "alternating-groups-i", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 40.11881188118812, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "3208", "isFavor": false, "paidOnly": false, "status": null, "title": "Alternating Groups II", "titleSlug": "alternating-groups-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 44.62254170814033,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "68",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Text Justification",
+        "titleSlug": "text-justification",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.75056897825071,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3206",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Alternating Groups I",
+        "titleSlug": "alternating-groups-i",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.11881188118812,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3208",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Alternating Groups II",
+        "titleSlug": "alternating-groups-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

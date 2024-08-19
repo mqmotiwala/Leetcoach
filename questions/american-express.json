@@ -1,1 +1,542 @@
-[{"acRate": 43.50752141490899, "difficulty": "Easy", "freqBar": 21.992024005447586, "frontendQuestionId": "14", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Longest Common Prefix", "titleSlug": "longest-common-prefix", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 40.8620926088271, "difficulty": "Easy", "freqBar": 18.33057378625292, "frontendQuestionId": "20", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Parentheses", "titleSlug": "valid-parentheses", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 62.787270323181275, "difficulty": "Hard", "freqBar": 29.816230105770032, "frontendQuestionId": "42", "isFavor": false, "paidOnly": false, "status": null, "title": "Trapping Rain Water", "titleSlug": "trapping-rain-water", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 48.402893145043066, "difficulty": "Easy", "freqBar": 33.90347844903549, "frontendQuestionId": "125", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Palindrome", "titleSlug": "valid-palindrome", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 66.56028898325873, "difficulty": "Medium", "freqBar": 23.77182763642873, "frontendQuestionId": "238", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Product of Array Except Self", "titleSlug": "product-of-array-except-self", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 66.9829599326836, "difficulty": "Easy", "freqBar": 57.70881857080865, "frontendQuestionId": "258", "isFavor": false, "paidOnly": false, "status": null, "title": "Add Digits", "titleSlug": "add-digits", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}, {"name": "Number Theory", "id": "VG9waWNUYWdOb2RlOjYxMDY3", "slug": "number-theory"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 29.749849766353044, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1201", "isFavor": false, "paidOnly": false, "status": null, "title": "Ugly Number III", "titleSlug": "ugly-number-iii", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Combinatorics", "id": "VG9waWNUYWdOb2RlOjYxMDU2", "slug": "combinatorics"}, {"name": "Number Theory", "id": "VG9waWNUYWdOb2RlOjYxMDY3", "slug": "number-theory"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 37.231680236861585, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1224", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Equal Frequency", "titleSlug": "maximum-equal-frequency", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 46.777457836281364, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1253", "isFavor": false, "paidOnly": false, "status": null, "title": "Reconstruct a 2-Row Binary Matrix", "titleSlug": "reconstruct-a-2-row-binary-matrix", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 45.51394617552171, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1521", "isFavor": false, "paidOnly": false, "status": null, "title": "Find a Value of a Mysterious Function Closest to Target", "titleSlug": "find-a-value-of-a-mysterious-function-closest-to-target", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Segment Tree", "id": "VG9waWNUYWdOb2RlOjI5", "slug": "segment-tree"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 61.256698506921325, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1647", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Deletions to Make Character Frequencies Unique", "titleSlug": "minimum-deletions-to-make-character-frequencies-unique", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 53.74574143804913, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1775", "isFavor": false, "paidOnly": false, "status": null, "title": "Equal Sum Arrays With Minimum Number of Operations", "titleSlug": "equal-sum-arrays-with-minimum-number-of-operations", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 23.069749947105702, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2202", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximize the Topmost Element After K Moves", "titleSlug": "maximize-the-topmost-element-after-k-moves", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 74.11985453419993, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2278", "isFavor": false, "paidOnly": false, "status": null, "title": "Percentage of Letter in String", "titleSlug": "percentage-of-letter-in-string", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 79.63996177676397, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2317", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum XOR After Operations ", "titleSlug": "maximum-xor-after-operations", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 64.45886497636128, "difficulty": "Medium", "freqBar": 81.51415869258182, "frontendQuestionId": "2477", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Fuel Cost to Report to the Capital", "titleSlug": "minimum-fuel-cost-to-report-to-the-capital", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 66.38956542742699, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3010", "isFavor": false, "paidOnly": false, "status": null, "title": "Divide an Array Into Subarrays With Minimum Cost I", "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-i", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Enumeration", "id": "VG9waWNUYWdOb2RlOjYxMDY2", "slug": "enumeration"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 32.094701525606126, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "3013", "isFavor": false, "paidOnly": false, "status": null, "title": "Divide an Array Into Subarrays With Minimum Cost II", "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 43.50752141490899,
+        "difficulty": "Easy",
+        "freqBar": 21.992024005447586,
+        "frontendQuestionId": "14",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 40.8620926088271,
+        "difficulty": "Easy",
+        "freqBar": 18.33057378625292,
+        "frontendQuestionId": "20",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Parentheses",
+        "titleSlug": "valid-parentheses",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 62.787270323181275,
+        "difficulty": "Hard",
+        "freqBar": 29.816230105770032,
+        "frontendQuestionId": "42",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Trapping Rain Water",
+        "titleSlug": "trapping-rain-water",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.402893145043066,
+        "difficulty": "Easy",
+        "freqBar": 33.90347844903549,
+        "frontendQuestionId": "125",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Palindrome",
+        "titleSlug": "valid-palindrome",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.56028898325873,
+        "difficulty": "Medium",
+        "freqBar": 23.77182763642873,
+        "frontendQuestionId": "238",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 66.9829599326836,
+        "difficulty": "Easy",
+        "freqBar": 57.70881857080865,
+        "frontendQuestionId": "258",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Add Digits",
+        "titleSlug": "add-digits",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            },
+            {
+                "name": "Number Theory",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+                "slug": "number-theory"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 29.749849766353044,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1201",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Ugly Number III",
+        "titleSlug": "ugly-number-iii",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Combinatorics",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+                "slug": "combinatorics"
+            },
+            {
+                "name": "Number Theory",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+                "slug": "number-theory"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 37.231680236861585,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1224",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Equal Frequency",
+        "titleSlug": "maximum-equal-frequency",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 46.777457836281364,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1253",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "titleSlug": "reconstruct-a-2-row-binary-matrix",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.51394617552171,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1521",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find a Value of a Mysterious Function Closest to Target",
+        "titleSlug": "find-a-value-of-a-mysterious-function-closest-to-target",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Segment Tree",
+                "id": "VG9waWNUYWdOb2RlOjI5",
+                "slug": "segment-tree"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 61.256698506921325,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1647",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "titleSlug": "minimum-deletions-to-make-character-frequencies-unique",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 53.74574143804913,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1775",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Equal Sum Arrays With Minimum Number of Operations",
+        "titleSlug": "equal-sum-arrays-with-minimum-number-of-operations",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 23.069749947105702,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2202",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximize the Topmost Element After K Moves",
+        "titleSlug": "maximize-the-topmost-element-after-k-moves",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 74.11985453419993,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2278",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Percentage of Letter in String",
+        "titleSlug": "percentage-of-letter-in-string",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 79.63996177676397,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2317",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum XOR After Operations ",
+        "titleSlug": "maximum-xor-after-operations",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 64.45886497636128,
+        "difficulty": "Medium",
+        "freqBar": 81.51415869258182,
+        "frontendQuestionId": "2477",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Fuel Cost to Report to the Capital",
+        "titleSlug": "minimum-fuel-cost-to-report-to-the-capital",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.38956542742699,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3010",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Divide an Array Into Subarrays With Minimum Cost I",
+        "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Enumeration",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+                "slug": "enumeration"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 32.094701525606126,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3013",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

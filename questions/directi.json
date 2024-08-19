@@ -1,1 +1,267 @@
-[{"acRate": 43.70571550600681, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1524", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Sub-arrays With Odd Sum", "titleSlug": "number-of-sub-arrays-with-odd-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 57.02450150835111, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1535", "isFavor": false, "paidOnly": false, "status": null, "title": "Find the Winner of an Array Game", "titleSlug": "find-the-winner-of-an-array-game", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.84503772489843, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1542", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Longest Awesome Substring", "titleSlug": "find-longest-awesome-substring", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 67.34047212368064, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1584", "isFavor": false, "paidOnly": false, "status": null, "title": "Min Cost to Connect All Points", "titleSlug": "min-cost-to-connect-all-points", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Minimum Spanning Tree", "id": "VG9waWNUYWdOb2RlOjYxMDgz", "slug": "minimum-spanning-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 75.36380278631046, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1727", "isFavor": false, "paidOnly": false, "status": null, "title": "Largest Submatrix With Rearrangements", "titleSlug": "largest-submatrix-with-rearrangements", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 67.63553233180927, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2473", "isFavor": false, "paidOnly": true, "status": null, "title": "Minimum Cost to Buy Apples", "titleSlug": "minimum-cost-to-buy-apples", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Shortest Path", "id": "VG9waWNUYWdOb2RlOjYxMDc2", "slug": "shortest-path"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.52029520295203, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2479", "isFavor": false, "paidOnly": true, "status": null, "title": "Maximum XOR of Two Non-Overlapping Subtrees", "titleSlug": "maximum-xor-of-two-non-overlapping-subtrees", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 32.07570307390451, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2538", "isFavor": false, "paidOnly": false, "status": null, "title": "Difference Between Maximum and Minimum Price Sum", "titleSlug": "difference-between-maximum-and-minimum-price-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 43.70571550600681,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1524",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Sub-arrays With Odd Sum",
+        "titleSlug": "number-of-sub-arrays-with-odd-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 57.02450150835111,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1535",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find the Winner of an Array Game",
+        "titleSlug": "find-the-winner-of-an-array-game",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.84503772489843,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1542",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Longest Awesome Substring",
+        "titleSlug": "find-longest-awesome-substring",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 67.34047212368064,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1584",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Min Cost to Connect All Points",
+        "titleSlug": "min-cost-to-connect-all-points",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Minimum Spanning Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDgz",
+                "slug": "minimum-spanning-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 75.36380278631046,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1727",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Largest Submatrix With Rearrangements",
+        "titleSlug": "largest-submatrix-with-rearrangements",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 67.63553233180927,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2473",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Minimum Cost to Buy Apples",
+        "titleSlug": "minimum-cost-to-buy-apples",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Shortest Path",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc2",
+                "slug": "shortest-path"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.52029520295203,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2479",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+        "titleSlug": "maximum-xor-of-two-non-overlapping-subtrees",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 32.07570307390451,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2538",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Difference Between Maximum and Minimum Price Sum",
+        "titleSlug": "difference-between-maximum-and-minimum-price-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,37 @@
-[{"acRate": 36.96111580726965, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2607", "isFavor": false, "paidOnly": false, "status": null, "title": "Make K-Subarray Sums Equal", "titleSlug": "make-k-subarray-sums-equal", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Number Theory", "id": "VG9waWNUYWdOb2RlOjYxMDY3", "slug": "number-theory"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 36.96111580726965,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2607",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Make K-Subarray Sums Equal",
+        "titleSlug": "make-k-subarray-sums-equal",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Number Theory",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+                "slug": "number-theory"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

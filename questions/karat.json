@@ -1,1 +1,472 @@
-[{"acRate": 53.40590188617716, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Two Sum", "titleSlug": "two-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 60.33327280309588, "difficulty": "Medium", "freqBar": 14.842734712906777, "frontendQuestionId": "36", "isFavor": false, "paidOnly": false, "status": null, "title": "Valid Sudoku", "titleSlug": "valid-sudoku", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 44.62254170814033, "difficulty": "Hard", "freqBar": 60.36155789899532, "frontendQuestionId": "68", "isFavor": false, "paidOnly": false, "status": null, "title": "Text Justification", "titleSlug": "text-justification", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.39224681250476, "difficulty": "Medium", "freqBar": 36.521587977708144, "frontendQuestionId": "79", "isFavor": false, "paidOnly": false, "status": null, "title": "Word Search", "titleSlug": "word-search", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.28144421359542, "difficulty": "Medium", "freqBar": 28.231230116148314, "frontendQuestionId": "207", "isFavor": false, "paidOnly": false, "status": null, "title": "Course Schedule", "titleSlug": "course-schedule", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Topological Sort", "id": "VG9waWNUYWdOb2RlOjI2", "slug": "topological-sort"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 36.51086592685662, "difficulty": "Hard", "freqBar": 21.61853532259874, "frontendQuestionId": "212", "isFavor": false, "paidOnly": false, "status": null, "title": "Word Search II", "titleSlug": "word-search-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 63.450075207179125, "difficulty": "Medium", "freqBar": 15.525348667844238, "frontendQuestionId": "236", "isFavor": false, "paidOnly": false, "status": null, "title": "Lowest Common Ancestor of a Binary Tree", "titleSlug": "lowest-common-ancestor-of-a-binary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 68.80489010245692, "difficulty": "Medium", "freqBar": 41.441846135563964, "frontendQuestionId": "362", "isFavor": false, "paidOnly": true, "status": null, "title": "Design Hit Counter", "titleSlug": "design-hit-counter", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}, {"name": "Data Stream", "id": "VG9waWNUYWdOb2RlOjYxMDYz", "slug": "data-stream"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 50.94818087051909, "difficulty": "Medium", "freqBar": 56.284580848470746, "frontendQuestionId": "718", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Length of Repeated Subarray", "titleSlug": "maximum-length-of-repeated-subarray", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Rolling Hash", "id": "VG9waWNUYWdOb2RlOjU2NTk4", "slug": "rolling-hash"}, {"name": "Hash Function", "id": "VG9waWNUYWdOb2RlOjYxMDY1", "slug": "hash-function"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 76.36134924508708, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "811", "isFavor": false, "paidOnly": false, "status": null, "title": "Subdomain Visit Count", "titleSlug": "subdomain-visit-count", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 70.65498811252245, "difficulty": "Easy", "freqBar": 88.8135482702995, "frontendQuestionId": "1160", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Words That Can Be Formed by Characters", "titleSlug": "find-words-that-can-be-formed-by-characters", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 45.884415457041975, "difficulty": "Medium", "freqBar": 73.83737454647654, "frontendQuestionId": "1604", "isFavor": false, "paidOnly": false, "status": null, "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period", "titleSlug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 29.53464074904672, "difficulty": "Medium", "freqBar": 66.04936649412127, "frontendQuestionId": "1654", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Jumps to Reach Home", "titleSlug": "minimum-jumps-to-reach-home", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 51.835307177391854, "difficulty": "Easy", "freqBar": 81.84264219700698, "frontendQuestionId": "2133", "isFavor": false, "paidOnly": false, "status": null, "title": "Check if Every Row and Column Contains All Numbers", "titleSlug": "check-if-every-row-and-column-contains-all-numbers", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 53.40590188617716,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 60.33327280309588,
+        "difficulty": "Medium",
+        "freqBar": 14.842734712906777,
+        "frontendQuestionId": "36",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Valid Sudoku",
+        "titleSlug": "valid-sudoku",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.62254170814033,
+        "difficulty": "Hard",
+        "freqBar": 60.36155789899532,
+        "frontendQuestionId": "68",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Text Justification",
+        "titleSlug": "text-justification",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.39224681250476,
+        "difficulty": "Medium",
+        "freqBar": 36.521587977708144,
+        "frontendQuestionId": "79",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Word Search",
+        "titleSlug": "word-search",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.28144421359542,
+        "difficulty": "Medium",
+        "freqBar": 28.231230116148314,
+        "frontendQuestionId": "207",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Course Schedule",
+        "titleSlug": "course-schedule",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Topological Sort",
+                "id": "VG9waWNUYWdOb2RlOjI2",
+                "slug": "topological-sort"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 36.51086592685662,
+        "difficulty": "Hard",
+        "freqBar": 21.61853532259874,
+        "frontendQuestionId": "212",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Word Search II",
+        "titleSlug": "word-search-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 63.450075207179125,
+        "difficulty": "Medium",
+        "freqBar": 15.525348667844238,
+        "frontendQuestionId": "236",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 68.80489010245692,
+        "difficulty": "Medium",
+        "freqBar": 41.441846135563964,
+        "frontendQuestionId": "362",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Design Hit Counter",
+        "titleSlug": "design-hit-counter",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            },
+            {
+                "name": "Data Stream",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYz",
+                "slug": "data-stream"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 50.94818087051909,
+        "difficulty": "Medium",
+        "freqBar": 56.284580848470746,
+        "frontendQuestionId": "718",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Length of Repeated Subarray",
+        "titleSlug": "maximum-length-of-repeated-subarray",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Rolling Hash",
+                "id": "VG9waWNUYWdOb2RlOjU2NTk4",
+                "slug": "rolling-hash"
+            },
+            {
+                "name": "Hash Function",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+                "slug": "hash-function"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 76.36134924508708,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "811",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Subdomain Visit Count",
+        "titleSlug": "subdomain-visit-count",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 70.65498811252245,
+        "difficulty": "Easy",
+        "freqBar": 88.8135482702995,
+        "frontendQuestionId": "1160",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Words That Can Be Formed by Characters",
+        "titleSlug": "find-words-that-can-be-formed-by-characters",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.884415457041975,
+        "difficulty": "Medium",
+        "freqBar": 73.83737454647654,
+        "frontendQuestionId": "1604",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "titleSlug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 29.53464074904672,
+        "difficulty": "Medium",
+        "freqBar": 66.04936649412127,
+        "frontendQuestionId": "1654",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Jumps to Reach Home",
+        "titleSlug": "minimum-jumps-to-reach-home",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.835307177391854,
+        "difficulty": "Easy",
+        "freqBar": 81.84264219700698,
+        "frontendQuestionId": "2133",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "titleSlug": "check-if-every-row-and-column-contains-all-numbers",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,172 @@
-[{"acRate": 34.25521512299591, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "5", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Palindromic Substring", "titleSlug": "longest-palindromic-substring", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 68.12311785245811, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "575", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Distribute Candies", "titleSlug": "distribute-candies", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 36.994944048278754, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "581", "isFavor": false, "paidOnly": false, "status": null, "title": "Shortest Unsorted Continuous Subarray", "titleSlug": "shortest-unsorted-continuous-subarray", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 55.08745996550874, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "594", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Harmonious Subsequence", "titleSlug": "longest-harmonious-subsequence", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 35.34749758339745, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "949", "isFavor": false, "paidOnly": false, "status": null, "title": "Largest Time for Given Digits", "titleSlug": "largest-time-for-given-digits", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Enumeration", "id": "VG9waWNUYWdOb2RlOjYxMDY2", "slug": "enumeration"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 34.25521512299591,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "5",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Palindromic Substring",
+        "titleSlug": "longest-palindromic-substring",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 68.12311785245811,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "575",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Distribute Candies",
+        "titleSlug": "distribute-candies",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 36.994944048278754,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "581",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Shortest Unsorted Continuous Subarray",
+        "titleSlug": "shortest-unsorted-continuous-subarray",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 55.08745996550874,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "594",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Harmonious Subsequence",
+        "titleSlug": "longest-harmonious-subsequence",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 35.34749758339745,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "949",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Largest Time for Given Digits",
+        "titleSlug": "largest-time-for-given-digits",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Enumeration",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+                "slug": "enumeration"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

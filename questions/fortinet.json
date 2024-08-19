@@ -1,1 +1,27 @@
-[{"acRate": 59.9616698558482, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "25", "isFavor": false, "paidOnly": false, "status": null, "title": "Reverse Nodes in k-Group", "titleSlug": "reverse-nodes-in-k-group", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 59.9616698558482,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "25",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reverse Nodes in k-Group",
+        "titleSlug": "reverse-nodes-in-k-group",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,327 @@
-[{"acRate": 40.2888305504506, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "124", "isFavor": false, "paidOnly": false, "status": null, "title": "Binary Tree Maximum Path Sum", "titleSlug": "binary-tree-maximum-path-sum", "topicTags": [{"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 45.0303592084406, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "395", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Substring with At Least K Repeating Characters", "titleSlug": "longest-substring-with-at-least-k-repeating-characters", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 36.00219988709574, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "397", "isFavor": false, "paidOnly": false, "status": null, "title": "Integer Replacement", "titleSlug": "integer-replacement", "topicTags": [{"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Memoization", "id": "VG9waWNUYWdOb2RlOjMz", "slug": "memoization"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 56.12247189497276, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "410", "isFavor": false, "paidOnly": false, "status": null, "title": "Split Array Largest Sum", "titleSlug": "split-array-largest-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 65.0219186248903, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "413", "isFavor": false, "paidOnly": false, "status": null, "title": "Arithmetic Slices", "titleSlug": "arithmetic-slices", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 54.57004566078294, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "446", "isFavor": false, "paidOnly": false, "status": null, "title": "Arithmetic Slices II - Subsequence", "titleSlug": "arithmetic-slices-ii-subsequence", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 32.59910702205385, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "488", "isFavor": false, "paidOnly": false, "status": null, "title": "Zuma Game", "titleSlug": "zuma-game", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Memoization", "id": "VG9waWNUYWdOb2RlOjMz", "slug": "memoization"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 48.0901050493684, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "576", "isFavor": false, "paidOnly": false, "status": null, "title": "Out of Boundary Paths", "titleSlug": "out-of-boundary-paths", "topicTags": [{"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 48.0733887659696, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "588", "isFavor": false, "paidOnly": true, "status": null, "title": "Design In-Memory File System", "titleSlug": "design-in-memory-file-system", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 48.41955723925654, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "873", "isFavor": false, "paidOnly": false, "status": null, "title": "Length of Longest Fibonacci Subsequence", "titleSlug": "length-of-longest-fibonacci-subsequence", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 40.2888305504506,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "124",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Binary Tree Maximum Path Sum",
+        "titleSlug": "binary-tree-maximum-path-sum",
+        "topicTags": [
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.0303592084406,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "395",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 36.00219988709574,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "397",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Integer Replacement",
+        "titleSlug": "integer-replacement",
+        "topicTags": [
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Memoization",
+                "id": "VG9waWNUYWdOb2RlOjMz",
+                "slug": "memoization"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 56.12247189497276,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "410",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Split Array Largest Sum",
+        "titleSlug": "split-array-largest-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 65.0219186248903,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "413",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Arithmetic Slices",
+        "titleSlug": "arithmetic-slices",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 54.57004566078294,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "446",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Arithmetic Slices II - Subsequence",
+        "titleSlug": "arithmetic-slices-ii-subsequence",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 32.59910702205385,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "488",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Zuma Game",
+        "titleSlug": "zuma-game",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Memoization",
+                "id": "VG9waWNUYWdOb2RlOjMz",
+                "slug": "memoization"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.0901050493684,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "576",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Out of Boundary Paths",
+        "titleSlug": "out-of-boundary-paths",
+        "topicTags": [
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.0733887659696,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "588",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Design In-Memory File System",
+        "titleSlug": "design-in-memory-file-system",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.41955723925654,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "873",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Length of Longest Fibonacci Subsequence",
+        "titleSlug": "length-of-longest-fibonacci-subsequence",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

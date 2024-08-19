@@ -1,1 +1,237 @@
-[{"acRate": 56.92505552099484, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "453", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Moves to Equal Array Elements", "titleSlug": "minimum-moves-to-equal-array-elements", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 62.37520365451065, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "563", "isFavor": false, "paidOnly": false, "status": null, "title": "Binary Tree Tilt", "titleSlug": "binary-tree-tilt", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 76.36134924508708, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "811", "isFavor": false, "paidOnly": false, "status": null, "title": "Subdomain Visit Count", "titleSlug": "subdomain-visit-count", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 68.2112538356549, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "985", "isFavor": false, "paidOnly": false, "status": null, "title": "Sum of Even Numbers After Queries", "titleSlug": "sum-of-even-numbers-after-queries", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 70.65498811252245, "difficulty": "Easy", "freqBar": 39.77944043547424, "frontendQuestionId": "1160", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Words That Can Be Formed by Characters", "titleSlug": "find-words-that-can-be-formed-by-characters", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 40.66079485737408, "difficulty": "Medium", "freqBar": 79.55888087094849, "frontendQuestionId": "1197", "isFavor": false, "paidOnly": true, "status": null, "title": "Minimum Knight Moves", "titleSlug": "minimum-knight-moves", "topicTags": [{"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 73.20716352545554, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2225", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Players With Zero or One Losses", "titleSlug": "find-players-with-zero-or-one-losses", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 40.6827880512091, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2547", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Cost to Split an Array", "titleSlug": "minimum-cost-to-split-an-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 56.92505552099484,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "453",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Moves to Equal Array Elements",
+        "titleSlug": "minimum-moves-to-equal-array-elements",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 62.37520365451065,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "563",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Binary Tree Tilt",
+        "titleSlug": "binary-tree-tilt",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 76.36134924508708,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "811",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Subdomain Visit Count",
+        "titleSlug": "subdomain-visit-count",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 68.2112538356549,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "985",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sum of Even Numbers After Queries",
+        "titleSlug": "sum-of-even-numbers-after-queries",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 70.65498811252245,
+        "difficulty": "Easy",
+        "freqBar": 39.77944043547424,
+        "frontendQuestionId": "1160",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Words That Can Be Formed by Characters",
+        "titleSlug": "find-words-that-can-be-formed-by-characters",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.66079485737408,
+        "difficulty": "Medium",
+        "freqBar": 79.55888087094849,
+        "frontendQuestionId": "1197",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Minimum Knight Moves",
+        "titleSlug": "minimum-knight-moves",
+        "topicTags": [
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 73.20716352545554,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2225",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Players With Zero or One Losses",
+        "titleSlug": "find-players-with-zero-or-one-losses",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.6827880512091,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2547",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Cost to Split an Array",
+        "titleSlug": "minimum-cost-to-split-an-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

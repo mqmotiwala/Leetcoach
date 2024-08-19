@@ -1,1 +1,157 @@
-[{"acRate": 35.23925011166731, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "3", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Substring Without Repeating Characters", "titleSlug": "longest-substring-without-repeating-characters", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 46.03463992707384, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1993", "isFavor": false, "paidOnly": false, "status": null, "title": "Operations on Tree", "titleSlug": "operations-on-tree", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 45.49030740530456, "difficulty": "Medium", "freqBar": 78.43791680562072, "frontendQuestionId": "2359", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Closest Node to Given Two Nodes", "titleSlug": "find-closest-node-to-given-two-nodes", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.81988285906805, "difficulty": "Hard", "freqBar": 62.041665407933365, "frontendQuestionId": "2360", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Cycle in a Graph", "titleSlug": "longest-cycle-in-a-graph", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Topological Sort", "id": "VG9waWNUYWdOb2RlOjI2", "slug": "topological-sort"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.768253838056566, "difficulty": "Medium", "freqBar": 31.02083270396669, "frontendQuestionId": "2374", "isFavor": false, "paidOnly": false, "status": null, "title": "Node With Highest Edge Score", "titleSlug": "node-with-highest-edge-score", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 35.23925011166731,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 46.03463992707384,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1993",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Operations on Tree",
+        "titleSlug": "operations-on-tree",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.49030740530456,
+        "difficulty": "Medium",
+        "freqBar": 78.43791680562072,
+        "frontendQuestionId": "2359",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Closest Node to Given Two Nodes",
+        "titleSlug": "find-closest-node-to-given-two-nodes",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.81988285906805,
+        "difficulty": "Hard",
+        "freqBar": 62.041665407933365,
+        "frontendQuestionId": "2360",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Cycle in a Graph",
+        "titleSlug": "longest-cycle-in-a-graph",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Topological Sort",
+                "id": "VG9waWNUYWdOb2RlOjI2",
+                "slug": "topological-sort"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.768253838056566,
+        "difficulty": "Medium",
+        "freqBar": 31.02083270396669,
+        "frontendQuestionId": "2374",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Node With Highest Edge Score",
+        "titleSlug": "node-with-highest-edge-score",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

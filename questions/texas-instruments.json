@@ -1,1 +1,82 @@
-[{"acRate": 75.25572159784937, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "22", "isFavor": false, "paidOnly": false, "status": null, "title": "Generate Parentheses", "titleSlug": "generate-parentheses", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 20.527984305474604, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "2035", "isFavor": false, "paidOnly": false, "status": null, "title": "Partition Array Into Two Arrays to Minimize Sum Difference", "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Ordered Set", "id": "VG9waWNUYWdOb2RlOjYxMDcw", "slug": "ordered-set"}, {"name": "Bitmask", "id": "VG9waWNUYWdOb2RlOjYxMDc4", "slug": "bitmask"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 75.25572159784937,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "22",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Generate Parentheses",
+        "titleSlug": "generate-parentheses",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 20.527984305474604,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "2035",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Ordered Set",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcw",
+                "slug": "ordered-set"
+            },
+            {
+                "name": "Bitmask",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc4",
+                "slug": "bitmask"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

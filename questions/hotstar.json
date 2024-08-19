@@ -1,1 +1,62 @@
-[{"acRate": 40.2888305504506, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "124", "isFavor": false, "paidOnly": false, "status": null, "title": "Binary Tree Maximum Path Sum", "titleSlug": "binary-tree-maximum-path-sum", "topicTags": [{"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 39.97474614615668, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "927", "isFavor": false, "paidOnly": false, "status": null, "title": "Three Equal Parts", "titleSlug": "three-equal-parts", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 40.2888305504506,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "124",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Binary Tree Maximum Path Sum",
+        "titleSlug": "binary-tree-maximum-path-sum",
+        "topicTags": [
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 39.97474614615668,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "927",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Three Equal Parts",
+        "titleSlug": "three-equal-parts",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,32 @@
-[{"acRate": 51.36379092587195, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "966", "isFavor": false, "paidOnly": false, "status": null, "title": "Vowel Spellchecker", "titleSlug": "vowel-spellchecker", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 51.36379092587195,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "966",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Vowel Spellchecker",
+        "titleSlug": "vowel-spellchecker",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

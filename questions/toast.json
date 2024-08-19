@@ -1,1 +1,57 @@
-[{"acRate": 48.402893145043066, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "125", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Palindrome", "titleSlug": "valid-palindrome", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.498256126922804, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "277", "isFavor": false, "paidOnly": true, "status": null, "title": "Find the Celebrity", "titleSlug": "find-the-celebrity", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Interactive", "id": "VG9waWNUYWdOb2RlOjYxMDU5", "slug": "interactive"}], "hasSolution": true, "hasVideoSolution": true}]
+[
+    {
+        "acRate": 48.402893145043066,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "125",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Palindrome",
+        "titleSlug": "valid-palindrome",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.498256126922804,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "277",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Find the Celebrity",
+        "titleSlug": "find-the-celebrity",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Interactive",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU5",
+                "slug": "interactive"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    }
+]

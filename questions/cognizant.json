@@ -1,1 +1,232 @@
-[{"acRate": 53.40590188617716, "difficulty": "Easy", "freqBar": 22.066575725701654, "frontendQuestionId": "1", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Two Sum", "titleSlug": "two-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 57.20696316601733, "difficulty": "Easy", "freqBar": 41.68662408327343, "frontendQuestionId": "9", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Palindrome Number", "titleSlug": "palindrome-number", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.50752141490899, "difficulty": "Easy", "freqBar": 47.898432236108114, "frontendQuestionId": "14", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Longest Common Prefix", "titleSlug": "longest-common-prefix", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 56.61068571947697, "difficulty": "Easy", "freqBar": 83.26390329970016, "frontendQuestionId": "202", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Happy Number", "titleSlug": "happy-number", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 33.88485883309168, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "204", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Primes", "titleSlug": "count-primes", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Enumeration", "id": "VG9waWNUYWdOb2RlOjYxMDY2", "slug": "enumeration"}, {"name": "Number Theory", "id": "VG9waWNUYWdOb2RlOjYxMDY3", "slug": "number-theory"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 61.98856914546885, "difficulty": "Easy", "freqBar": 52.62128685620726, "frontendQuestionId": "283", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Move Zeroes", "titleSlug": "move-zeroes", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 49.71223239185274, "difficulty": "Medium", "freqBar": 93.5961718236446, "frontendQuestionId": "570", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Managers with at Least 5 Direct Reports", "titleSlug": "managers-with-at-least-5-direct-reports", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 58.15425623519245, "difficulty": "Easy", "freqBar": 61.19732757399851, "frontendQuestionId": "704", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Binary Search", "titleSlug": "binary-search", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 52.25076461381618, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2165", "isFavor": false, "paidOnly": false, "status": null, "title": "Smallest Value of the Rearranged Number", "titleSlug": "smallest-value-of-the-rearranged-number", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 53.40590188617716,
+        "difficulty": "Easy",
+        "freqBar": 22.066575725701654,
+        "frontendQuestionId": "1",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 57.20696316601733,
+        "difficulty": "Easy",
+        "freqBar": 41.68662408327343,
+        "frontendQuestionId": "9",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Palindrome Number",
+        "titleSlug": "palindrome-number",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.50752141490899,
+        "difficulty": "Easy",
+        "freqBar": 47.898432236108114,
+        "frontendQuestionId": "14",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 56.61068571947697,
+        "difficulty": "Easy",
+        "freqBar": 83.26390329970016,
+        "frontendQuestionId": "202",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Happy Number",
+        "titleSlug": "happy-number",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 33.88485883309168,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "204",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Primes",
+        "titleSlug": "count-primes",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Enumeration",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+                "slug": "enumeration"
+            },
+            {
+                "name": "Number Theory",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+                "slug": "number-theory"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 61.98856914546885,
+        "difficulty": "Easy",
+        "freqBar": 52.62128685620726,
+        "frontendQuestionId": "283",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Move Zeroes",
+        "titleSlug": "move-zeroes",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 49.71223239185274,
+        "difficulty": "Medium",
+        "freqBar": 93.5961718236446,
+        "frontendQuestionId": "570",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Managers with at Least 5 Direct Reports",
+        "titleSlug": "managers-with-at-least-5-direct-reports",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 58.15425623519245,
+        "difficulty": "Easy",
+        "freqBar": 61.19732757399851,
+        "frontendQuestionId": "704",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Binary Search",
+        "titleSlug": "binary-search",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 52.25076461381618,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2165",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Smallest Value of the Rearranged Number",
+        "titleSlug": "smallest-value-of-the-rearranged-number",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

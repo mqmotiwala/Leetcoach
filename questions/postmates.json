@@ -1,1 +1,97 @@
-[{"acRate": 54.509280041501185, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1657", "isFavor": false, "paidOnly": false, "status": null, "title": "Determine if Two Strings Are Close", "titleSlug": "determine-if-two-strings-are-close", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.805336895052434, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2070", "isFavor": false, "paidOnly": false, "status": null, "title": "Most Beautiful Item for Each Query", "titleSlug": "most-beautiful-item-for-each-query", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 60.19661525570701, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2269", "isFavor": false, "paidOnly": false, "status": null, "title": "Find the K-Beauty of a Number", "titleSlug": "find-the-k-beauty-of-a-number", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 54.509280041501185,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1657",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Determine if Two Strings Are Close",
+        "titleSlug": "determine-if-two-strings-are-close",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.805336895052434,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2070",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Most Beautiful Item for Each Query",
+        "titleSlug": "most-beautiful-item-for-each-query",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 60.19661525570701,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2269",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find the K-Beauty of a Number",
+        "titleSlug": "find-the-k-beauty-of-a-number",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

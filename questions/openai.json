@@ -1,1 +1,107 @@
-[{"acRate": 44.090788617690286, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "631", "isFavor": false, "paidOnly": true, "status": null, "title": "Design Excel Sum Formula", "titleSlug": "design-excel-sum-formula", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Topological Sort", "id": "VG9waWNUYWdOb2RlOjI2", "slug": "topological-sort"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.29382711917236, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "981", "isFavor": false, "paidOnly": false, "status": null, "title": "Time Based Key-Value Store", "titleSlug": "time-based-key-value-store", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.39847863233036, "difficulty": "Medium", "freqBar": 81.70590574881726, "frontendQuestionId": "1242", "isFavor": false, "paidOnly": true, "status": null, "title": "Web Crawler Multithreaded", "titleSlug": "web-crawler-multithreaded", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Concurrency", "id": "VG9waWNUYWdOb2RlOjYxMDQ1", "slug": "concurrency"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 44.090788617690286,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "631",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Design Excel Sum Formula",
+        "titleSlug": "design-excel-sum-formula",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Topological Sort",
+                "id": "VG9waWNUYWdOb2RlOjI2",
+                "slug": "topological-sort"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.29382711917236,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "981",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Time Based Key-Value Store",
+        "titleSlug": "time-based-key-value-store",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.39847863233036,
+        "difficulty": "Medium",
+        "freqBar": 81.70590574881726,
+        "frontendQuestionId": "1242",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Web Crawler Multithreaded",
+        "titleSlug": "web-crawler-multithreaded",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Concurrency",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ1",
+                "slug": "concurrency"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

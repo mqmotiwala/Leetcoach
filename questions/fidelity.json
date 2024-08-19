@@ -1,1 +1,27 @@
-[{"acRate": 68.48018308540517, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3033", "isFavor": false, "paidOnly": false, "status": null, "title": "Modify the Matrix", "titleSlug": "modify-the-matrix", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 68.48018308540517,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3033",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Modify the Matrix",
+        "titleSlug": "modify-the-matrix",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

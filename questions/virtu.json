@@ -1,1 +1,157 @@
-[{"acRate": 41.30567065410187, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "33", "isFavor": false, "paidOnly": false, "status": null, "title": "Search in Rotated Sorted Array", "titleSlug": "search-in-rotated-sorted-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 80.01781302074355, "difficulty": "Easy", "freqBar": 89.93831372531746, "frontendQuestionId": "1180", "isFavor": false, "paidOnly": true, "status": null, "title": "Count Substrings with Only One Distinct Letter", "titleSlug": "count-substrings-with-only-one-distinct-letter", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 67.04152090697632, "difficulty": "Easy", "freqBar": 74.82794834110098, "frontendQuestionId": "1196", "isFavor": false, "paidOnly": true, "status": null, "title": "How Many Apples Can You Put into the Basket", "titleSlug": "how-many-apples-can-you-put-into-the-basket", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 52.3660509845825, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "1243", "isFavor": false, "paidOnly": true, "status": null, "title": "Array Transformation", "titleSlug": "array-transformation", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 58.10268546146723, "difficulty": "Easy", "freqBar": 89.93831372531746, "frontendQuestionId": "1271", "isFavor": false, "paidOnly": true, "status": null, "title": "Hexspeak", "titleSlug": "hexspeak", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 57.67478405502069, "difficulty": "Medium", "freqBar": 37.41397417055049, "frontendQuestionId": "1759", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Number of Homogenous Substrings", "titleSlug": "count-number-of-homogenous-substrings", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 41.30567065410187,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "33",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Search in Rotated Sorted Array",
+        "titleSlug": "search-in-rotated-sorted-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 80.01781302074355,
+        "difficulty": "Easy",
+        "freqBar": 89.93831372531746,
+        "frontendQuestionId": "1180",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Count Substrings with Only One Distinct Letter",
+        "titleSlug": "count-substrings-with-only-one-distinct-letter",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 67.04152090697632,
+        "difficulty": "Easy",
+        "freqBar": 74.82794834110098,
+        "frontendQuestionId": "1196",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "How Many Apples Can You Put into the Basket",
+        "titleSlug": "how-many-apples-can-you-put-into-the-basket",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 52.3660509845825,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1243",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Array Transformation",
+        "titleSlug": "array-transformation",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 58.10268546146723,
+        "difficulty": "Easy",
+        "freqBar": 89.93831372531746,
+        "frontendQuestionId": "1271",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Hexspeak",
+        "titleSlug": "hexspeak",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 57.67478405502069,
+        "difficulty": "Medium",
+        "freqBar": 37.41397417055049,
+        "frontendQuestionId": "1759",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Number of Homogenous Substrings",
+        "titleSlug": "count-number-of-homogenous-substrings",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

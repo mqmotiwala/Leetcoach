@@ -1,1 +1,42 @@
-[{"acRate": 51.38580109678376, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2959", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Possible Sets of Closing Branches", "titleSlug": "number-of-possible-sets-of-closing-branches", "topicTags": [{"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Enumeration", "id": "VG9waWNUYWdOb2RlOjYxMDY2", "slug": "enumeration"}, {"name": "Shortest Path", "id": "VG9waWNUYWdOb2RlOjYxMDc2", "slug": "shortest-path"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 51.38580109678376,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2959",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Possible Sets of Closing Branches",
+        "titleSlug": "number-of-possible-sets-of-closing-branches",
+        "topicTags": [
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Enumeration",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+                "slug": "enumeration"
+            },
+            {
+                "name": "Shortest Path",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc2",
+                "slug": "shortest-path"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

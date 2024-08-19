@@ -1,1 +1,22 @@
-[{"acRate": 68.98528215368685, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2264", "isFavor": false, "paidOnly": false, "status": null, "title": "Largest 3-Same-Digit Number in String", "titleSlug": "largest-3-same-digit-number-in-string", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 68.98528215368685,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2264",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Largest 3-Same-Digit Number in String",
+        "titleSlug": "largest-3-same-digit-number-in-string",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

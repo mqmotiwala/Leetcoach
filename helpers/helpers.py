@@ -67,7 +67,7 @@ def getQuestions(companies, scrapeNew):
 
         # write questions to file
         with open(f"{fileName}.json", "w") as f:
-            f.write(json.dumps(questions))
+            f.write(json.dumps(questions, indent=4))
 
     else:
         try:

@@ -1,1 +1,32 @@
-[{"acRate": 47.83809584790998, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "649", "isFavor": false, "paidOnly": false, "status": null, "title": "Dota2 Senate", "titleSlug": "dota2-senate", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 47.83809584790998,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "649",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Dota2 Senate",
+        "titleSlug": "dota2-senate",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

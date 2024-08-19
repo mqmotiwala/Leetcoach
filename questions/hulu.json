@@ -1,1 +1,177 @@
-[{"acRate": 52.34573313660188, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "371", "isFavor": false, "paidOnly": false, "status": null, "title": "Sum of Two Integers", "titleSlug": "sum-of-two-integers", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 32.565713273468056, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "440", "isFavor": false, "paidOnly": false, "status": null, "title": "K-th Smallest in Lexicographical Order", "titleSlug": "k-th-smallest-in-lexicographical-order", "topicTags": [{"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 50.97346037538488, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "772", "isFavor": false, "paidOnly": true, "status": null, "title": "Basic Calculator III", "titleSlug": "basic-calculator-iii", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 72.26683335271544, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "814", "isFavor": false, "paidOnly": false, "status": null, "title": "Binary Tree Pruning", "titleSlug": "binary-tree-pruning", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.29372400166933, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "981", "isFavor": false, "paidOnly": false, "status": null, "title": "Time Based Key-Value Store", "titleSlug": "time-based-key-value-store", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 79.14829551564685, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1063", "isFavor": false, "paidOnly": true, "status": null, "title": "Number of Valid Subarrays", "titleSlug": "number-of-valid-subarrays", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 52.34573313660188,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "371",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sum of Two Integers",
+        "titleSlug": "sum-of-two-integers",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 32.565713273468056,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "440",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "K-th Smallest in Lexicographical Order",
+        "titleSlug": "k-th-smallest-in-lexicographical-order",
+        "topicTags": [
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 50.97346037538488,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "772",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Basic Calculator III",
+        "titleSlug": "basic-calculator-iii",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.26683335271544,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "814",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Binary Tree Pruning",
+        "titleSlug": "binary-tree-pruning",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.29372400166933,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "981",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Time Based Key-Value Store",
+        "titleSlug": "time-based-key-value-store",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 79.14829551564685,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1063",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Number of Valid Subarrays",
+        "titleSlug": "number-of-valid-subarrays",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

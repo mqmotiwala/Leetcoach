@@ -1,1 +1,92 @@
-[{"acRate": 48.965665182246575, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "340", "isFavor": false, "paidOnly": true, "status": null, "title": "Longest Substring with At Most K Distinct Characters", "titleSlug": "longest-substring-with-at-most-k-distinct-characters", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 51.012483637737304, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "1639", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Ways to Form a Target String Given a Dictionary", "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 73.56351141653735, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1742", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Number of Balls in a Box", "titleSlug": "maximum-number-of-balls-in-a-box", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 48.965665182246575,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "340",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Longest Substring with At Most K Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 51.012483637737304,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1639",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 73.56351141653735,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1742",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Number of Balls in a Box",
+        "titleSlug": "maximum-number-of-balls-in-a-box",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

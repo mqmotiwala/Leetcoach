@@ -1,1 +1,32 @@
-[{"acRate": 45.20815811210772, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "84", "isFavor": false, "paidOnly": false, "status": null, "title": "Largest Rectangle in Histogram", "titleSlug": "largest-rectangle-in-histogram", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": true, "hasVideoSolution": true}]
+[
+    {
+        "acRate": 45.20815811210772,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "84",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Largest Rectangle in Histogram",
+        "titleSlug": "largest-rectangle-in-histogram",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    }
+]

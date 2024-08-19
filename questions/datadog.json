@@ -1,1 +1,187 @@
-[{"acRate": 44.58314905734669, "difficulty": "Medium", "freqBar": 7.503095316265347, "frontendQuestionId": "322", "isFavor": false, "paidOnly": false, "status": null, "title": "Coin Change", "titleSlug": "coin-change", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 36.016711179342366, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "408", "isFavor": false, "paidOnly": true, "status": "ac", "title": "Valid Word Abbreviation", "titleSlug": "valid-word-abbreviation", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 38.953395735382266, "difficulty": "Hard", "freqBar": 12.193705108638394, "frontendQuestionId": "480", "isFavor": false, "paidOnly": false, "status": null, "title": "Sliding Window Median", "titleSlug": "sliding-window-median", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 72.33594572464615, "difficulty": "Easy", "freqBar": 69.43040055065002, "frontendQuestionId": "559", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Depth of N-ary Tree", "titleSlug": "maximum-depth-of-n-ary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 45.817165916498524, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "568", "isFavor": false, "paidOnly": true, "status": null, "title": "Maximum Vacation Days", "titleSlug": "maximum-vacation-days", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.71115270790408, "difficulty": "Medium", "freqBar": 24.456989840666246, "frontendQuestionId": "622", "isFavor": false, "paidOnly": false, "status": null, "title": "Design Circular Queue", "titleSlug": "design-circular-queue", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 44.58314905734669,
+        "difficulty": "Medium",
+        "freqBar": 7.503095316265347,
+        "frontendQuestionId": "322",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Coin Change",
+        "titleSlug": "coin-change",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 36.016711179342366,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "408",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": "ac",
+        "title": "Valid Word Abbreviation",
+        "titleSlug": "valid-word-abbreviation",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 38.953395735382266,
+        "difficulty": "Hard",
+        "freqBar": 12.193705108638394,
+        "frontendQuestionId": "480",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sliding Window Median",
+        "titleSlug": "sliding-window-median",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.33594572464615,
+        "difficulty": "Easy",
+        "freqBar": 69.43040055065002,
+        "frontendQuestionId": "559",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Depth of N-ary Tree",
+        "titleSlug": "maximum-depth-of-n-ary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.817165916498524,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "568",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Maximum Vacation Days",
+        "titleSlug": "maximum-vacation-days",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.71115270790408,
+        "difficulty": "Medium",
+        "freqBar": 24.456989840666246,
+        "frontendQuestionId": "622",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Design Circular Queue",
+        "titleSlug": "design-circular-queue",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,77 @@
-[{"acRate": 52.36252515479336, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "150", "isFavor": false, "paidOnly": false, "status": null, "title": "Evaluate Reverse Polish Notation", "titleSlug": "evaluate-reverse-polish-notation", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 35.8129862452629, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2525", "isFavor": false, "paidOnly": false, "status": null, "title": "Categorize Box According to Criteria", "titleSlug": "categorize-box-according-to-criteria", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 19.17506277897503, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2591", "isFavor": false, "paidOnly": false, "status": null, "title": "Distribute Money to Maximum Children", "titleSlug": "distribute-money-to-maximum-children", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 52.36252515479336,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "150",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Evaluate Reverse Polish Notation",
+        "titleSlug": "evaluate-reverse-polish-notation",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 35.8129862452629,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2525",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Categorize Box According to Criteria",
+        "titleSlug": "categorize-box-according-to-criteria",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 19.17506277897503,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2591",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Distribute Money to Maximum Children",
+        "titleSlug": "distribute-money-to-maximum-children",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

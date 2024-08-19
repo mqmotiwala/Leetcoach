@@ -1,1 +1,67 @@
-[{"acRate": 49.29382711917236, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "981", "isFavor": false, "paidOnly": false, "status": null, "title": "Time Based Key-Value Store", "titleSlug": "time-based-key-value-store", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.835307177391854, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2133", "isFavor": false, "paidOnly": false, "status": null, "title": "Check if Every Row and Column Contains All Numbers", "titleSlug": "check-if-every-row-and-column-contains-all-numbers", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 49.29382711917236,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "981",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Time Based Key-Value Store",
+        "titleSlug": "time-based-key-value-store",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.835307177391854,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2133",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "titleSlug": "check-if-every-row-and-column-contains-all-numbers",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

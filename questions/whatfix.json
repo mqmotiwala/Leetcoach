@@ -1,1 +1,32 @@
-[{"acRate": 49.81988285906805, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2360", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Cycle in a Graph", "titleSlug": "longest-cycle-in-a-graph", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Topological Sort", "id": "VG9waWNUYWdOb2RlOjI2", "slug": "topological-sort"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 49.81988285906805,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2360",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Cycle in a Graph",
+        "titleSlug": "longest-cycle-in-a-graph",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Topological Sort",
+                "id": "VG9waWNUYWdOb2RlOjI2",
+                "slug": "topological-sort"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

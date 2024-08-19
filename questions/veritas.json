@@ -1,1 +1,52 @@
-[{"acRate": 66.45541939301425, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "1507", "isFavor": false, "paidOnly": false, "status": null, "title": "Reformat Date", "titleSlug": "reformat-date", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 37.712643294007556, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2381", "isFavor": false, "paidOnly": false, "status": null, "title": "Shifting Letters II", "titleSlug": "shifting-letters-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 66.45541939301425,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1507",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reformat Date",
+        "titleSlug": "reformat-date",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 37.712643294007556,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2381",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Shifting Letters II",
+        "titleSlug": "shifting-letters-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

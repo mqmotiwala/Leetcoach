@@ -1,1 +1,37 @@
-[{"acRate": 64.42389092022552, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "655", "isFavor": false, "paidOnly": false, "status": null, "title": "Print Binary Tree", "titleSlug": "print-binary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 64.42389092022552,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "655",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Print Binary Tree",
+        "titleSlug": "print-binary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

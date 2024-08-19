@@ -1,1 +1,27 @@
-[{"acRate": 74.509042170898, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2169", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Operations to Obtain Zero", "titleSlug": "count-operations-to-obtain-zero", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 74.509042170898,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2169",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Operations to Obtain Zero",
+        "titleSlug": "count-operations-to-obtain-zero",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

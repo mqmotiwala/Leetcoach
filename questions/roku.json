@@ -1,1 +1,187 @@
-[{"acRate": 32.58555376944218, "difficulty": "Hard", "freqBar": 37.3875907063767, "frontendQuestionId": "30", "isFavor": false, "paidOnly": false, "status": null, "title": "Substring with Concatenation of All Words", "titleSlug": "substring-with-concatenation-of-all-words", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 46.76664425996402, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "239", "isFavor": false, "paidOnly": false, "status": null, "title": "Sliding Window Maximum", "titleSlug": "sliding-window-maximum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Monotonic Queue", "id": "VG9waWNUYWdOb2RlOjYxMDcx", "slug": "monotonic-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 59.63317179672338, "difficulty": "Medium", "freqBar": 14.293372206901362, "frontendQuestionId": "394", "isFavor": false, "paidOnly": false, "status": null, "title": "Decode String", "titleSlug": "decode-string", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 44.625794452061655, "difficulty": "Medium", "freqBar": 0.9353397546388555, "frontendQuestionId": "735", "isFavor": false, "paidOnly": false, "status": null, "title": "Asteroid Collision", "titleSlug": "asteroid-collision", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 65.54163251438429, "difficulty": "Easy", "freqBar": 30.17717155764069, "frontendQuestionId": "1046", "isFavor": false, "paidOnly": false, "status": null, "title": "Last Stone Weight", "titleSlug": "last-stone-weight", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 65.00033956921727, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "1359", "isFavor": false, "paidOnly": false, "status": null, "title": "Count All Valid Pickup and Delivery Options", "titleSlug": "count-all-valid-pickup-and-delivery-options", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Combinatorics", "id": "VG9waWNUYWdOb2RlOjYxMDU2", "slug": "combinatorics"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 32.58555376944218,
+        "difficulty": "Hard",
+        "freqBar": 37.3875907063767,
+        "frontendQuestionId": "30",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Substring with Concatenation of All Words",
+        "titleSlug": "substring-with-concatenation-of-all-words",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 46.76664425996402,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "239",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Monotonic Queue",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcx",
+                "slug": "monotonic-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 59.63317179672338,
+        "difficulty": "Medium",
+        "freqBar": 14.293372206901362,
+        "frontendQuestionId": "394",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Decode String",
+        "titleSlug": "decode-string",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.625794452061655,
+        "difficulty": "Medium",
+        "freqBar": 0.9353397546388555,
+        "frontendQuestionId": "735",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Asteroid Collision",
+        "titleSlug": "asteroid-collision",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 65.54163251438429,
+        "difficulty": "Easy",
+        "freqBar": 30.17717155764069,
+        "frontendQuestionId": "1046",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Last Stone Weight",
+        "titleSlug": "last-stone-weight",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 65.00033956921727,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1359",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count All Valid Pickup and Delivery Options",
+        "titleSlug": "count-all-valid-pickup-and-delivery-options",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Combinatorics",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+                "slug": "combinatorics"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

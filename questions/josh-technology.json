@@ -1,1 +1,212 @@
-[{"acRate": 43.74309753558794, "difficulty": "Medium", "freqBar": 20.224501703712725, "frontendQuestionId": "2", "isFavor": false, "paidOnly": false, "status": null, "title": "Add Two Numbers", "titleSlug": "add-two-numbers", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 54.00280423060114, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "121", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Best Time to Buy and Sell Stock", "titleSlug": "best-time-to-buy-and-sell-stock", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 61.98856914546885, "difficulty": "Easy", "freqBar": 9.246324561153795, "frontendQuestionId": "283", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Move Zeroes", "titleSlug": "move-zeroes", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 72.26683335271544, "difficulty": "Medium", "freqBar": 81.87042615742995, "frontendQuestionId": "814", "isFavor": false, "paidOnly": false, "status": null, "title": "Binary Tree Pruning", "titleSlug": "binary-tree-pruning", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 52.75362410225044, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1171", "isFavor": false, "paidOnly": false, "status": null, "title": "Remove Zero Sum Consecutive Nodes from Linked List", "titleSlug": "remove-zero-sum-consecutive-nodes-from-linked-list", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 71.9015567698131, "difficulty": "Medium", "freqBar": 71.42329372251781, "frontendQuestionId": "1530", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Good Leaf Nodes Pairs", "titleSlug": "number-of-good-leaf-nodes-pairs", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 69.68574271908685, "difficulty": "Medium", "freqBar": 83.88115243850281, "frontendQuestionId": "2058", "isFavor": false, "paidOnly": false, "status": null, "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points", "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 89.83515485403063, "difficulty": "Medium", "freqBar": 45.82389771311527, "frontendQuestionId": "2181", "isFavor": false, "paidOnly": false, "status": null, "title": "Merge Nodes in Between Zeros", "titleSlug": "merge-nodes-in-between-zeros", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 43.74309753558794,
+        "difficulty": "Medium",
+        "freqBar": 20.224501703712725,
+        "frontendQuestionId": "2",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Add Two Numbers",
+        "titleSlug": "add-two-numbers",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 54.00280423060114,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "121",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Best Time to Buy and Sell Stock",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 61.98856914546885,
+        "difficulty": "Easy",
+        "freqBar": 9.246324561153795,
+        "frontendQuestionId": "283",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Move Zeroes",
+        "titleSlug": "move-zeroes",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 72.26683335271544,
+        "difficulty": "Medium",
+        "freqBar": 81.87042615742995,
+        "frontendQuestionId": "814",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Binary Tree Pruning",
+        "titleSlug": "binary-tree-pruning",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 52.75362410225044,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1171",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+        "titleSlug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 71.9015567698131,
+        "difficulty": "Medium",
+        "freqBar": 71.42329372251781,
+        "frontendQuestionId": "1530",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Good Leaf Nodes Pairs",
+        "titleSlug": "number-of-good-leaf-nodes-pairs",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 69.68574271908685,
+        "difficulty": "Medium",
+        "freqBar": 83.88115243850281,
+        "frontendQuestionId": "2058",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 89.83515485403063,
+        "difficulty": "Medium",
+        "freqBar": 45.82389771311527,
+        "frontendQuestionId": "2181",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Merge Nodes in Between Zeros",
+        "titleSlug": "merge-nodes-in-between-zeros",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

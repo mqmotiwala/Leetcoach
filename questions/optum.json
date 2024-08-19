@@ -1,1 +1,47 @@
-[{"acRate": 51.34056375247743, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1555", "isFavor": false, "paidOnly": true, "status": null, "title": "Bank Account Summary", "titleSlug": "bank-account-summary", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 86.28078802086311, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2000", "isFavor": false, "paidOnly": false, "status": null, "title": "Reverse Prefix of Word", "titleSlug": "reverse-prefix-of-word", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 51.34056375247743,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1555",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Bank Account Summary",
+        "titleSlug": "bank-account-summary",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 86.28078802086311,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2000",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reverse Prefix of Word",
+        "titleSlug": "reverse-prefix-of-word",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

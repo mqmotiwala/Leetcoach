@@ -1,1 +1,27 @@
-[{"acRate": 51.665845370518696, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "713", "isFavor": false, "paidOnly": false, "status": null, "title": "Subarray Product Less Than K", "titleSlug": "subarray-product-less-than-k", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 51.665845370518696,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "713",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Subarray Product Less Than K",
+        "titleSlug": "subarray-product-less-than-k",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,27 @@
-[{"acRate": 35.32589768762399, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "50", "isFavor": false, "paidOnly": false, "status": null, "title": "Pow(x, n)", "titleSlug": "powx-n", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 35.32589768762399,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "50",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Pow(x, n)",
+        "titleSlug": "powx-n",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

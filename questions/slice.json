@@ -1,1 +1,72 @@
-[{"acRate": 51.012483637737304, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1639", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Ways to Form a Target String Given a Dictionary", "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 44.269854121780185, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "2008", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Earnings From Taxi", "titleSlug": "maximum-earnings-from-taxi", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 51.012483637737304,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1639",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "titleSlug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.269854121780185,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "2008",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Earnings From Taxi",
+        "titleSlug": "maximum-earnings-from-taxi",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

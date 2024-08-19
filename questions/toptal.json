@@ -1,1 +1,57 @@
-[{"acRate": 41.07904679156131, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "1465", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts", "titleSlug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 52.50742599070366, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1531", "isFavor": false, "paidOnly": false, "status": null, "title": "String Compression II", "titleSlug": "string-compression-ii", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 41.07904679156131,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1465",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+        "titleSlug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 52.50742599070366,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1531",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "String Compression II",
+        "titleSlug": "string-compression-ii",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

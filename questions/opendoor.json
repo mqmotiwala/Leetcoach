@@ -1,1 +1,72 @@
-[{"acRate": 69.8099685429033, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "289", "isFavor": false, "paidOnly": false, "status": null, "title": "Game of Life", "titleSlug": "game-of-life", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 44.090788617690286, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "631", "isFavor": false, "paidOnly": true, "status": null, "title": "Design Excel Sum Formula", "titleSlug": "design-excel-sum-formula", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Topological Sort", "id": "VG9waWNUYWdOb2RlOjI2", "slug": "topological-sort"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 69.8099685429033,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "289",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Game of Life",
+        "titleSlug": "game-of-life",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 44.090788617690286,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "631",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Design Excel Sum Formula",
+        "titleSlug": "design-excel-sum-formula",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Topological Sort",
+                "id": "VG9waWNUYWdOb2RlOjI2",
+                "slug": "topological-sort"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

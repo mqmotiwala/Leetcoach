@@ -1,1 +1,72 @@
-[{"acRate": 34.83072916666667, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1994", "isFavor": false, "paidOnly": false, "status": null, "title": "The Number of Good Subsets", "titleSlug": "the-number-of-good-subsets", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Bitmask", "id": "VG9waWNUYWdOb2RlOjYxMDc4", "slug": "bitmask"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 26.150206656515117, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2157", "isFavor": false, "paidOnly": false, "status": null, "title": "Groups of Strings", "titleSlug": "groups-of-strings", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 34.83072916666667,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1994",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "The Number of Good Subsets",
+        "titleSlug": "the-number-of-good-subsets",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Bitmask",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc4",
+                "slug": "bitmask"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 26.150206656515117,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2157",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Groups of Strings",
+        "titleSlug": "groups-of-strings",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,37 @@
-[{"acRate": 50.97346037538488, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "772", "isFavor": false, "paidOnly": true, "status": null, "title": "Basic Calculator III", "titleSlug": "basic-calculator-iii", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 50.97346037538488,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "772",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Basic Calculator III",
+        "titleSlug": "basic-calculator-iii",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

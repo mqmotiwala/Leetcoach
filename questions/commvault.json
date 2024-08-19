@@ -1,1 +1,232 @@
-[{"acRate": 59.9616698558482, "difficulty": "Hard", "freqBar": 35.33068157041545, "frontendQuestionId": "25", "isFavor": false, "paidOnly": false, "status": null, "title": "Reverse Nodes in k-Group", "titleSlug": "reverse-nodes-in-k-group", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 35.29527671405625, "difficulty": "Medium", "freqBar": 59.7509709443788, "frontendQuestionId": "91", "isFavor": false, "paidOnly": false, "status": null, "title": "Decode Ways", "titleSlug": "decode-ways", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 56.04594874227724, "difficulty": "Medium", "freqBar": 28.058759307343024, "frontendQuestionId": "300", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Increasing Subsequence", "titleSlug": "longest-increasing-subsequence", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 48.539098565034095, "difficulty": "Medium", "freqBar": 49.378492377768666, "frontendQuestionId": "673", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Longest Increasing Subsequence", "titleSlug": "number-of-longest-increasing-subsequence", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Binary Indexed Tree", "id": "VG9waWNUYWdOb2RlOjI4", "slug": "binary-indexed-tree"}, {"name": "Segment Tree", "id": "VG9waWNUYWdOb2RlOjI5", "slug": "segment-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.30156198480189, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "754", "isFavor": false, "paidOnly": false, "status": null, "title": "Reach a Number", "titleSlug": "reach-a-number", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 67.77090053177578, "difficulty": "Medium", "freqBar": 71.94124069265698, "frontendQuestionId": "1861", "isFavor": false, "paidOnly": false, "status": null, "title": "Rotating the Box", "titleSlug": "rotating-the-box", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 68.09868073032717, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2062", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Vowel Substrings of a String", "titleSlug": "count-vowel-substrings-of-a-string", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 49.20508197674726, "difficulty": "Medium", "freqBar": 67.19627088934779, "frontendQuestionId": "2316", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Unreachable Pairs of Nodes in an Undirected Graph", "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 59.9616698558482,
+        "difficulty": "Hard",
+        "freqBar": 35.33068157041545,
+        "frontendQuestionId": "25",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reverse Nodes in k-Group",
+        "titleSlug": "reverse-nodes-in-k-group",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 35.29527671405625,
+        "difficulty": "Medium",
+        "freqBar": 59.7509709443788,
+        "frontendQuestionId": "91",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Decode Ways",
+        "titleSlug": "decode-ways",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 56.04594874227724,
+        "difficulty": "Medium",
+        "freqBar": 28.058759307343024,
+        "frontendQuestionId": "300",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Increasing Subsequence",
+        "titleSlug": "longest-increasing-subsequence",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.539098565034095,
+        "difficulty": "Medium",
+        "freqBar": 49.378492377768666,
+        "frontendQuestionId": "673",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Longest Increasing Subsequence",
+        "titleSlug": "number-of-longest-increasing-subsequence",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Binary Indexed Tree",
+                "id": "VG9waWNUYWdOb2RlOjI4",
+                "slug": "binary-indexed-tree"
+            },
+            {
+                "name": "Segment Tree",
+                "id": "VG9waWNUYWdOb2RlOjI5",
+                "slug": "segment-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.30156198480189,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "754",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Reach a Number",
+        "titleSlug": "reach-a-number",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 67.77090053177578,
+        "difficulty": "Medium",
+        "freqBar": 71.94124069265698,
+        "frontendQuestionId": "1861",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Rotating the Box",
+        "titleSlug": "rotating-the-box",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 68.09868073032717,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2062",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Vowel Substrings of a String",
+        "titleSlug": "count-vowel-substrings-of-a-string",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.20508197674726,
+        "difficulty": "Medium",
+        "freqBar": 67.19627088934779,
+        "frontendQuestionId": "2316",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

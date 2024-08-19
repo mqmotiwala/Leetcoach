@@ -1,1 +1,372 @@
-[{"acRate": 69.1638134018837, "difficulty": "Medium", "freqBar": 57.36521234600836, "frontendQuestionId": "49", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Group Anagrams", "titleSlug": "group-anagrams", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 66.56028898325873, "difficulty": "Medium", "freqBar": 45.18613087233264, "frontendQuestionId": "238", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Product of Array Except Self", "titleSlug": "product-of-array-except-self", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 46.76664425996402, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "239", "isFavor": false, "paidOnly": false, "status": null, "title": "Sliding Window Maximum", "titleSlug": "sliding-window-maximum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Monotonic Queue", "id": "VG9waWNUYWdOb2RlOjYxMDcx", "slug": "monotonic-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 65.09797433779067, "difficulty": "Easy", "freqBar": 42.63478765399164, "frontendQuestionId": "242", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Anagram", "titleSlug": "valid-anagram", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 80.94236297355025, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3019", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Changing Keys", "titleSlug": "number-of-changing-keys", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 66.75226311830467, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "3034", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Subarrays That Match a Pattern I", "titleSlug": "number-of-subarrays-that-match-a-pattern-i", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Rolling Hash", "id": "VG9waWNUYWdOb2RlOjU2NTk4", "slug": "rolling-hash"}, {"name": "String Matching", "id": "VG9waWNUYWdOb2RlOjYxMDUy", "slug": "string-matching"}, {"name": "Hash Function", "id": "VG9waWNUYWdOb2RlOjYxMDY1", "slug": "hash-function"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 32.53972995578922, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "3036", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Subarrays That Match a Pattern II", "titleSlug": "number-of-subarrays-that-match-a-pattern-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Rolling Hash", "id": "VG9waWNUYWdOb2RlOjU2NTk4", "slug": "rolling-hash"}, {"name": "String Matching", "id": "VG9waWNUYWdOb2RlOjYxMDUy", "slug": "string-matching"}, {"name": "Hash Function", "id": "VG9waWNUYWdOb2RlOjYxMDY1", "slug": "hash-function"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 65.33326406566576, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3042", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Prefix and Suffix Pairs I", "titleSlug": "count-prefix-and-suffix-pairs-i", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}, {"name": "Rolling Hash", "id": "VG9waWNUYWdOb2RlOjU2NTk4", "slug": "rolling-hash"}, {"name": "String Matching", "id": "VG9waWNUYWdOb2RlOjYxMDUy", "slug": "string-matching"}, {"name": "Hash Function", "id": "VG9waWNUYWdOb2RlOjYxMDY1", "slug": "hash-function"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 24.89063342721879, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "3045", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Prefix and Suffix Pairs II", "titleSlug": "count-prefix-and-suffix-pairs-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}, {"name": "Rolling Hash", "id": "VG9waWNUYWdOb2RlOjU2NTk4", "slug": "rolling-hash"}, {"name": "String Matching", "id": "VG9waWNUYWdOb2RlOjYxMDUy", "slug": "string-matching"}, {"name": "Hash Function", "id": "VG9waWNUYWdOb2RlOjYxMDY1", "slug": "hash-function"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 72.71816638370119, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "3069", "isFavor": false, "paidOnly": false, "status": null, "title": "Distribute Elements Into Two Arrays I", "titleSlug": "distribute-elements-into-two-arrays-i", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 27.690457316239787, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "3072", "isFavor": false, "paidOnly": false, "status": null, "title": "Distribute Elements Into Two Arrays II", "titleSlug": "distribute-elements-into-two-arrays-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Indexed Tree", "id": "VG9waWNUYWdOb2RlOjI4", "slug": "binary-indexed-tree"}, {"name": "Segment Tree", "id": "VG9waWNUYWdOb2RlOjI5", "slug": "segment-tree"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 69.1638134018837,
+        "difficulty": "Medium",
+        "freqBar": 57.36521234600836,
+        "frontendQuestionId": "49",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Group Anagrams",
+        "titleSlug": "group-anagrams",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 66.56028898325873,
+        "difficulty": "Medium",
+        "freqBar": 45.18613087233264,
+        "frontendQuestionId": "238",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 46.76664425996402,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "239",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Monotonic Queue",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcx",
+                "slug": "monotonic-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 65.09797433779067,
+        "difficulty": "Easy",
+        "freqBar": 42.63478765399164,
+        "frontendQuestionId": "242",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Anagram",
+        "titleSlug": "valid-anagram",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 80.94236297355025,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3019",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Changing Keys",
+        "titleSlug": "number-of-changing-keys",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.75226311830467,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3034",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Subarrays That Match a Pattern I",
+        "titleSlug": "number-of-subarrays-that-match-a-pattern-i",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Rolling Hash",
+                "id": "VG9waWNUYWdOb2RlOjU2NTk4",
+                "slug": "rolling-hash"
+            },
+            {
+                "name": "String Matching",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+                "slug": "string-matching"
+            },
+            {
+                "name": "Hash Function",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+                "slug": "hash-function"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 32.53972995578922,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3036",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Subarrays That Match a Pattern II",
+        "titleSlug": "number-of-subarrays-that-match-a-pattern-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Rolling Hash",
+                "id": "VG9waWNUYWdOb2RlOjU2NTk4",
+                "slug": "rolling-hash"
+            },
+            {
+                "name": "String Matching",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+                "slug": "string-matching"
+            },
+            {
+                "name": "Hash Function",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+                "slug": "hash-function"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 65.33326406566576,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3042",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Prefix and Suffix Pairs I",
+        "titleSlug": "count-prefix-and-suffix-pairs-i",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            },
+            {
+                "name": "Rolling Hash",
+                "id": "VG9waWNUYWdOb2RlOjU2NTk4",
+                "slug": "rolling-hash"
+            },
+            {
+                "name": "String Matching",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+                "slug": "string-matching"
+            },
+            {
+                "name": "Hash Function",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+                "slug": "hash-function"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 24.89063342721879,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3045",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Prefix and Suffix Pairs II",
+        "titleSlug": "count-prefix-and-suffix-pairs-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            },
+            {
+                "name": "Rolling Hash",
+                "id": "VG9waWNUYWdOb2RlOjU2NTk4",
+                "slug": "rolling-hash"
+            },
+            {
+                "name": "String Matching",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+                "slug": "string-matching"
+            },
+            {
+                "name": "Hash Function",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+                "slug": "hash-function"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.71816638370119,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3069",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Distribute Elements Into Two Arrays I",
+        "titleSlug": "distribute-elements-into-two-arrays-i",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 27.690457316239787,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3072",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Distribute Elements Into Two Arrays II",
+        "titleSlug": "distribute-elements-into-two-arrays-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Indexed Tree",
+                "id": "VG9waWNUYWdOb2RlOjI4",
+                "slug": "binary-indexed-tree"
+            },
+            {
+                "name": "Segment Tree",
+                "id": "VG9waWNUYWdOb2RlOjI5",
+                "slug": "segment-tree"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,67 @@
-[{"acRate": 60.235552541090776, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "621", "isFavor": false, "paidOnly": false, "status": null, "title": "Task Scheduler", "titleSlug": "task-scheduler", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 79.61075345731999, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2176", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Equal and Divisible Pairs in an Array", "titleSlug": "count-equal-and-divisible-pairs-in-an-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 60.235552541090776,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "621",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Task Scheduler",
+        "titleSlug": "task-scheduler",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 79.61075345731999,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2176",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Equal and Divisible Pairs in an Array",
+        "titleSlug": "count-equal-and-divisible-pairs-in-an-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

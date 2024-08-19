@@ -1,1 +1,52 @@
-[{"acRate": 59.586080531066486, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1335", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Difficulty of a Job Schedule", "titleSlug": "minimum-difficulty-of-a-job-schedule", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 81.38333941891398, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1534", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Good Triplets", "titleSlug": "count-good-triplets", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Enumeration", "id": "VG9waWNUYWdOb2RlOjYxMDY2", "slug": "enumeration"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 59.586080531066486,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1335",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Difficulty of a Job Schedule",
+        "titleSlug": "minimum-difficulty-of-a-job-schedule",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 81.38333941891398,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1534",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Good Triplets",
+        "titleSlug": "count-good-triplets",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Enumeration",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+                "slug": "enumeration"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

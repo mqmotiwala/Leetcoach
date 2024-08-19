@@ -1,1 +1,447 @@
-[{"acRate": 45.21887831632569, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "717", "isFavor": false, "paidOnly": false, "status": null, "title": "1-bit and 2-bit Characters", "titleSlug": "1-bit-and-2-bit-characters", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 53.29464870985042, "difficulty": "Medium", "freqBar": 50.0, "frontendQuestionId": "795", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Subarrays with Bounded Maximum", "titleSlug": "number-of-subarrays-with-bounded-maximum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.53573332779382, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "855", "isFavor": false, "paidOnly": false, "status": null, "title": "Exam Room", "titleSlug": "exam-room", "topicTags": [{"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Ordered Set", "id": "VG9waWNUYWdOb2RlOjYxMDcw", "slug": "ordered-set"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 45.50456643809143, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "923", "isFavor": false, "paidOnly": false, "status": null, "title": "3Sum With Multiplicity", "titleSlug": "3sum-with-multiplicity", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 69.80779498131339, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1256", "isFavor": false, "paidOnly": true, "status": null, "title": "Encode Number", "titleSlug": "encode-number", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 86.55673484879291, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1281", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Subtract the Product and Sum of Digits of an Integer", "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 77.39659504194186, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1295", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Numbers with Even Number of Digits", "titleSlug": "find-numbers-with-even-number-of-digits", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 82.90119374934744, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1329", "isFavor": false, "paidOnly": false, "status": null, "title": "Sort the Matrix Diagonally", "titleSlug": "sort-the-matrix-diagonally", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 36.20206557359349, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "1354", "isFavor": false, "paidOnly": false, "status": null, "title": "Construct Target Array With Multiple Sums", "titleSlug": "construct-target-array-with-multiple-sums", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 50.927188437414785, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1865", "isFavor": false, "paidOnly": false, "status": null, "title": "Finding Pairs With a Certain Sum", "titleSlug": "finding-pairs-with-a-certain-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 73.86569356362932, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1876", "isFavor": false, "paidOnly": false, "status": null, "title": "Substrings of Size Three with Distinct Characters", "titleSlug": "substrings-of-size-three-with-distinct-characters", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 48.05123345458992, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1878", "isFavor": false, "paidOnly": false, "status": null, "title": "Get Biggest Three Rhombus Sums in a Grid", "titleSlug": "get-biggest-three-rhombus-sums-in-a-grid", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 73.51325924619275, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1935", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Number of Words You Can Type", "titleSlug": "maximum-number-of-words-you-can-type", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 40.38560316994423, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2080", "isFavor": false, "paidOnly": false, "status": null, "title": "Range Frequency Queries", "titleSlug": "range-frequency-queries", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Segment Tree", "id": "VG9waWNUYWdOb2RlOjI5", "slug": "segment-tree"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 60.19661525570701, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2269", "isFavor": false, "paidOnly": false, "status": null, "title": "Find the K-Beauty of a Number", "titleSlug": "find-the-k-beauty-of-a-number", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 45.21887831632569,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "717",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "1-bit and 2-bit Characters",
+        "titleSlug": "1-bit-and-2-bit-characters",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 53.29464870985042,
+        "difficulty": "Medium",
+        "freqBar": 50.0,
+        "frontendQuestionId": "795",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Subarrays with Bounded Maximum",
+        "titleSlug": "number-of-subarrays-with-bounded-maximum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.53573332779382,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "855",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Exam Room",
+        "titleSlug": "exam-room",
+        "topicTags": [
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Ordered Set",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcw",
+                "slug": "ordered-set"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.50456643809143,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "923",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "3Sum With Multiplicity",
+        "titleSlug": "3sum-with-multiplicity",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 69.80779498131339,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1256",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Encode Number",
+        "titleSlug": "encode-number",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 86.55673484879291,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1281",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Subtract the Product and Sum of Digits of an Integer",
+        "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 77.39659504194186,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1295",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Numbers with Even Number of Digits",
+        "titleSlug": "find-numbers-with-even-number-of-digits",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 82.90119374934744,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1329",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sort the Matrix Diagonally",
+        "titleSlug": "sort-the-matrix-diagonally",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 36.20206557359349,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "1354",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Construct Target Array With Multiple Sums",
+        "titleSlug": "construct-target-array-with-multiple-sums",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 50.927188437414785,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1865",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Finding Pairs With a Certain Sum",
+        "titleSlug": "finding-pairs-with-a-certain-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 73.86569356362932,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1876",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Substrings of Size Three with Distinct Characters",
+        "titleSlug": "substrings-of-size-three-with-distinct-characters",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.05123345458992,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1878",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Get Biggest Three Rhombus Sums in a Grid",
+        "titleSlug": "get-biggest-three-rhombus-sums-in-a-grid",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 73.51325924619275,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1935",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Number of Words You Can Type",
+        "titleSlug": "maximum-number-of-words-you-can-type",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.38560316994423,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2080",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Range Frequency Queries",
+        "titleSlug": "range-frequency-queries",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Segment Tree",
+                "id": "VG9waWNUYWdOb2RlOjI5",
+                "slug": "segment-tree"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 60.19661525570701,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2269",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find the K-Beauty of a Number",
+        "titleSlug": "find-the-k-beauty-of-a-number",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,37 @@
-[{"acRate": 35.080627248900534, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "3043", "isFavor": false, "paidOnly": false, "status": null, "title": "Find the Length of the Longest Common Prefix", "titleSlug": "find-the-length-of-the-longest-common-prefix", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 35.080627248900534,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3043",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find the Length of the Longest Common Prefix",
+        "titleSlug": "find-the-length-of-the-longest-common-prefix",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

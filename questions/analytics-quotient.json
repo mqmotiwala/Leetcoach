@@ -1,1 +1,42 @@
-[{"acRate": 50.043509216043034, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2205", "isFavor": false, "paidOnly": true, "status": null, "title": "The Number of Users That Are Eligible for Discount", "titleSlug": "the-number-of-users-that-are-eligible-for-discount", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 49.94516541765673, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2230", "isFavor": false, "paidOnly": true, "status": null, "title": "The Users That Are Eligible for Discount", "titleSlug": "the-users-that-are-eligible-for-discount", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 50.043509216043034,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2205",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "The Number of Users That Are Eligible for Discount",
+        "titleSlug": "the-number-of-users-that-are-eligible-for-discount",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.94516541765673,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2230",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "The Users That Are Eligible for Discount",
+        "titleSlug": "the-users-that-are-eligible-for-discount",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,47 @@
-[{"acRate": 40.86210239718038, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "20", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Parentheses", "titleSlug": "valid-parentheses", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 45.66284320049359, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2239", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Closest Number to Zero", "titleSlug": "find-closest-number-to-zero", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 40.86210239718038,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "20",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Parentheses",
+        "titleSlug": "valid-parentheses",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 45.66284320049359,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2239",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Closest Number to Zero",
+        "titleSlug": "find-closest-number-to-zero",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

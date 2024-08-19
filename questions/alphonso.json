@@ -1,1 +1,37 @@
-[{"acRate": 43.94031539495085, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1898", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Number of Removable Characters", "titleSlug": "maximum-number-of-removable-characters", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 43.94031539495085,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1898",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Number of Removable Characters",
+        "titleSlug": "maximum-number-of-removable-characters",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

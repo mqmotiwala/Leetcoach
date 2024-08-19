@@ -1,1 +1,57 @@
-[{"acRate": 35.29527671405625, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "91", "isFavor": false, "paidOnly": false, "status": null, "title": "Decode Ways", "titleSlug": "decode-ways", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 67.20259381109045, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1897", "isFavor": false, "paidOnly": false, "status": null, "title": "Redistribute Characters to Make All Strings Equal", "titleSlug": "redistribute-characters-to-make-all-strings-equal", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 35.29527671405625,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "91",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Decode Ways",
+        "titleSlug": "decode-ways",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 67.20259381109045,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1897",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Redistribute Characters to Make All Strings Equal",
+        "titleSlug": "redistribute-characters-to-make-all-strings-equal",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

@@ -1,1 +1,22 @@
-[{"acRate": 85.270911360799, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "2220", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Bit Flips to Convert Number", "titleSlug": "minimum-bit-flips-to-convert-number", "topicTags": [{"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 85.270911360799,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2220",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Bit Flips to Convert Number",
+        "titleSlug": "minimum-bit-flips-to-convert-number",
+        "topicTags": [
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

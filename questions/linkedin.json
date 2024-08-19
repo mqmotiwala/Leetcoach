@@ -1,1 +1,3532 @@
-[{"acRate": 53.40590188617716, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Two Sum", "titleSlug": "two-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 35.23925011166731, "difficulty": "Medium", "freqBar": 9.343521422840304, "frontendQuestionId": "3", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Substring Without Repeating Characters", "titleSlug": "longest-substring-without-repeating-characters", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 41.061699219723266, "difficulty": "Hard", "freqBar": 25.47604014224742, "frontendQuestionId": "4", "isFavor": false, "paidOnly": false, "status": null, "title": "Median of Two Sorted Arrays", "titleSlug": "median-of-two-sorted-arrays", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 34.25521541599375, "difficulty": "Medium", "freqBar": 13.58491768803064, "frontendQuestionId": "5", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Palindromic Substring", "titleSlug": "longest-palindromic-substring", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 61.368200863117636, "difficulty": "Medium", "freqBar": 32.96298105989449, "frontendQuestionId": "17", "isFavor": false, "paidOnly": false, "status": null, "title": "Letter Combinations of a Phone Number", "titleSlug": "letter-combinations-of-a-phone-number", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 40.8620926088271, "difficulty": "Easy", "freqBar": 30.923581070286797, "frontendQuestionId": "20", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Parentheses", "titleSlug": "valid-parentheses", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 64.99927111603304, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "21", "isFavor": false, "paidOnly": false, "status": null, "title": "Merge Two Sorted Lists", "titleSlug": "merge-two-sorted-lists", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 53.764666364276636, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "23", "isFavor": false, "paidOnly": false, "status": null, "title": "Merge k Sorted Lists", "titleSlug": "merge-k-sorted-lists", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Merge Sort", "id": "VG9waWNUYWdOb2RlOjYxMDUx", "slug": "merge-sort"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 40.78246463402218, "difficulty": "Medium", "freqBar": 17.904722973560734, "frontendQuestionId": "31", "isFavor": false, "paidOnly": false, "status": null, "title": "Next Permutation", "titleSlug": "next-permutation", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 41.305649240316114, "difficulty": "Medium", "freqBar": 33.61604845450603, "frontendQuestionId": "33", "isFavor": false, "paidOnly": false, "status": null, "title": "Search in Rotated Sorted Array", "titleSlug": "search-in-rotated-sorted-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 44.94580730887142, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "34", "isFavor": false, "paidOnly": false, "status": null, "title": "Find First and Last Position of Element in Sorted Array", "titleSlug": "find-first-and-last-position-of-element-in-sorted-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 72.40686153855795, "difficulty": "Medium", "freqBar": 12.311235851160232, "frontendQuestionId": "39", "isFavor": false, "paidOnly": false, "status": null, "title": "Combination Sum", "titleSlug": "combination-sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 79.0072905941766, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "46", "isFavor": false, "paidOnly": false, "status": null, "title": "Permutations", "titleSlug": "permutations", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 59.81390559043529, "difficulty": "Medium", "freqBar": 32.509262679595764, "frontendQuestionId": "47", "isFavor": false, "paidOnly": false, "status": null, "title": "Permutations II", "titleSlug": "permutations-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 35.32589768762399, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "50", "isFavor": false, "paidOnly": false, "status": null, "title": "Pow(x, n)", "titleSlug": "powx-n", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.04164916438766, "difficulty": "Medium", "freqBar": 32.22711919694578, "frontendQuestionId": "53", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Subarray", "titleSlug": "maximum-subarray", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 47.797666677081224, "difficulty": "Medium", "freqBar": 39.60666206292398, "frontendQuestionId": "56", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Merge Intervals", "titleSlug": "merge-intervals", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 42.006794365293096, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "57", "isFavor": false, "paidOnly": false, "status": null, "title": "Insert Interval", "titleSlug": "insert-interval", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 38.417966684147345, "difficulty": "Medium", "freqBar": 30.67533093312737, "frontendQuestionId": "61", "isFavor": false, "paidOnly": false, "status": null, "title": "Rotate List", "titleSlug": "rotate-list", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 20.21087953437663, "difficulty": "Hard", "freqBar": 40.07152098747739, "frontendQuestionId": "65", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Valid Number", "titleSlug": "valid-number", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 44.62254170814033, "difficulty": "Hard", "freqBar": 29.649951919848565, "frontendQuestionId": "68", "isFavor": false, "paidOnly": false, "status": null, "title": "Text Justification", "titleSlug": "text-justification", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 57.11671109333771, "difficulty": "Medium", "freqBar": 22.887411706436687, "frontendQuestionId": "72", "isFavor": false, "paidOnly": false, "status": null, "title": "Edit Distance", "titleSlug": "edit-distance", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 43.49813887578475, "difficulty": "Hard", "freqBar": 20.017499776842854, "frontendQuestionId": "76", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Window Substring", "titleSlug": "minimum-window-substring", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 50.643898658562605, "difficulty": "Easy", "freqBar": 23.608700887078292, "frontendQuestionId": "88", "isFavor": false, "paidOnly": false, "status": null, "title": "Merge Sorted Array", "titleSlug": "merge-sorted-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 33.276712929415886, "difficulty": "Medium", "freqBar": 16.453432369900646, "frontendQuestionId": "98", "isFavor": false, "paidOnly": false, "status": null, "title": "Validate Binary Search Tree", "titleSlug": "validate-binary-search-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Search Tree", "id": "VG9waWNUYWdOb2RlOjMw", "slug": "binary-search-tree"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 62.99501124456549, "difficulty": "Easy", "freqBar": 15.909790560773684, "frontendQuestionId": "100", "isFavor": false, "paidOnly": false, "status": null, "title": "Same Tree", "titleSlug": "same-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 57.268881605242484, "difficulty": "Easy", "freqBar": 18.039191692694857, "frontendQuestionId": "101", "isFavor": false, "paidOnly": false, "status": null, "title": "Symmetric Tree", "titleSlug": "symmetric-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 68.16419340015138, "difficulty": "Medium", "freqBar": 17.05323831584117, "frontendQuestionId": "102", "isFavor": false, "paidOnly": false, "status": null, "title": "Binary Tree Level Order Traversal", "titleSlug": "binary-tree-level-order-traversal", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 59.7268115124289, "difficulty": "Medium", "freqBar": 21.291322145873362, "frontendQuestionId": "103", "isFavor": false, "paidOnly": false, "status": null, "title": "Binary Tree Zigzag Level Order Traversal", "titleSlug": "binary-tree-zigzag-level-order-traversal", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 75.90978274002723, "difficulty": "Easy", "freqBar": 28.41702575207031, "frontendQuestionId": "104", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Depth of Binary Tree", "titleSlug": "maximum-depth-of-binary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 54.00280423060114, "difficulty": "Easy", "freqBar": 8.587603366774557, "frontendQuestionId": "121", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Best Time to Buy and Sell Stock", "titleSlug": "best-time-to-buy-and-sell-stock", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 40.07179958094404, "difficulty": "Hard", "freqBar": 45.81338319554394, "frontendQuestionId": "127", "isFavor": false, "paidOnly": false, "status": null, "title": "Word Ladder", "titleSlug": "word-ladder", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.022523884055715, "difficulty": "Medium", "freqBar": 30.478746364339322, "frontendQuestionId": "146", "isFavor": false, "paidOnly": false, "status": null, "title": "LRU Cache", "titleSlug": "lru-cache", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Doubly-Linked List", "id": "VG9waWNUYWdOb2RlOjYxMDU4", "slug": "doubly-linked-list"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 27.303754494344094, "difficulty": "Hard", "freqBar": 41.608125237886725, "frontendQuestionId": "149", "isFavor": false, "paidOnly": false, "status": null, "title": "Max Points on a Line", "titleSlug": "max-points-on-a-line", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Geometry", "id": "VG9waWNUYWdOb2RlOjM4", "slug": "geometry"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 52.36252515479336, "difficulty": "Medium", "freqBar": 32.81446631383799, "frontendQuestionId": "150", "isFavor": false, "paidOnly": false, "status": null, "title": "Evaluate Reverse Polish Notation", "titleSlug": "evaluate-reverse-polish-notation", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 33.87609402681192, "difficulty": "Medium", "freqBar": 40.18449325288614, "frontendQuestionId": "152", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Product Subarray", "titleSlug": "maximum-product-subarray", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 63.088340126852984, "difficulty": "Medium", "freqBar": 70.68194971765661, "frontendQuestionId": "156", "isFavor": false, "paidOnly": true, "status": null, "title": "Binary Tree Upside Down", "titleSlug": "binary-tree-upside-down", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 38.255028683465255, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "170", "isFavor": false, "paidOnly": true, "status": null, "title": "Two Sum III - Data structure design", "titleSlug": "two-sum-iii-data-structure-design", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Data Stream", "id": "VG9waWNUYWdOb2RlOjYxMDYz", "slug": "data-stream"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 72.80590965294577, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "173", "isFavor": false, "paidOnly": false, "status": null, "title": "Binary Search Tree Iterator", "titleSlug": "binary-search-tree-iterator", "topicTags": [{"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Binary Search Tree", "id": "VG9waWNUYWdOb2RlOjMw", "slug": "binary-search-tree"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}, {"name": "Iterator", "id": "VG9waWNUYWdOb2RlOjYxMDY0", "slug": "iterator"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.421170910153634, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "187", "isFavor": false, "paidOnly": false, "status": null, "title": "Repeated DNA Sequences", "titleSlug": "repeated-dna-sequences", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Rolling Hash", "id": "VG9waWNUYWdOb2RlOjU2NTk4", "slug": "rolling-hash"}, {"name": "Hash Function", "id": "VG9waWNUYWdOb2RlOjYxMDY1", "slug": "hash-function"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.37340760016941, "difficulty": "Medium", "freqBar": 15.792419799858173, "frontendQuestionId": "198", "isFavor": false, "paidOnly": false, "status": null, "title": "House Robber", "titleSlug": "house-robber", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 60.131932762919504, "difficulty": "Medium", "freqBar": 46.53574629317194, "frontendQuestionId": "200", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Islands", "titleSlug": "number-of-islands", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 45.55150077201702, "difficulty": "Easy", "freqBar": 41.38558032135156, "frontendQuestionId": "205", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Isomorphic Strings", "titleSlug": "isomorphic-strings", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 45.73128234396694, "difficulty": "Medium", "freqBar": 29.348940783647837, "frontendQuestionId": "211", "isFavor": false, "paidOnly": false, "status": null, "title": "Design Add and Search Words Data Structure", "titleSlug": "design-add-and-search-words-data-structure", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 42.38278945171347, "difficulty": "Medium", "freqBar": 22.608746897324565, "frontendQuestionId": "213", "isFavor": false, "paidOnly": false, "status": null, "title": "House Robber II", "titleSlug": "house-robber-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 67.00067450214698, "difficulty": "Medium", "freqBar": 43.488299756519496, "frontendQuestionId": "215", "isFavor": false, "paidOnly": false, "status": null, "title": "Kth Largest Element in an Array", "titleSlug": "kth-largest-element-in-an-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Quickselect", "id": "VG9waWNUYWdOb2RlOjYxMDY5", "slug": "quickselect"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 65.72100860634175, "difficulty": "Medium", "freqBar": 42.54887603896547, "frontendQuestionId": "235", "isFavor": false, "paidOnly": false, "status": null, "title": "Lowest Common Ancestor of a Binary Search Tree", "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Search Tree", "id": "VG9waWNUYWdOb2RlOjMw", "slug": "binary-search-tree"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 63.450075207179125, "difficulty": "Medium", "freqBar": 34.06407302068074, "frontendQuestionId": "236", "isFavor": false, "paidOnly": false, "status": null, "title": "Lowest Common Ancestor of a Binary Tree", "titleSlug": "lowest-common-ancestor-of-a-binary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 66.56028898325873, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "238", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Product of Array Except Self", "titleSlug": "product-of-array-except-self", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 65.43834369328904, "difficulty": "Easy", "freqBar": 53.934516511075614, "frontendQuestionId": "243", "isFavor": false, "paidOnly": true, "status": null, "title": "Shortest Word Distance", "titleSlug": "shortest-word-distance", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 61.34953117730094, "difficulty": "Medium", "freqBar": 74.7908024257417, "frontendQuestionId": "244", "isFavor": false, "paidOnly": true, "status": null, "title": "Shortest Word Distance II", "titleSlug": "shortest-word-distance-ii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 58.57381333070373, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "245", "isFavor": false, "paidOnly": true, "status": null, "title": "Shortest Word Distance III", "titleSlug": "shortest-word-distance-iii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 49.678227360308284, "difficulty": "Medium", "freqBar": 67.52106526024144, "frontendQuestionId": "254", "isFavor": false, "paidOnly": true, "status": null, "title": "Factor Combinations", "titleSlug": "factor-combinations", "topicTags": [{"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 62.78404726735598, "difficulty": "Medium", "freqBar": 62.778033483282755, "frontendQuestionId": "256", "isFavor": false, "paidOnly": true, "status": null, "title": "Paint House", "titleSlug": "paint-house", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 48.41084017251316, "difficulty": "Medium", "freqBar": 52.31601500555971, "frontendQuestionId": "261", "isFavor": false, "paidOnly": true, "status": null, "title": "Graph Valid Tree", "titleSlug": "graph-valid-tree", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 59.383033419023135, "difficulty": "Hard", "freqBar": 76.74991627600743, "frontendQuestionId": "272", "isFavor": false, "paidOnly": true, "status": null, "title": "Closest Binary Search Tree Value II", "titleSlug": "closest-binary-search-tree-value-ii", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Search Tree", "id": "VG9waWNUYWdOb2RlOjMw", "slug": "binary-search-tree"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.498256126922804, "difficulty": "Medium", "freqBar": 63.413767935928156, "frontendQuestionId": "277", "isFavor": false, "paidOnly": true, "status": null, "title": "Find the Celebrity", "titleSlug": "find-the-celebrity", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}, {"name": "Interactive", "id": "VG9waWNUYWdOb2RlOjYxMDU5", "slug": "interactive"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 57.31433815286459, "difficulty": "Hard", "freqBar": 43.61527046837244, "frontendQuestionId": "297", "isFavor": false, "paidOnly": false, "status": null, "title": "Serialize and Deserialize Binary Tree", "titleSlug": "serialize-and-deserialize-binary-tree", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 68.21660151920824, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "311", "isFavor": false, "paidOnly": true, "status": null, "title": "Sparse Matrix Multiplication", "titleSlug": "sparse-matrix-multiplication", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 63.130842749122785, "difficulty": "Medium", "freqBar": 35.371181033609105, "frontendQuestionId": "323", "isFavor": false, "paidOnly": true, "status": null, "title": "Number of Connected Components in an Undirected Graph", "titleSlug": "number-of-connected-components-in-an-undirected-graph", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 84.067094329285, "difficulty": "Medium", "freqBar": 67.91679201099215, "frontendQuestionId": "339", "isFavor": false, "paidOnly": true, "status": null, "title": "Nested List Weight Sum", "titleSlug": "nested-list-weight-sum", "topicTags": [{"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 64.69272093154076, "difficulty": "Medium", "freqBar": 52.54272089932302, "frontendQuestionId": "341", "isFavor": false, "paidOnly": false, "status": null, "title": "Flatten Nested List Iterator", "titleSlug": "flatten-nested-list-iterator", "topicTags": [{"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Queue", "id": "VG9waWNUYWdOb2RlOjM0", "slug": "queue"}, {"name": "Iterator", "id": "VG9waWNUYWdOb2RlOjYxMDY0", "slug": "iterator"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 75.02614129833066, "difficulty": "Easy", "freqBar": 36.012225475695914, "frontendQuestionId": "349", "isFavor": false, "paidOnly": false, "status": null, "title": "Intersection of Two Arrays", "titleSlug": "intersection-of-two-arrays", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 56.00037138323374, "difficulty": "Medium", "freqBar": 68.1693001046509, "frontendQuestionId": "360", "isFavor": false, "paidOnly": true, "status": null, "title": "Sort Transformed Array", "titleSlug": "sort-transformed-array", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 64.82318829770372, "difficulty": "Medium", "freqBar": 92.77065774239942, "frontendQuestionId": "364", "isFavor": false, "paidOnly": true, "status": null, "title": "Nested List Weight Sum II", "titleSlug": "nested-list-weight-sum-ii", "topicTags": [{"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 80.68579230733425, "difficulty": "Medium", "freqBar": 79.66078739294409, "frontendQuestionId": "366", "isFavor": false, "paidOnly": true, "status": null, "title": "Find Leaves of Binary Tree", "titleSlug": "find-leaves-of-binary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 43.8073257324917, "difficulty": "Easy", "freqBar": 38.477681912452965, "frontendQuestionId": "367", "isFavor": false, "paidOnly": false, "status": null, "title": "Valid Perfect Square", "titleSlug": "valid-perfect-square", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 54.58275087813783, "difficulty": "Medium", "freqBar": 43.06809430481653, "frontendQuestionId": "380", "isFavor": false, "paidOnly": false, "status": null, "title": "Insert Delete GetRandom O(1)", "titleSlug": "insert-delete-getrandom-o1", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Randomized", "id": "VG9waWNUYWdOb2RlOjYxMDc1", "slug": "randomized"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 72.749834815102, "difficulty": "Easy", "freqBar": 24.21909030390655, "frontendQuestionId": "412", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Fizz Buzz", "titleSlug": "fizz-buzz", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 37.02399411316391, "difficulty": "Hard", "freqBar": 89.31791771129755, "frontendQuestionId": "432", "isFavor": false, "paidOnly": false, "status": null, "title": "All O`one Data Structure", "titleSlug": "all-oone-data-structure", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Doubly-Linked List", "id": "VG9waWNUYWdOb2RlOjYxMDU4", "slug": "doubly-linked-list"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 29.754907194167796, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "464", "isFavor": false, "paidOnly": false, "status": null, "title": "Can I Win", "titleSlug": "can-i-win", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Memoization", "id": "VG9waWNUYWdOb2RlOjMz", "slug": "memoization"}, {"name": "Game Theory", "id": "VG9waWNUYWdOb2RlOjYxMDcz", "slug": "game-theory"}, {"name": "Bitmask", "id": "VG9waWNUYWdOb2RlOjYxMDc4", "slug": "bitmask"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 65.68849430971817, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "515", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Largest Value in Each Tree Row", "titleSlug": "find-largest-value-in-each-tree-row", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 63.034491119597504, "difficulty": "Medium", "freqBar": 44.621613844523324, "frontendQuestionId": "516", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Palindromic Subsequence", "titleSlug": "longest-palindromic-subsequence", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.10707145013754, "difficulty": "Medium", "freqBar": 33.8078371225268, "frontendQuestionId": "528", "isFavor": false, "paidOnly": false, "status": null, "title": "Random Pick with Weight", "titleSlug": "random-pick-with-weight", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}, {"name": "Randomized", "id": "VG9waWNUYWdOb2RlOjYxMDc1", "slug": "randomized"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 61.19009642160299, "difficulty": "Easy", "freqBar": 17.652991468742133, "frontendQuestionId": "543", "isFavor": false, "paidOnly": false, "status": null, "title": "Diameter of Binary Tree", "titleSlug": "diameter-of-binary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 28.96869613153459, "difficulty": "Easy", "freqBar": 36.89572886116608, "frontendQuestionId": "605", "isFavor": false, "paidOnly": false, "status": null, "title": "Can Place Flowers", "titleSlug": "can-place-flowers", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.35877535509245, "difficulty": "Medium", "freqBar": 57.5707264685377, "frontendQuestionId": "611", "isFavor": false, "paidOnly": false, "status": null, "title": "Valid Triangle Number", "titleSlug": "valid-triangle-number", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 36.60100519474104, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "633", "isFavor": false, "paidOnly": false, "status": null, "title": "Sum of Square Numbers", "titleSlug": "sum-of-square-numbers", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 62.32764191135401, "difficulty": "Medium", "freqBar": 61.00660353810711, "frontendQuestionId": "636", "isFavor": false, "paidOnly": false, "status": null, "title": "Exclusive Time of Functions", "titleSlug": "exclusive-time-of-functions", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 70.49994457193817, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "647", "isFavor": false, "paidOnly": false, "status": null, "title": "Palindromic Substrings", "titleSlug": "palindromic-substrings", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.68703043105681, "difficulty": "Medium", "freqBar": 34.91587294427748, "frontendQuestionId": "658", "isFavor": false, "paidOnly": false, "status": null, "title": "Find K Closest Elements", "titleSlug": "find-k-closest-elements", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 44.66801622174228, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "671", "isFavor": false, "paidOnly": false, "status": null, "title": "Second Minimum Node In a Binary Tree", "titleSlug": "second-minimum-node-in-a-binary-tree", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 72.38636029677498, "difficulty": "Medium", "freqBar": 26.560959642216815, "frontendQuestionId": "695", "isFavor": false, "paidOnly": false, "status": null, "title": "Max Area of Island", "titleSlug": "max-area-of-island", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}, {"name": "Union Find", "id": "VG9waWNUYWdOb2RlOjIz", "slug": "union-find"}, {"name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 38.18798098859843, "difficulty": "Medium", "freqBar": 47.248247511962546, "frontendQuestionId": "698", "isFavor": false, "paidOnly": false, "status": null, "title": "Partition to K Equal Sum Subsets", "titleSlug": "partition-to-k-equal-sum-subsets", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}, {"name": "Memoization", "id": "VG9waWNUYWdOb2RlOjMz", "slug": "memoization"}, {"name": "Bitmask", "id": "VG9waWNUYWdOb2RlOjYxMDc4", "slug": "bitmask"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 45.06520726595249, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "716", "isFavor": false, "paidOnly": true, "status": null, "title": "Max Stack", "titleSlug": "max-stack", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Doubly-Linked List", "id": "VG9waWNUYWdOb2RlOjYxMDU4", "slug": "doubly-linked-list"}, {"name": "Ordered Set", "id": "VG9waWNUYWdOb2RlOjYxMDcw", "slug": "ordered-set"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 58.35414813150452, "difficulty": "Easy", "freqBar": 48.29939034247551, "frontendQuestionId": "724", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Find Pivot Index", "titleSlug": "find-pivot-index", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 45.757649344341914, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "730", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Different Palindromic Subsequences", "titleSlug": "count-different-palindromic-subsequences", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 52.586056789396665, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "744", "isFavor": false, "paidOnly": false, "status": null, "title": "Find Smallest Letter Greater Than Target", "titleSlug": "find-smallest-letter-greater-than-target", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 79.95706417243721, "difficulty": "Medium", "freqBar": 41.34897983316829, "frontendQuestionId": "763", "isFavor": false, "paidOnly": false, "status": null, "title": "Partition Labels", "titleSlug": "partition-labels", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 69.53392377492243, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "946", "isFavor": false, "paidOnly": false, "status": null, "title": "Validate Stack Sequences", "titleSlug": "validate-stack-sequences", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 63.77084129442287, "difficulty": "Medium", "freqBar": 29.87140252574436, "frontendQuestionId": "1004", "isFavor": false, "paidOnly": false, "status": null, "title": "Max Consecutive Ones III", "titleSlug": "max-consecutive-ones-iii", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 55.85924337036925, "difficulty": "Medium", "freqBar": 67.49982048475479, "frontendQuestionId": "1041", "isFavor": false, "paidOnly": false, "status": null, "title": "Robot Bounded In Circle", "titleSlug": "robot-bounded-in-circle", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 65.54163251438429, "difficulty": "Easy", "freqBar": 43.19283649466999, "frontendQuestionId": "1046", "isFavor": false, "paidOnly": false, "status": null, "title": "Last Stone Weight", "titleSlug": "last-stone-weight", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 61.14112172588919, "difficulty": "Medium", "freqBar": 41.98530869131382, "frontendQuestionId": "1081", "isFavor": false, "paidOnly": false, "status": null, "title": "Smallest Subsequence of Distinct Characters", "titleSlug": "smallest-subsequence-of-distinct-characters", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Monotonic Stack", "id": "VG9waWNUYWdOb2RlOjYxMDU0", "slug": "monotonic-stack"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 44.60845603855351, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1107", "isFavor": false, "paidOnly": true, "status": null, "title": "New Users Daily Count", "titleSlug": "new-users-daily-count", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 56.60515766417325, "difficulty": "Medium", "freqBar": 76.95037473429451, "frontendQuestionId": "1117", "isFavor": false, "paidOnly": false, "status": null, "title": "Building H2O", "titleSlug": "building-h2o", "topicTags": [{"name": "Concurrency", "id": "VG9waWNUYWdOb2RlOjYxMDQ1", "slug": "concurrency"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 46.939734963124025, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1127", "isFavor": false, "paidOnly": true, "status": null, "title": "User Purchase Platform", "titleSlug": "user-purchase-platform", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 76.10648639002319, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1148", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Article Views I", "titleSlug": "article-views-i", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 47.05460303322695, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1149", "isFavor": false, "paidOnly": true, "status": null, "title": "Article Views II", "titleSlug": "article-views-ii", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 72.44097819648549, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1188", "isFavor": false, "paidOnly": true, "status": null, "title": "Design Bounded Blocking Queue", "titleSlug": "design-bounded-blocking-queue", "topicTags": [{"name": "Concurrency", "id": "VG9waWNUYWdOb2RlOjYxMDQ1", "slug": "concurrency"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 40.66079485737408, "difficulty": "Medium", "freqBar": 56.58370404853758, "frontendQuestionId": "1197", "isFavor": false, "paidOnly": true, "status": null, "title": "Minimum Knight Moves", "titleSlug": "minimum-knight-moves", "topicTags": [{"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.71439466959731, "difficulty": "Medium", "freqBar": 48.304180745149075, "frontendQuestionId": "1328", "isFavor": false, "paidOnly": false, "status": null, "title": "Break a Palindrome", "titleSlug": "break-a-palindrome", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 68.75008116356081, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1343", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold", "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sliding Window", "id": "VG9waWNUYWdOb2RlOjU1ODIx", "slug": "sliding-window"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 83.16895793959456, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1588", "isFavor": false, "paidOnly": false, "status": null, "title": "Sum of All Odd Length Subarrays", "titleSlug": "sum-of-all-odd-length-subarrays", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Prefix Sum", "id": "VG9waWNUYWdOb2RlOjYxMDY4", "slug": "prefix-sum"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 71.76728141549418, "difficulty": "Easy", "freqBar": 40.787805835950444, "frontendQuestionId": "1598", "isFavor": false, "paidOnly": false, "status": null, "title": "Crawler Log Folder", "titleSlug": "crawler-log-folder", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Stack", "id": "VG9waWNUYWdOb2RlOjE1", "slug": "stack"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 64.84247374562428, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1644", "isFavor": false, "paidOnly": true, "status": null, "title": "Lowest Common Ancestor of a Binary Tree II", "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii", "topicTags": [{"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Depth-First Search", "id": "VG9waWNUYWdOb2RlOjIx", "slug": "depth-first-search"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 80.1498306055256, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1650", "isFavor": false, "paidOnly": true, "status": null, "title": "Lowest Common Ancestor of a Binary Tree III", "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 57.67498299350996, "difficulty": "Medium", "freqBar": 88.24839075971866, "frontendQuestionId": "1797", "isFavor": false, "paidOnly": false, "status": null, "title": "Design Authentication Manager", "titleSlug": "design-authentication-manager", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Doubly-Linked List", "id": "VG9waWNUYWdOb2RlOjYxMDU4", "slug": "doubly-linked-list"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 75.52826861002961, "difficulty": "Easy", "freqBar": 55.103232777177126, "frontendQuestionId": "1974", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Time to Type Word Using Special Typewriter", "titleSlug": "minimum-time-to-type-word-using-special-typewriter", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 29.017411420918055, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2040", "isFavor": false, "paidOnly": false, "status": null, "title": "Kth Smallest Product of Two Sorted Arrays", "titleSlug": "kth-smallest-product-of-two-sorted-arrays", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 81.8163637051571, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2196", "isFavor": false, "paidOnly": false, "status": null, "title": "Create Binary Tree From Descriptions", "titleSlug": "create-binary-tree-from-descriptions", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree"}, {"name": "Binary Tree", "id": "VG9waWNUYWdOb2RlOjYxMDU3", "slug": "binary-tree"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 35.304717285332224, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2276", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Integers in Intervals", "titleSlug": "count-integers-in-intervals", "topicTags": [{"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}, {"name": "Segment Tree", "id": "VG9waWNUYWdOb2RlOjI5", "slug": "segment-tree"}, {"name": "Ordered Set", "id": "VG9waWNUYWdOb2RlOjYxMDcw", "slug": "ordered-set"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 56.27799593503956, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2344", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Deletions to Make Array Divisible", "titleSlug": "minimum-deletions-to-make-array-divisible", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Number Theory", "id": "VG9waWNUYWdOb2RlOjYxMDY3", "slug": "number-theory"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 63.92668703138017, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2431", "isFavor": false, "paidOnly": true, "status": null, "title": "Maximize Total Tastiness of Purchased Fruits", "titleSlug": "maximize-total-tastiness-of-purchased-fruits", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 40.45381039013544, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2472", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Number of Non-overlapping Palindrome Substrings", "titleSlug": "maximum-number-of-non-overlapping-palindrome-substrings", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 43.858159040237815, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2532", "isFavor": false, "paidOnly": false, "status": null, "title": "Time to Cross a Bridge", "titleSlug": "time-to-cross-a-bridge", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Heap (Priority Queue)", "id": "VG9waWNUYWdOb2RlOjYxMDUw", "slug": "heap-priority-queue"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 53.40590188617716,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 35.23925011166731,
+        "difficulty": "Medium",
+        "freqBar": 9.343521422840304,
+        "frontendQuestionId": "3",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 41.061699219723266,
+        "difficulty": "Hard",
+        "freqBar": 25.47604014224742,
+        "frontendQuestionId": "4",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Median of Two Sorted Arrays",
+        "titleSlug": "median-of-two-sorted-arrays",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 34.25521541599375,
+        "difficulty": "Medium",
+        "freqBar": 13.58491768803064,
+        "frontendQuestionId": "5",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Palindromic Substring",
+        "titleSlug": "longest-palindromic-substring",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 61.368200863117636,
+        "difficulty": "Medium",
+        "freqBar": 32.96298105989449,
+        "frontendQuestionId": "17",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Letter Combinations of a Phone Number",
+        "titleSlug": "letter-combinations-of-a-phone-number",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.8620926088271,
+        "difficulty": "Easy",
+        "freqBar": 30.923581070286797,
+        "frontendQuestionId": "20",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Parentheses",
+        "titleSlug": "valid-parentheses",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 64.99927111603304,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "21",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 53.764666364276636,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "23",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Merge k Sorted Lists",
+        "titleSlug": "merge-k-sorted-lists",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Merge Sort",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUx",
+                "slug": "merge-sort"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 40.78246463402218,
+        "difficulty": "Medium",
+        "freqBar": 17.904722973560734,
+        "frontendQuestionId": "31",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Next Permutation",
+        "titleSlug": "next-permutation",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 41.305649240316114,
+        "difficulty": "Medium",
+        "freqBar": 33.61604845450603,
+        "frontendQuestionId": "33",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Search in Rotated Sorted Array",
+        "titleSlug": "search-in-rotated-sorted-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.94580730887142,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "34",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.40686153855795,
+        "difficulty": "Medium",
+        "freqBar": 12.311235851160232,
+        "frontendQuestionId": "39",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Combination Sum",
+        "titleSlug": "combination-sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 79.0072905941766,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "46",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Permutations",
+        "titleSlug": "permutations",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 59.81390559043529,
+        "difficulty": "Medium",
+        "freqBar": 32.509262679595764,
+        "frontendQuestionId": "47",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Permutations II",
+        "titleSlug": "permutations-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 35.32589768762399,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "50",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Pow(x, n)",
+        "titleSlug": "powx-n",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.04164916438766,
+        "difficulty": "Medium",
+        "freqBar": 32.22711919694578,
+        "frontendQuestionId": "53",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Subarray",
+        "titleSlug": "maximum-subarray",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 47.797666677081224,
+        "difficulty": "Medium",
+        "freqBar": 39.60666206292398,
+        "frontendQuestionId": "56",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 42.006794365293096,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "57",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Insert Interval",
+        "titleSlug": "insert-interval",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 38.417966684147345,
+        "difficulty": "Medium",
+        "freqBar": 30.67533093312737,
+        "frontendQuestionId": "61",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Rotate List",
+        "titleSlug": "rotate-list",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 20.21087953437663,
+        "difficulty": "Hard",
+        "freqBar": 40.07152098747739,
+        "frontendQuestionId": "65",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Valid Number",
+        "titleSlug": "valid-number",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.62254170814033,
+        "difficulty": "Hard",
+        "freqBar": 29.649951919848565,
+        "frontendQuestionId": "68",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Text Justification",
+        "titleSlug": "text-justification",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 57.11671109333771,
+        "difficulty": "Medium",
+        "freqBar": 22.887411706436687,
+        "frontendQuestionId": "72",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Edit Distance",
+        "titleSlug": "edit-distance",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.49813887578475,
+        "difficulty": "Hard",
+        "freqBar": 20.017499776842854,
+        "frontendQuestionId": "76",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 50.643898658562605,
+        "difficulty": "Easy",
+        "freqBar": 23.608700887078292,
+        "frontendQuestionId": "88",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Merge Sorted Array",
+        "titleSlug": "merge-sorted-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 33.276712929415886,
+        "difficulty": "Medium",
+        "freqBar": 16.453432369900646,
+        "frontendQuestionId": "98",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Validate Binary Search Tree",
+        "titleSlug": "validate-binary-search-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Search Tree",
+                "id": "VG9waWNUYWdOb2RlOjMw",
+                "slug": "binary-search-tree"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 62.99501124456549,
+        "difficulty": "Easy",
+        "freqBar": 15.909790560773684,
+        "frontendQuestionId": "100",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Same Tree",
+        "titleSlug": "same-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 57.268881605242484,
+        "difficulty": "Easy",
+        "freqBar": 18.039191692694857,
+        "frontendQuestionId": "101",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Symmetric Tree",
+        "titleSlug": "symmetric-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 68.16419340015138,
+        "difficulty": "Medium",
+        "freqBar": 17.05323831584117,
+        "frontendQuestionId": "102",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Binary Tree Level Order Traversal",
+        "titleSlug": "binary-tree-level-order-traversal",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 59.7268115124289,
+        "difficulty": "Medium",
+        "freqBar": 21.291322145873362,
+        "frontendQuestionId": "103",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "titleSlug": "binary-tree-zigzag-level-order-traversal",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 75.90978274002723,
+        "difficulty": "Easy",
+        "freqBar": 28.41702575207031,
+        "frontendQuestionId": "104",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Depth of Binary Tree",
+        "titleSlug": "maximum-depth-of-binary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 54.00280423060114,
+        "difficulty": "Easy",
+        "freqBar": 8.587603366774557,
+        "frontendQuestionId": "121",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Best Time to Buy and Sell Stock",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 40.07179958094404,
+        "difficulty": "Hard",
+        "freqBar": 45.81338319554394,
+        "frontendQuestionId": "127",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Word Ladder",
+        "titleSlug": "word-ladder",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.022523884055715,
+        "difficulty": "Medium",
+        "freqBar": 30.478746364339322,
+        "frontendQuestionId": "146",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+                "slug": "doubly-linked-list"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 27.303754494344094,
+        "difficulty": "Hard",
+        "freqBar": 41.608125237886725,
+        "frontendQuestionId": "149",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Max Points on a Line",
+        "titleSlug": "max-points-on-a-line",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Geometry",
+                "id": "VG9waWNUYWdOb2RlOjM4",
+                "slug": "geometry"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 52.36252515479336,
+        "difficulty": "Medium",
+        "freqBar": 32.81446631383799,
+        "frontendQuestionId": "150",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Evaluate Reverse Polish Notation",
+        "titleSlug": "evaluate-reverse-polish-notation",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 33.87609402681192,
+        "difficulty": "Medium",
+        "freqBar": 40.18449325288614,
+        "frontendQuestionId": "152",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Product Subarray",
+        "titleSlug": "maximum-product-subarray",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.088340126852984,
+        "difficulty": "Medium",
+        "freqBar": 70.68194971765661,
+        "frontendQuestionId": "156",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Binary Tree Upside Down",
+        "titleSlug": "binary-tree-upside-down",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 38.255028683465255,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "170",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Two Sum III - Data structure design",
+        "titleSlug": "two-sum-iii-data-structure-design",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Data Stream",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYz",
+                "slug": "data-stream"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.80590965294577,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "173",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Binary Search Tree Iterator",
+        "titleSlug": "binary-search-tree-iterator",
+        "topicTags": [
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Binary Search Tree",
+                "id": "VG9waWNUYWdOb2RlOjMw",
+                "slug": "binary-search-tree"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            },
+            {
+                "name": "Iterator",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY0",
+                "slug": "iterator"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.421170910153634,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "187",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Repeated DNA Sequences",
+        "titleSlug": "repeated-dna-sequences",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Rolling Hash",
+                "id": "VG9waWNUYWdOb2RlOjU2NTk4",
+                "slug": "rolling-hash"
+            },
+            {
+                "name": "Hash Function",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+                "slug": "hash-function"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.37340760016941,
+        "difficulty": "Medium",
+        "freqBar": 15.792419799858173,
+        "frontendQuestionId": "198",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "House Robber",
+        "titleSlug": "house-robber",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 60.131932762919504,
+        "difficulty": "Medium",
+        "freqBar": 46.53574629317194,
+        "frontendQuestionId": "200",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 45.55150077201702,
+        "difficulty": "Easy",
+        "freqBar": 41.38558032135156,
+        "frontendQuestionId": "205",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Isomorphic Strings",
+        "titleSlug": "isomorphic-strings",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.73128234396694,
+        "difficulty": "Medium",
+        "freqBar": 29.348940783647837,
+        "frontendQuestionId": "211",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Design Add and Search Words Data Structure",
+        "titleSlug": "design-add-and-search-words-data-structure",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Trie",
+                "id": "VG9waWNUYWdOb2RlOjI3",
+                "slug": "trie"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 42.38278945171347,
+        "difficulty": "Medium",
+        "freqBar": 22.608746897324565,
+        "frontendQuestionId": "213",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "House Robber II",
+        "titleSlug": "house-robber-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 67.00067450214698,
+        "difficulty": "Medium",
+        "freqBar": 43.488299756519496,
+        "frontendQuestionId": "215",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Quickselect",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY5",
+                "slug": "quickselect"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 65.72100860634175,
+        "difficulty": "Medium",
+        "freqBar": 42.54887603896547,
+        "frontendQuestionId": "235",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Search Tree",
+                "id": "VG9waWNUYWdOb2RlOjMw",
+                "slug": "binary-search-tree"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.450075207179125,
+        "difficulty": "Medium",
+        "freqBar": 34.06407302068074,
+        "frontendQuestionId": "236",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 66.56028898325873,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "238",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 65.43834369328904,
+        "difficulty": "Easy",
+        "freqBar": 53.934516511075614,
+        "frontendQuestionId": "243",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Shortest Word Distance",
+        "titleSlug": "shortest-word-distance",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 61.34953117730094,
+        "difficulty": "Medium",
+        "freqBar": 74.7908024257417,
+        "frontendQuestionId": "244",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Shortest Word Distance II",
+        "titleSlug": "shortest-word-distance-ii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 58.57381333070373,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "245",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Shortest Word Distance III",
+        "titleSlug": "shortest-word-distance-iii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 49.678227360308284,
+        "difficulty": "Medium",
+        "freqBar": 67.52106526024144,
+        "frontendQuestionId": "254",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Factor Combinations",
+        "titleSlug": "factor-combinations",
+        "topicTags": [
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 62.78404726735598,
+        "difficulty": "Medium",
+        "freqBar": 62.778033483282755,
+        "frontendQuestionId": "256",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Paint House",
+        "titleSlug": "paint-house",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 48.41084017251316,
+        "difficulty": "Medium",
+        "freqBar": 52.31601500555971,
+        "frontendQuestionId": "261",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Graph Valid Tree",
+        "titleSlug": "graph-valid-tree",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 59.383033419023135,
+        "difficulty": "Hard",
+        "freqBar": 76.74991627600743,
+        "frontendQuestionId": "272",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Closest Binary Search Tree Value II",
+        "titleSlug": "closest-binary-search-tree-value-ii",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Search Tree",
+                "id": "VG9waWNUYWdOb2RlOjMw",
+                "slug": "binary-search-tree"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.498256126922804,
+        "difficulty": "Medium",
+        "freqBar": 63.413767935928156,
+        "frontendQuestionId": "277",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Find the Celebrity",
+        "titleSlug": "find-the-celebrity",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            },
+            {
+                "name": "Interactive",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU5",
+                "slug": "interactive"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 57.31433815286459,
+        "difficulty": "Hard",
+        "freqBar": 43.61527046837244,
+        "frontendQuestionId": "297",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Serialize and Deserialize Binary Tree",
+        "titleSlug": "serialize-and-deserialize-binary-tree",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 68.21660151920824,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "311",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Sparse Matrix Multiplication",
+        "titleSlug": "sparse-matrix-multiplication",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.130842749122785,
+        "difficulty": "Medium",
+        "freqBar": 35.371181033609105,
+        "frontendQuestionId": "323",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Number of Connected Components in an Undirected Graph",
+        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Graph",
+                "id": "VG9waWNUYWdOb2RlOjI0",
+                "slug": "graph"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 84.067094329285,
+        "difficulty": "Medium",
+        "freqBar": 67.91679201099215,
+        "frontendQuestionId": "339",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Nested List Weight Sum",
+        "titleSlug": "nested-list-weight-sum",
+        "topicTags": [
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 64.69272093154076,
+        "difficulty": "Medium",
+        "freqBar": 52.54272089932302,
+        "frontendQuestionId": "341",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Flatten Nested List Iterator",
+        "titleSlug": "flatten-nested-list-iterator",
+        "topicTags": [
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Queue",
+                "id": "VG9waWNUYWdOb2RlOjM0",
+                "slug": "queue"
+            },
+            {
+                "name": "Iterator",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY0",
+                "slug": "iterator"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 75.02614129833066,
+        "difficulty": "Easy",
+        "freqBar": 36.012225475695914,
+        "frontendQuestionId": "349",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Intersection of Two Arrays",
+        "titleSlug": "intersection-of-two-arrays",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 56.00037138323374,
+        "difficulty": "Medium",
+        "freqBar": 68.1693001046509,
+        "frontendQuestionId": "360",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Sort Transformed Array",
+        "titleSlug": "sort-transformed-array",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 64.82318829770372,
+        "difficulty": "Medium",
+        "freqBar": 92.77065774239942,
+        "frontendQuestionId": "364",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Nested List Weight Sum II",
+        "titleSlug": "nested-list-weight-sum-ii",
+        "topicTags": [
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 80.68579230733425,
+        "difficulty": "Medium",
+        "freqBar": 79.66078739294409,
+        "frontendQuestionId": "366",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Find Leaves of Binary Tree",
+        "titleSlug": "find-leaves-of-binary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 43.8073257324917,
+        "difficulty": "Easy",
+        "freqBar": 38.477681912452965,
+        "frontendQuestionId": "367",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Valid Perfect Square",
+        "titleSlug": "valid-perfect-square",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 54.58275087813783,
+        "difficulty": "Medium",
+        "freqBar": 43.06809430481653,
+        "frontendQuestionId": "380",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Insert Delete GetRandom O(1)",
+        "titleSlug": "insert-delete-getrandom-o1",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Randomized",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc1",
+                "slug": "randomized"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.749834815102,
+        "difficulty": "Easy",
+        "freqBar": 24.21909030390655,
+        "frontendQuestionId": "412",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Fizz Buzz",
+        "titleSlug": "fizz-buzz",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 37.02399411316391,
+        "difficulty": "Hard",
+        "freqBar": 89.31791771129755,
+        "frontendQuestionId": "432",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "All O`one Data Structure",
+        "titleSlug": "all-oone-data-structure",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+                "slug": "doubly-linked-list"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 29.754907194167796,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "464",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Can I Win",
+        "titleSlug": "can-i-win",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Memoization",
+                "id": "VG9waWNUYWdOb2RlOjMz",
+                "slug": "memoization"
+            },
+            {
+                "name": "Game Theory",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcz",
+                "slug": "game-theory"
+            },
+            {
+                "name": "Bitmask",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc4",
+                "slug": "bitmask"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 65.68849430971817,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "515",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Largest Value in Each Tree Row",
+        "titleSlug": "find-largest-value-in-each-tree-row",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.034491119597504,
+        "difficulty": "Medium",
+        "freqBar": 44.621613844523324,
+        "frontendQuestionId": "516",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Palindromic Subsequence",
+        "titleSlug": "longest-palindromic-subsequence",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.10707145013754,
+        "difficulty": "Medium",
+        "freqBar": 33.8078371225268,
+        "frontendQuestionId": "528",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Random Pick with Weight",
+        "titleSlug": "random-pick-with-weight",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            },
+            {
+                "name": "Randomized",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc1",
+                "slug": "randomized"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 61.19009642160299,
+        "difficulty": "Easy",
+        "freqBar": 17.652991468742133,
+        "frontendQuestionId": "543",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Diameter of Binary Tree",
+        "titleSlug": "diameter-of-binary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 28.96869613153459,
+        "difficulty": "Easy",
+        "freqBar": 36.89572886116608,
+        "frontendQuestionId": "605",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Can Place Flowers",
+        "titleSlug": "can-place-flowers",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.35877535509245,
+        "difficulty": "Medium",
+        "freqBar": 57.5707264685377,
+        "frontendQuestionId": "611",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Valid Triangle Number",
+        "titleSlug": "valid-triangle-number",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 36.60100519474104,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "633",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sum of Square Numbers",
+        "titleSlug": "sum-of-square-numbers",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 62.32764191135401,
+        "difficulty": "Medium",
+        "freqBar": 61.00660353810711,
+        "frontendQuestionId": "636",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Exclusive Time of Functions",
+        "titleSlug": "exclusive-time-of-functions",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 70.49994457193817,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "647",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Palindromic Substrings",
+        "titleSlug": "palindromic-substrings",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.68703043105681,
+        "difficulty": "Medium",
+        "freqBar": 34.91587294427748,
+        "frontendQuestionId": "658",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find K Closest Elements",
+        "titleSlug": "find-k-closest-elements",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.66801622174228,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "671",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Second Minimum Node In a Binary Tree",
+        "titleSlug": "second-minimum-node-in-a-binary-tree",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.38636029677498,
+        "difficulty": "Medium",
+        "freqBar": 26.560959642216815,
+        "frontendQuestionId": "695",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Max Area of Island",
+        "titleSlug": "max-area-of-island",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "id": "VG9waWNUYWdOb2RlOjIz",
+                "slug": "union-find"
+            },
+            {
+                "name": "Matrix",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                "slug": "matrix"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 38.18798098859843,
+        "difficulty": "Medium",
+        "freqBar": 47.248247511962546,
+        "frontendQuestionId": "698",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Partition to K Equal Sum Subsets",
+        "titleSlug": "partition-to-k-equal-sum-subsets",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Memoization",
+                "id": "VG9waWNUYWdOb2RlOjMz",
+                "slug": "memoization"
+            },
+            {
+                "name": "Bitmask",
+                "id": "VG9waWNUYWdOb2RlOjYxMDc4",
+                "slug": "bitmask"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.06520726595249,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "716",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Max Stack",
+        "titleSlug": "max-stack",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+                "slug": "doubly-linked-list"
+            },
+            {
+                "name": "Ordered Set",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcw",
+                "slug": "ordered-set"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 58.35414813150452,
+        "difficulty": "Easy",
+        "freqBar": 48.29939034247551,
+        "frontendQuestionId": "724",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 45.757649344341914,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "730",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Different Palindromic Subsequences",
+        "titleSlug": "count-different-palindromic-subsequences",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 52.586056789396665,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "744",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Find Smallest Letter Greater Than Target",
+        "titleSlug": "find-smallest-letter-greater-than-target",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 79.95706417243721,
+        "difficulty": "Medium",
+        "freqBar": 41.34897983316829,
+        "frontendQuestionId": "763",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Partition Labels",
+        "titleSlug": "partition-labels",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 69.53392377492243,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "946",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Validate Stack Sequences",
+        "titleSlug": "validate-stack-sequences",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.77084129442287,
+        "difficulty": "Medium",
+        "freqBar": 29.87140252574436,
+        "frontendQuestionId": "1004",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 55.85924337036925,
+        "difficulty": "Medium",
+        "freqBar": 67.49982048475479,
+        "frontendQuestionId": "1041",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Robot Bounded In Circle",
+        "titleSlug": "robot-bounded-in-circle",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 65.54163251438429,
+        "difficulty": "Easy",
+        "freqBar": 43.19283649466999,
+        "frontendQuestionId": "1046",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Last Stone Weight",
+        "titleSlug": "last-stone-weight",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 61.14112172588919,
+        "difficulty": "Medium",
+        "freqBar": 41.98530869131382,
+        "frontendQuestionId": "1081",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Smallest Subsequence of Distinct Characters",
+        "titleSlug": "smallest-subsequence-of-distinct-characters",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Monotonic Stack",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                "slug": "monotonic-stack"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.60845603855351,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1107",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "New Users Daily Count",
+        "titleSlug": "new-users-daily-count",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 56.60515766417325,
+        "difficulty": "Medium",
+        "freqBar": 76.95037473429451,
+        "frontendQuestionId": "1117",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Building H2O",
+        "titleSlug": "building-h2o",
+        "topicTags": [
+            {
+                "name": "Concurrency",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ1",
+                "slug": "concurrency"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 46.939734963124025,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1127",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "User Purchase Platform",
+        "titleSlug": "user-purchase-platform",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 76.10648639002319,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1148",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Article Views I",
+        "titleSlug": "article-views-i",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 47.05460303322695,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1149",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Article Views II",
+        "titleSlug": "article-views-ii",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 72.44097819648549,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1188",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Design Bounded Blocking Queue",
+        "titleSlug": "design-bounded-blocking-queue",
+        "topicTags": [
+            {
+                "name": "Concurrency",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ1",
+                "slug": "concurrency"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.66079485737408,
+        "difficulty": "Medium",
+        "freqBar": 56.58370404853758,
+        "frontendQuestionId": "1197",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Minimum Knight Moves",
+        "titleSlug": "minimum-knight-moves",
+        "topicTags": [
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.71439466959731,
+        "difficulty": "Medium",
+        "freqBar": 48.304180745149075,
+        "frontendQuestionId": "1328",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Break a Palindrome",
+        "titleSlug": "break-a-palindrome",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 68.75008116356081,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1343",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sliding Window",
+                "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                "slug": "sliding-window"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 83.16895793959456,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1588",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Sum of All Odd Length Subarrays",
+        "titleSlug": "sum-of-all-odd-length-subarrays",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Prefix Sum",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                "slug": "prefix-sum"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 71.76728141549418,
+        "difficulty": "Easy",
+        "freqBar": 40.787805835950444,
+        "frontendQuestionId": "1598",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Crawler Log Folder",
+        "titleSlug": "crawler-log-folder",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Stack",
+                "id": "VG9waWNUYWdOb2RlOjE1",
+                "slug": "stack"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 64.84247374562428,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1644",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Lowest Common Ancestor of a Binary Tree II",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+        "topicTags": [
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIx",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 80.1498306055256,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1650",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Lowest Common Ancestor of a Binary Tree III",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 57.67498299350996,
+        "difficulty": "Medium",
+        "freqBar": 88.24839075971866,
+        "frontendQuestionId": "1797",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Design Authentication Manager",
+        "titleSlug": "design-authentication-manager",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+                "slug": "doubly-linked-list"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 75.52826861002961,
+        "difficulty": "Easy",
+        "freqBar": 55.103232777177126,
+        "frontendQuestionId": "1974",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Time to Type Word Using Special Typewriter",
+        "titleSlug": "minimum-time-to-type-word-using-special-typewriter",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 29.017411420918055,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2040",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Kth Smallest Product of Two Sorted Arrays",
+        "titleSlug": "kth-smallest-product-of-two-sorted-arrays",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 81.8163637051571,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2196",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Create Binary Tree From Descriptions",
+        "titleSlug": "create-binary-tree-from-descriptions",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Tree",
+                "id": "VG9waWNUYWdOb2RlOjIw",
+                "slug": "tree"
+            },
+            {
+                "name": "Binary Tree",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+                "slug": "binary-tree"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 35.304717285332224,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2276",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Integers in Intervals",
+        "titleSlug": "count-integers-in-intervals",
+        "topicTags": [
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            },
+            {
+                "name": "Segment Tree",
+                "id": "VG9waWNUYWdOb2RlOjI5",
+                "slug": "segment-tree"
+            },
+            {
+                "name": "Ordered Set",
+                "id": "VG9waWNUYWdOb2RlOjYxMDcw",
+                "slug": "ordered-set"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 56.27799593503956,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2344",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Deletions to Make Array Divisible",
+        "titleSlug": "minimum-deletions-to-make-array-divisible",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Number Theory",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+                "slug": "number-theory"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 63.92668703138017,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2431",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Maximize Total Tastiness of Purchased Fruits",
+        "titleSlug": "maximize-total-tastiness-of-purchased-fruits",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.45381039013544,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2472",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+        "titleSlug": "maximum-number-of-non-overlapping-palindrome-substrings",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 43.858159040237815,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2532",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Time to Cross a Bridge",
+        "titleSlug": "time-to-cross-a-bridge",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

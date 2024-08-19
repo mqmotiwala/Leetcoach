@@ -1,1 +1,102 @@
-[{"acRate": 36.57076177372455, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "18", "isFavor": false, "paidOnly": false, "status": null, "title": "4Sum", "titleSlug": "4sum", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 69.68480259750191, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1200", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Absolute Difference", "titleSlug": "minimum-absolute-difference", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 51.95045398497926, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "1228", "isFavor": false, "paidOnly": true, "status": null, "title": "Missing Number In Arithmetic Progression", "titleSlug": "missing-number-in-arithmetic-progression", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 63.46017824303296, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "1747", "isFavor": false, "paidOnly": true, "status": "ac", "title": "Leetflex Banned Accounts", "titleSlug": "leetflex-banned-accounts", "topicTags": [{"name": "Database", "id": "VG9waWNUYWdOb2RlOjYxMDQz", "slug": "database"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 36.57076177372455,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "18",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "4Sum",
+        "titleSlug": "4sum",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 69.68480259750191,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1200",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Absolute Difference",
+        "titleSlug": "minimum-absolute-difference",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 51.95045398497926,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1228",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": null,
+        "title": "Missing Number In Arithmetic Progression",
+        "titleSlug": "missing-number-in-arithmetic-progression",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 63.46017824303296,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1747",
+        "isFavor": false,
+        "paidOnly": true,
+        "status": "ac",
+        "title": "Leetflex Banned Accounts",
+        "titleSlug": "leetflex-banned-accounts",
+        "topicTags": [
+            {
+                "name": "Database",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                "slug": "database"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

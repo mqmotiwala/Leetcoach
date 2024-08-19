@@ -1,1 +1,92 @@
-[{"acRate": 27.191046555506702, "difficulty": "Hard", "freqBar": 10.118788148029562, "frontendQuestionId": "126", "isFavor": false, "paidOnly": false, "status": null, "title": "Word Ladder II", "titleSlug": "word-ladder-ii", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Backtracking", "id": "VG9waWNUYWdOb2RlOjE0", "slug": "backtracking"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 40.07179958094404, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "127", "isFavor": false, "paidOnly": false, "status": null, "title": "Word Ladder", "titleSlug": "word-ladder", "topicTags": [{"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Breadth-First Search", "id": "VG9waWNUYWdOb2RlOjIy", "slug": "breadth-first-search"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 72.05537828952721, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "191", "isFavor": false, "paidOnly": false, "status": null, "title": "Number of 1 Bits", "titleSlug": "number-of-1-bits", "topicTags": [{"name": "Divide and Conquer", "id": "VG9waWNUYWdOb2RlOjEy", "slug": "divide-and-conquer"}, {"name": "Bit Manipulation", "id": "VG9waWNUYWdOb2RlOjE5", "slug": "bit-manipulation"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 27.191046555506702,
+        "difficulty": "Hard",
+        "freqBar": 10.118788148029562,
+        "frontendQuestionId": "126",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Word Ladder II",
+        "titleSlug": "word-ladder-ii",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Backtracking",
+                "id": "VG9waWNUYWdOb2RlOjE0",
+                "slug": "backtracking"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 40.07179958094404,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "127",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Word Ladder",
+        "titleSlug": "word-ladder",
+        "topicTags": [
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Breadth-First Search",
+                "id": "VG9waWNUYWdOb2RlOjIy",
+                "slug": "breadth-first-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 72.05537828952721,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "191",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "topicTags": [
+            {
+                "name": "Divide and Conquer",
+                "id": "VG9waWNUYWdOb2RlOjEy",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Bit Manipulation",
+                "id": "VG9waWNUYWdOb2RlOjE5",
+                "slug": "bit-manipulation"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

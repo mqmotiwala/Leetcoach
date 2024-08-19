@@ -1,1 +1,72 @@
-[{"acRate": 64.99925715588132, "difficulty": "Easy", "freqBar": 0.0, "frontendQuestionId": "21", "isFavor": false, "paidOnly": false, "status": null, "title": "Merge Two Sorted Lists", "titleSlug": "merge-two-sorted-lists", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Recursion", "id": "VG9waWNUYWdOb2RlOjMx", "slug": "recursion"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 42.00682051470567, "difficulty": "Medium", "freqBar": 37.15617196313867, "frontendQuestionId": "57", "isFavor": false, "paidOnly": false, "status": null, "title": "Insert Interval", "titleSlug": "insert-interval", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 46.15999905299988, "difficulty": "Hard", "freqBar": 100.0, "frontendQuestionId": "403", "isFavor": false, "paidOnly": false, "status": null, "title": "Frog Jump", "titleSlug": "frog-jump", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 64.99925715588132,
+        "difficulty": "Easy",
+        "freqBar": 0.0,
+        "frontendQuestionId": "21",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Recursion",
+                "id": "VG9waWNUYWdOb2RlOjMx",
+                "slug": "recursion"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 42.00682051470567,
+        "difficulty": "Medium",
+        "freqBar": 37.15617196313867,
+        "frontendQuestionId": "57",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Insert Interval",
+        "titleSlug": "insert-interval",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 46.15999905299988,
+        "difficulty": "Hard",
+        "freqBar": 100.0,
+        "frontendQuestionId": "403",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Frog Jump",
+        "titleSlug": "frog-jump",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

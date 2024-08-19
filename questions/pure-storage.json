@@ -1,1 +1,142 @@
-[{"acRate": 34.25521541599375, "difficulty": "Medium", "freqBar": 20.851716062960225, "frontendQuestionId": "5", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Palindromic Substring", "titleSlug": "longest-palindromic-substring", "topicTags": [{"name": "Two Pointers", "id": "VG9waWNUYWdOb2RlOjk=", "slug": "two-pointers"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": true}, {"acRate": 56.04594874227724, "difficulty": "Medium", "freqBar": 28.798615231628087, "frontendQuestionId": "300", "isFavor": false, "paidOnly": false, "status": null, "title": "Longest Increasing Subsequence", "titleSlug": "longest-increasing-subsequence", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 44.09948521536949, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "593", "isFavor": false, "paidOnly": false, "status": "notac", "title": "Valid Square", "titleSlug": "valid-square", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Geometry", "id": "VG9waWNUYWdOb2RlOjM4", "slug": "geometry"}], "hasSolution": true, "hasVideoSolution": false}, {"acRate": 61.77521993763152, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1206", "isFavor": false, "paidOnly": false, "status": null, "title": "Design Skiplist", "titleSlug": "design-skiplist", "topicTags": [{"name": "Linked List", "id": "VG9waWNUYWdOb2RlOjc=", "slug": "linked-list"}, {"name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 38.914942780185676, "difficulty": "Easy", "freqBar": 64.39930761581404, "frontendQuestionId": "1668", "isFavor": false, "paidOnly": false, "status": null, "title": "Maximum Repeating Substring", "titleSlug": "maximum-repeating-substring", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "String Matching", "id": "VG9waWNUYWdOb2RlOjYxMDUy", "slug": "string-matching"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 34.25521541599375,
+        "difficulty": "Medium",
+        "freqBar": 20.851716062960225,
+        "frontendQuestionId": "5",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Palindromic Substring",
+        "titleSlug": "longest-palindromic-substring",
+        "topicTags": [
+            {
+                "name": "Two Pointers",
+                "id": "VG9waWNUYWdOb2RlOjk=",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": true
+    },
+    {
+        "acRate": 56.04594874227724,
+        "difficulty": "Medium",
+        "freqBar": 28.798615231628087,
+        "frontendQuestionId": "300",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Longest Increasing Subsequence",
+        "titleSlug": "longest-increasing-subsequence",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 44.09948521536949,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "593",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "notac",
+        "title": "Valid Square",
+        "titleSlug": "valid-square",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Geometry",
+                "id": "VG9waWNUYWdOb2RlOjM4",
+                "slug": "geometry"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 61.77521993763152,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1206",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Design Skiplist",
+        "titleSlug": "design-skiplist",
+        "topicTags": [
+            {
+                "name": "Linked List",
+                "id": "VG9waWNUYWdOb2RlOjc=",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Design",
+                "id": "VG9waWNUYWdOb2RlOjI1",
+                "slug": "design"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 38.914942780185676,
+        "difficulty": "Easy",
+        "freqBar": 64.39930761581404,
+        "frontendQuestionId": "1668",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Maximum Repeating Substring",
+        "titleSlug": "maximum-repeating-substring",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "String Matching",
+                "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+                "slug": "string-matching"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

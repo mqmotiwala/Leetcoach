@@ -1,1 +1,117 @@
-[{"acRate": 40.50503798747414, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "874", "isFavor": false, "paidOnly": false, "status": null, "title": "Walking Robot Simulation", "titleSlug": "walking-robot-simulation", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 71.05449467079167, "difficulty": "Easy", "freqBar": 100.0, "frontendQuestionId": "2085", "isFavor": false, "paidOnly": false, "status": null, "title": "Count Common Words With One Occurrence", "titleSlug": "count-common-words-with-one-occurrence", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Hash Table", "id": "VG9waWNUYWdOb2RlOjY=", "slug": "hash-table"}, {"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Counting", "id": "VG9waWNUYWdOb2RlOjYxMDYy", "slug": "counting"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 87.9097389486532, "difficulty": "Easy", "freqBar": 50.0, "frontendQuestionId": "2235", "isFavor": false, "paidOnly": false, "status": "ac", "title": "Add Two Integers", "titleSlug": "add-two-integers", "topicTags": [{"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 26.29511253162871, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "2809", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Time to Make Array Sum At Most x", "titleSlug": "minimum-time-to-make-array-sum-at-most-x", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}, {"name": "Sorting", "id": "VG9waWNUYWdOb2RlOjYxMDQ5", "slug": "sorting"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 40.50503798747414,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "874",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Walking Robot Simulation",
+        "titleSlug": "walking-robot-simulation",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 71.05449467079167,
+        "difficulty": "Easy",
+        "freqBar": 100.0,
+        "frontendQuestionId": "2085",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Count Common Words With One Occurrence",
+        "titleSlug": "count-common-words-with-one-occurrence",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "id": "VG9waWNUYWdOb2RlOjY=",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Counting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+                "slug": "counting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 87.9097389486532,
+        "difficulty": "Easy",
+        "freqBar": 50.0,
+        "frontendQuestionId": "2235",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": "ac",
+        "title": "Add Two Integers",
+        "titleSlug": "add-two-integers",
+        "topicTags": [
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 26.29511253162871,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2809",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Time to Make Array Sum At Most x",
+        "titleSlug": "minimum-time-to-make-array-sum-at-most-x",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Sorting",
+                "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                "slug": "sorting"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

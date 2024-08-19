@@ -1,1 +1,27 @@
-[{"acRate": 71.17706813720623, "difficulty": "Hard", "freqBar": 0.0, "frontendQuestionId": "1312", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Insertion Steps to Make a String Palindrome", "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome", "topicTags": [{"name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string"}, {"name": "Dynamic Programming", "id": "VG9waWNUYWdOb2RlOjEz", "slug": "dynamic-programming"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 71.17706813720623,
+        "difficulty": "Hard",
+        "freqBar": 0.0,
+        "frontendQuestionId": "1312",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome",
+        "topicTags": [
+            {
+                "name": "String",
+                "id": "VG9waWNUYWdOb2RlOjEw",
+                "slug": "string"
+            },
+            {
+                "name": "Dynamic Programming",
+                "id": "VG9waWNUYWdOb2RlOjEz",
+                "slug": "dynamic-programming"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]

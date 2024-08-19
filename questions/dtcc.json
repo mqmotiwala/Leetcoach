@@ -1,1 +1,37 @@
-[{"acRate": 35.3539754959758, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "3012", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimize Length of Array Using Operations", "titleSlug": "minimize-length-of-array-using-operations", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math"}, {"name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy"}, {"name": "Number Theory", "id": "VG9waWNUYWdOb2RlOjYxMDY3", "slug": "number-theory"}], "hasSolution": false, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 35.3539754959758,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "3012",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimize Length of Array Using Operations",
+        "titleSlug": "minimize-length-of-array-using-operations",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "id": "VG9waWNUYWdOb2RlOjg=",
+                "slug": "math"
+            },
+            {
+                "name": "Greedy",
+                "id": "VG9waWNUYWdOb2RlOjE3",
+                "slug": "greedy"
+            },
+            {
+                "name": "Number Theory",
+                "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+                "slug": "number-theory"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    }
+]

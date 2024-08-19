@@ -1,1 +1,52 @@
-[{"acRate": 79.79325584211163, "difficulty": "Medium", "freqBar": 100.0, "frontendQuestionId": "2079", "isFavor": false, "paidOnly": false, "status": null, "title": "Watering Plants", "titleSlug": "watering-plants", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Simulation", "id": "VG9waWNUYWdOb2RlOjYxMDU1", "slug": "simulation"}], "hasSolution": false, "hasVideoSolution": false}, {"acRate": 38.781826366729774, "difficulty": "Medium", "freqBar": 0.0, "frontendQuestionId": "2187", "isFavor": false, "paidOnly": false, "status": null, "title": "Minimum Time to Complete Trips", "titleSlug": "minimum-time-to-complete-trips", "topicTags": [{"name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array"}, {"name": "Binary Search", "id": "VG9waWNUYWdOb2RlOjEx", "slug": "binary-search"}], "hasSolution": true, "hasVideoSolution": false}]
+[
+    {
+        "acRate": 79.79325584211163,
+        "difficulty": "Medium",
+        "freqBar": 100.0,
+        "frontendQuestionId": "2079",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Watering Plants",
+        "titleSlug": "watering-plants",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Simulation",
+                "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                "slug": "simulation"
+            }
+        ],
+        "hasSolution": false,
+        "hasVideoSolution": false
+    },
+    {
+        "acRate": 38.781826366729774,
+        "difficulty": "Medium",
+        "freqBar": 0.0,
+        "frontendQuestionId": "2187",
+        "isFavor": false,
+        "paidOnly": false,
+        "status": null,
+        "title": "Minimum Time to Complete Trips",
+        "titleSlug": "minimum-time-to-complete-trips",
+        "topicTags": [
+            {
+                "name": "Array",
+                "id": "VG9waWNUYWdOb2RlOjU=",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "id": "VG9waWNUYWdOb2RlOjEx",
+                "slug": "binary-search"
+            }
+        ],
+        "hasSolution": true,
+        "hasVideoSolution": false
+    }
+]
