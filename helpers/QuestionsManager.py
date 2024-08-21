@@ -180,7 +180,7 @@ class QuestionsManager:
         with open(self.solveProgressFileName, "w") as f:
             yaml.dump(self.solveProgress, f, default_flow_style=False, indent=4)
 
-    def markQuestionAsSolved(self, questionID):
+    def markQuestionAsSolved(self, questionID=None):
         """
         sets the solved attribute of Question class instance as True.
 
@@ -194,7 +194,7 @@ class QuestionsManager:
             self.solveProgress['solvedQuestions'] = list(set(self.solveProgress['solvedQuestions']))
             self.saveSolveProgress()
 
-    def markQuestionAsSkipped(self, questionID, skipReason):
+    def markQuestionAsSkipped(self, questionID=None, skipReason='skipReasonNotProvided'):
         """
         used to set the skipped and skipReason attributes of Question class.
 
